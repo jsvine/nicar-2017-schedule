@@ -1,36 +1,38 @@
-# NICAR 2015 Schedule CSV & JSON
+# NICAR 2017 Schedule as Structured Data
 
-This repository contains the [NICAR 2015 conference schedule](http://www.ire.org/events-and-training/event/1494/) as structured data, plus the underlying Python scraper.
+This repository contains the [NICAR 2017 conference schedule](https://ire.org/events-and-training/event/2702/) as JSON and CSV files, plus the underlying Python scraper.
+
+*Going to NICAR? You might be interested in the [data, analyses, and tools we've open-sourced at BuzzFeed News](https://github.com/buzzfeednews/everything) and the [BuzzFeed Open Lab](https://github.com/buzzfeed-openlab). You might also be interested in [Data Is Plural](https://tinyletter.com/data-is-plural), my weekly newsletter of useful/curious datasets.*
 
 ## Get the data
 
-*Last updated March 7, 2015 @ 8am  Eastern*
+*Last updated Feb. 12, 2017 @ 3:30pm  Eastern*
 
-- [CSV schedule](output/nicar-2015-schedule.csv?raw=true)
-- [JSON schedule](output/nicar-2015-schedule.json?raw=true)
+- [JSON schedule](schedule/nicar-2017-schedule.json?raw=true)
+- [CSV schedule](schedule/nicar-2017-schedule.csv?raw=true)
 
 ## Run the scraper yourself
 
 To download the script and install the necessary Python libraries, execute the following commands in your terminal:
 
 ```bash
-mkvirtualenv nicar-2015 # Optional, recommended
-git clone https://github.com/jsvine/nicar-2015-schedule.git
-cd nicar-2015-schedule
+mkvirtualenv nicar-2017 # Optional, recommended
+git clone https://github.com/jsvine/nicar-2017-schedule.git
+cd nicar-2017-schedule
 pip install -r requirements.txt
 ```
 
 To run the scraper, execute this command:
 
 ```bash
-make schedules
+make schedule
 ```
 
 *Or*, more verbosely:
 
 ```bash
-python scripts/scrape.py --json > output/nicar-2015-schedule.json
-python scripts/scrape.py --csv > output/nicar-2015-schedule.csv
+python ./scripts/scrape.py > schedule/nicar-2017-schedule.json
+in2csv schedule/nicar-2017-schedule.json > schedule/nicar-2017-schedule.csv
 ```
 
 ## Look beneath the hood

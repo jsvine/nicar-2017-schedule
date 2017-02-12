@@ -1,11 +1,6 @@
-BASEPATH=output/nicar-2015-schedule
-OUTPUTS=$(BASEPATH).json $(BASEPATH).csv
-.PHONY: $(OUTPUTS)
+BASEPATH=schedule/nicar-2017-schedule
+.PHONY: schedule 
 
-schedules: $(OUTPUTS)
-
-$(BASEPATH).json: scripts/scrape.py
-	./scripts/scrape.py --format json > $@
-
-$(BASEPATH).csv: scripts/scrape.py
-	./scripts/scrape.py --format csv > $@
+schedule: scripts/scrape.py
+	./scripts/scrape.py > $(BASEPATH).json
+	in2csv $(BASEPATH).json > $(BASEPATH).csv
