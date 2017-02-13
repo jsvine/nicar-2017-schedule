@@ -89,11 +89,20 @@ def parse_day(el, date):
     sessions_data = [ parse_session(s, date) for s in session_els ]
     return sessions_data
 
+def fix_encoding(string):
+    """
+    Fix embedded utf-8 bytestrings.
+    Solution via http://bit.ly/1DEpdmQ
+    """
+    pat = r"[\xc2-\xf4][\x80-\xbf]+"
+    fix = lambda m: m.group(0).encode("latin-1").decode("utf-8")
+    return re.sub(pat, fix, string.decode("utf-8"))
+
 def get_sessions():
     """
     Fetch and parse the schedule HTML from the NICAR webpage.
     """
-    html = requests.get(SCHEDULE_URL).content
+    html = fix_encoding(requests.get(SCHEDULE_URL).content)
     dom = lxml.html.fromstring(html)
     day_els = dom.cssselect("ul.listview.pane")
     days_zipped = zip(day_els, DATES)

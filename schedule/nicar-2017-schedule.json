@@ -119,7 +119,7 @@
     {
         "title": "PyCAR (beginner) *pre-registered attendees only",
         "type": "Hands-on",
-        "description": "Ben Welsh, James Gordon and Cheryl Phillips teach you how to conduct and publish a data analysis with the Python programming language, its pandas toolkit and a Jupyter Notebook.\n\nThe 6-hour, hands-on tutorial will guide you through an investigation of money in politics using data from the California Civic Data Coalition. You will learn just enough Python to do damage with the powerful pandas data analysis library, the most popular open-source library for working with large data files. You will also learn how to record, remix and republish your analysis using the Jupyter Notebook, a browser-based tool for writing code that is emerging as the standard for sharing reproducible research in the sciences. And most importantly, you will see how these tools can increase the speed and veracity of your journalism.\n\nAlthough the class is geared toward beginners, we'll assume that you're comfortable with databases and SQL and that you've hopefully seen a command line since the days of DOS. Preregistration is required and seating is limited. Laptops will be provided for the training.\u00e2\u0080\u00a8\u00e2\u0080\u00a8\n\nWorkshop prerequisites: Attendees should have familiarity with the command line and are comfortable with databases and SQL.\n\nWorkshop times are Thursday 9 a.m. - 12:30 p.m. continuing Friday morning from 9 a.m. - 12:30 p.m. (Note: Registration for this session reserves your seat for both days of this workshop. \u00a0Attendees are expected to attend both session to complete this workshop).\n\nNOTE: Registration is required for this session. Click here to sign up.",
+        "description": "Ben Welsh, James Gordon and Cheryl Phillips teach you how to conduct and publish a data analysis with the Python programming language, its pandas toolkit and a Jupyter Notebook.\n\nThe 6-hour, hands-on tutorial will guide you through an investigation of money in politics using data from the California Civic Data Coalition. You will learn just enough Python to do damage with the powerful pandas data analysis library, the most popular open-source library for working with large data files. You will also learn how to record, remix and republish your analysis using the Jupyter Notebook, a browser-based tool for writing code that is emerging as the standard for sharing reproducible research in the sciences. And most importantly, you will see how these tools can increase the speed and veracity of your journalism.\n\nAlthough the class is geared toward beginners, we'll assume that you're comfortable with databases and SQL and that you've hopefully seen a command line since the days of DOS. Preregistration is required and seating is limited. Laptops will be provided for the training.\n\nWorkshop prerequisites: Attendees should have familiarity with the command line and are comfortable with databases and SQL.\n\nWorkshop times are Thursday 9 a.m. - 12:30 p.m. continuing Friday morning from 9 a.m. - 12:30 p.m. (Note: Registration for this session reserves your seat for both days of this workshop. \u00a0Attendees are expected to attend both session to complete this workshop).\n\nNOTE: Registration is required for this session. Click here to sign up.",
         "speakers": "Heather Billings, Adriana Homolova, Tom Meagher, Roberto Rocha, Eric Sagara, Chris Keller, Elaine Wong",
         "date": "2017-03-02",
         "time_start": "09:00",
@@ -130,7 +130,7 @@
         "event_url": "https://ire.org/events-and-training/event/2702/2878/"
     },
     {
-        "title": "What the hell is R? And all the other questions you\u00e2\u0080\u0099re afraid to ask",
+        "title": "What the hell is R? And all the other questions you\u2019re afraid to ask",
         "type": "Panel",
         "description": "",
         "speakers": "Tisha Thompson, Sisi Wei",
@@ -821,7 +821,7 @@
     {
         "title": "Scraping data without coding",
         "type": "Hands-on",
-        "description": "Scraping is a \u00e2\u0080\u008btechnical word for a traditional idea: getting ahold of information, whether or not your sources want you to. In this case, the information is data and the sources are websites. We'll go over some out-of-the-box tools for scraping data, plus some DIY techniques that often work even better.",
+        "description": "Scraping is a \u200btechnical word for a traditional idea: getting ahold of information, whether or not your sources want you to. In this case, the information is data and the sources are websites. We'll go over some out-of-the-box tools for scraping data, plus some DIY techniques that often work even better.",
         "speakers": "Hilary Niles, Samantha Sunne",
         "date": "2017-03-02",
         "time_start": "15:30",
@@ -1016,7 +1016,7 @@
     {
         "title": "First Python Notebook: Rapid data analysis in the newsroom (beginner/intermediate) *pre-registered attendees only",
         "type": "Hands-on",
-        "description": "\u00e2\u0080\u00a8Ben Welsh, James Gordon and Cheryl Phillips teach you how to conduct and publish a data analysis with the Python programming language, its pandas toolkit and a Jupyter Notebook.\u00e2\u0080\u00a8\u00e2\u0080\u00a8\n\nThe 6-hour, hands-on tutorial will guide you through an investigation of money in politics using data from the California Civic Data Coalition. You will learn just enough Python to do damage with the powerful pandas data analysis library, the most popular open-source library for working with large data files. You will also learn how to record, remix and republish your analysis using the Jupyter Notebook, a browser-based tool for writing code that is emerging as the standard for sharing reproducible research in the sciences. And most importantly, you will see how tools can increase the speed and veracity of your journalism.\u00e2\u0080\u00a8\u00e2\u0080\u00a8\n\nPreregistration is required and seating is limited. Laptops will be provided for the training.\u00e2\u0080\u00a8\u00e2\u0080\u00a8\n\nWorkshop prerequisites: If you've tried Python once or twice, have good attitude and know how to take a few code crashes in stride, you are qualified for this class.\n\nNOTE: Registration is required for this session. Click here to sign up.",
+        "description": "Ben Welsh, James Gordon and Cheryl Phillips teach you how to conduct and publish a data analysis with the Python programming language, its pandas toolkit and a Jupyter Notebook.\n\nThe 6-hour, hands-on tutorial will guide you through an investigation of money in politics using data from the California Civic Data Coalition. You will learn just enough Python to do damage with the powerful pandas data analysis library, the most popular open-source library for working with large data files. You will also learn how to record, remix and republish your analysis using the Jupyter Notebook, a browser-based tool for writing code that is emerging as the standard for sharing reproducible research in the sciences. And most importantly, you will see how tools can increase the speed and veracity of your journalism.\n\nPreregistration is required and seating is limited. Laptops will be provided for the training.\n\nWorkshop prerequisites: If you've tried Python once or twice, have good attitude and know how to take a few code crashes in stride, you are qualified for this class.\n\nNOTE: Registration is required for this session. Click here to sign up.",
         "speakers": "James Gordon, Cheryl Phillips, Ben Welsh",
         "date": "2017-03-03",
         "time_start": "09:00",
@@ -1027,7 +1027,7 @@
         "event_url": "https://ire.org/events-and-training/event/2702/2879/"
     },
     {
-        "title": "How to use polls and rankings \u00e2\u0080\u0093 and how to tell the good from bad",
+        "title": "How to use polls and rankings \u2013 and how to tell the good from bad",
         "type": "Panel",
         "description": "Quick survey: how many of you are inundated with press releases about polls, rankings, and best-of lists? You know your readers love that kind of thing, but you don\u2019t want to mislead them with bad data or overstating the results. Maybe the election has you questioning its value in general. We\u2019ll give you the tools you need to quickly sort out what\u2019s worth covering. But let\u2019s go further: You\u2019ll see some real-life examples of even more interesting ways to incorporate this data into your story-telling and reporting.",
         "speakers": "Matt Carmichael, Chris Jackson, Peter Gade",
@@ -1510,7 +1510,7 @@
     {
         "title": "Scraping data without coding (repeat session)",
         "type": "Hands-on",
-        "description": "Scraping is a \u00e2\u0080\u008btechnical word for a traditional idea: getting ahold of information, whether or not your sources want you to. In this case, the information is data and the sources are websites. We'll go over some out-of-the-box tools for scraping data, plus some DIY techniques that often work even better.",
+        "description": "Scraping is a \u200btechnical word for a traditional idea: getting ahold of information, whether or not your sources want you to. In this case, the information is data and the sources are websites. We'll go over some out-of-the-box tools for scraping data, plus some DIY techniques that often work even better.",
         "speakers": "Sydney Lupkin",
         "date": "2017-03-03",
         "time_start": "14:15",
@@ -1549,7 +1549,7 @@
     {
         "title": "Digging into data for stories: A crash course (beginner) *pre-registered attendees only",
         "type": "Hands-on",
-        "description": "Kickstart your data skills with IRE's original mini-boot camp. This series of hands-on classes will introduce you to spreadsheets and databases with IRE's proven techniques. IRE's experienced trainers will walk you through sorting, calculating and interviewing data. You'll come away with a solid base for using data analysis in your own newsroom. In addition, we'll provide you with our boot camp materials to help keep you on track long after you leave the conference.\n\nPreregistration is required and seating is limited. Laptops will be provided for the training.\u00e2\u0080\u00a8\n\nWorkshop prerequisites: There are no prerequisites for this workshop and beginners are welcome. This workshop is good for those wanting to get started analyzing data for stories\n\nWorkshop times are Friday, March 3, 2:15pm - 4:30pm; Saturday, March 4, 2:15pm - 5:45pm; Sunday, March 5, 9:00am - 12:30pm (Note: Registration for this session reserves your seat for all days of this workshop and attendees are expected to attend all sessions to complete the workshop.)\n\n**Speakers are IRE/NICAR Staff\n\nNOTE: Registration is required for this session. Click here to sign up.",
+        "description": "Kickstart your data skills with IRE's original mini-boot camp. This series of hands-on classes will introduce you to spreadsheets and databases with IRE's proven techniques. IRE's experienced trainers will walk you through sorting, calculating and interviewing data. You'll come away with a solid base for using data analysis in your own newsroom. In addition, we'll provide you with our boot camp materials to help keep you on track long after you leave the conference.\n\nPreregistration is required and seating is limited. Laptops will be provided for the training.\n\nWorkshop prerequisites: There are no prerequisites for this workshop and beginners are welcome. This workshop is good for those wanting to get started analyzing data for stories\n\nWorkshop times are Friday, March 3, 2:15pm - 4:30pm; Saturday, March 4, 2:15pm - 5:45pm; Sunday, March 5, 9:00am - 12:30pm (Note: Registration for this session reserves your seat for all days of this workshop and attendees are expected to attend all sessions to complete the workshop.)\n\n**Speakers are IRE/NICAR Staff\n\nNOTE: Registration is required for this session. Click here to sign up.",
         "speakers": "TBA",
         "date": "2017-03-03",
         "time_start": "14:15",
@@ -1861,7 +1861,7 @@
     {
         "title": "Intro to R (intermediate) *pre-registered attendees only",
         "type": "Hands-on",
-        "description": "\u00e2\u0080\u00a8Add statistical heft to your reporting by using R, a free, powerful open-source programming language. By the end of this two-hour session, you will be able to take raw data, import it into R, and start your analysis. Topics will include basic data importing, working with directories, reading in data, installing packages, creating simple visualizations, and how to clean, explore and sort your data. We'll also talk about how to find help when you're stuck.\n\nPreregistration is required and seating is limited. Laptops will be provided for the training.\u00e2\u0080\u00a8 \u00e2\u0080\u00a8\n\nWorkshop prerequisites: This session will be most helpful if you\u2019re comfortable working with data and you\u2019re ready to take your skills to the next level.\u00e2\u0080\u00a8\n\nNOTE: Registration is required for this session. Click here to sign up.",
+        "description": "Add statistical heft to your reporting by using R, a free, powerful open-source programming language. By the end of this two-hour session, you will be able to take raw data, import it into R, and start your analysis. Topics will include basic data importing, working with directories, reading in data, installing packages, creating simple visualizations, and how to clean, explore and sort your data. We'll also talk about how to find help when you're stuck.\n\nPreregistration is required and seating is limited. Laptops will be provided for the training.\n\nWorkshop prerequisites: This session will be most helpful if you\u2019re comfortable working with data and you\u2019re ready to take your skills to the next level.\n\nNOTE: Registration is required for this session. Click here to sign up.",
         "speakers": "Charles Minshew",
         "date": "2017-03-04",
         "time_start": "09:00",
