@@ -41,7 +41,7 @@ D. Basic version control (git)
 
 E. How to get help
 
-5 p.m. Beer/mingling (Location: TBD)
+5 p.m. Beer/mingling (Location: Fionn MacCool's)
 
 Register for this workshop.","Michael Corey, Eric Sagara, Scott Pham, Emmanuel Martinez",2017-03-01,13:00,17:00,4.0,River Terrace 1,2702/2897,https://ire.org/events-and-training/event/2702/2897/
 Conference registration (Wednesday),Special Event,Registration will be located on the 3rd floor Skybridge of the Hyatt Regency Jacksonville Riverfront.,TBA,2017-03-01,13:00,17:00,4.0,3rd floor - Skybridge,2702/2999,https://ire.org/events-and-training/event/2702/2999/
@@ -56,35 +56,25 @@ Conference sales (Wednesday),Special Event,,TBA,2017-03-01,15:00,17:00,2.0,3rd f
 Conference registration (Thursday),Special Event,Registration will be located on the 3rd floor Skybridge of the Hyatt Regency Jacksonville Riverfront.,TBA,2017-03-02,07:30,18:00,10.5,3rd floor - Skybridge,2702/3000,https://ire.org/events-and-training/event/2702/3000/
 Conference sales (Thursday),Special Event,,TBA,2017-03-02,08:00,18:00,10.0,3rd floor - Skybridge,2702/3004,https://ire.org/events-and-training/event/2702/3004/
 Welcome and overview of the conference,Panel,**Speakers are IRE/NICAR Staff,TBA,2017-03-02,08:30,08:50,0.333,Conference Center B,2702/2896,https://ire.org/events-and-training/event/2702/2896/
-Algorithmic accountability,Panel,,TBA,2017-03-02,09:00,10:00,1.0,Conference Center A,2702/3032,https://ire.org/events-and-training/event/2702/3032/
 Conversations 1 (Sponsored by SRCCON - Knight Mozilla OpenNews),Special Event,,TBA,2017-03-02,09:00,10:00,1.0,City Terrace 12,2702/2974,https://ire.org/events-and-training/event/2702/2974/
-PyCAR (beginner) *pre-registered attendees only,Hands-on,"Ben Welsh, James Gordon and Cheryl Phillips teach you how to conduct and publish a data analysis with the Python programming language, its pandas toolkit and a Jupyter Notebook.
+"Working together without sitting together: Building happy, productive distributed teams",Panel,,"Chris Canipe, Ryan Pitts, Julia Smith",2017-03-02,09:00,10:00,1.0,River Terrace 1,2702/3109,https://ire.org/events-and-training/event/2702/3109/
+Carto maps,Hands-on,,CJ Sinner,2017-03-02,09:00,10:00,1.0,City Terrace 8,2702/3058,https://ire.org/events-and-training/event/2702/3058/
+"Programming for humans, in Python (intermediate/advanced) *pre-registered attendees only",Hands-on,"You’ve written a few Python scripts that get the job done, but the initial euphoria has worn off. Your code is hard to understand. Bugs are cropping up. Worse, you can’t always explain your process or results to an editor — or yourself. There must be a better way, but the path forward is not clear. If you’ve had that itchy feeling, this full-day, hands-on workshop is for you. After mastering the basics of writing code, you need to understand how to design programs. To that end, this class will explore Python language features that will help you write readable, reliable and reusable code.
 
-The 6-hour, hands-on tutorial will guide you through an investigation of money in politics using data from the California Civic Data Coalition. You will learn just enough Python to do damage with the powerful pandas data analysis library, the most popular open-source library for working with large data files. You will also learn how to record, remix and republish your analysis using the Jupyter Notebook, a browser-based tool for writing code that is emerging as the standard for sharing reproducible research in the sciences. And most importantly, you will see how these tools can increase the speed and veracity of your journalism.
+Preregistration is required and seating is limited.
 
-Although the class is geared toward beginners, we'll assume that you're comfortable with databases and SQL and that you've hopefully seen a command line since the days of DOS. Preregistration is required and seating is limited. Laptops will be provided for the training.
+**Attendees must bring a laptop and charger to the training.
 
-Workshop prerequisites: Attendees should have familiarity with the command line and are comfortable with databases and SQL.
+Workshop prerequisites: Experience with basic Python language features like variables, data types, conditionals and functions are required.
 
-Workshop times are Thursday 9 a.m. - 12:30 p.m. continuing Friday morning from 9 a.m. - 12:30 p.m. (Note: Registration for this session reserves your seat for both days of this workshop.  Attendees are expected to attend both session to complete this workshop).
+NOTE: Registration is required for this session. Click here to sign up.","Jeremy Bowers, Serdar Tumgoren",2017-03-02,09:00,17:45,8.75,City Terrace 4,2702/2880,https://ire.org/events-and-training/event/2702/2880/
+Excel for business & economics,Hands-on,"Whether you just started using Excel or it's been your companion for years, chances are there's a lot it can do that you've never realized. We sometimes think of Excel as the stepping stone to database managers like Access or SQL Server, and overlook just how powerful its tools can be -- especially if you're covering business and economics. Come find out why Excel is still so popular in the business world and we'll unlock some of its secrets. The people you're covering know these tricks - you should too.
 
-NOTE: Registration is required for this session. Click here to sign up.","Heather Battaglia, Adriana Homolova, Tom Meagher, Roberto Rocha, Eric Sagara, Chris Keller, Elaine Wong",2017-03-02,09:00,12:30,3.5,City Terrace 7,2702/2878,https://ire.org/events-and-training/event/2702/2878/
-What the hell is R? And all the other questions you’re afraid to ask,Panel,,"Tisha Thompson, Sisi Wei",2017-03-02,09:00,10:00,1.0,Conference Center B,2702/3090,https://ire.org/events-and-training/event/2702/3090/
-Google Earth,Hands-on,"Find out how to make simple flyovers with Google Earth – a great way to make bespoke video content that you can weave into your visual journalism storytelling. This session should be fine for anyone, though some experience using Google Earth may come in handy.","Nassos Stylianou, Ed Lowther",2017-03-02,09:00,10:00,1.0,City Terrace 9,2702/3059,https://ire.org/events-and-training/event/2702/3059/
+This session is good for: People who understand Excel basics but want to unlock powerful functions for analyzing businesses.",Aaron Kessler,2017-03-02,09:00,10:00,1.0,City Terrace 11,2702/2931,https://ire.org/events-and-training/event/2702/2931/
 Intro to commandline (PC),Hands-on,"If you’ve never touched the little black box on your computer known as the command line, you’re ignoring an extremely helpful tool. In this session, you'll learn how to make the command line work for you and make it become a handy tool in your data toolbelt.
 
 This session is good for: Newbies to the command line who are brave enough to dive into the guts of their computer. This is geared toward Windows, but much of it translates to Macs.",Mike Stucka,2017-03-02,09:00,10:00,1.0,City Terrace 10,2702/3060,https://ire.org/events-and-training/event/2702/3060/
-Map camp: QGIS (intermediate) *pre-registered attendees only,Hands-on,"Learn how to uncover interesting news stories by mapping data with geographic information system (GIS) software during our intensive mini-boot camp.
-
-IRE and NICAR trainers conduct this hands-on training using the latest version of QGIS, open source-software that runs on all platforms. We will look at noteworthy stories that have used mapping and show you how to uncover stories using census and other data. You’ll learn how to display data geographically; import and query data; geocode to merge databases with addresses into maps. In addition, we'll provide you with our boot camp materials to help keep you on track long after you leave the conference.
-
-Preregistration is required and seating is limited. Laptops will be provided for the training.
-
-Workshop prerequisites: Participants should have basic knowledge in using relational database programs such as Microsoft Access, MySQL or SQLite.
-
-NOTE: Registration is required for this session. Click here to sign up.","David Herzog, Jennifer LaFleur",2017-03-02,09:00,17:45,8.75,City Terrace 5,2702/2883,https://ire.org/events-and-training/event/2702/2883/
-"Working together without sitting together: Building happy, productive distributed teams",Panel,,TBA,2017-03-02,09:00,10:00,1.0,River Terrace 1,2702/3109,https://ire.org/events-and-training/event/2702/3109/
-Carto maps,Hands-on,,CJ Sinner,2017-03-02,09:00,10:00,1.0,City Terrace 8,2702/3058,https://ire.org/events-and-training/event/2702/3058/
+Google Earth,Hands-on,"Find out how to make simple flyovers with Google Earth – a great way to make bespoke video content that you can weave into your visual journalism storytelling. This session should be fine for anyone, though some experience using Google Earth may come in handy.","Nassos Stylianou, Ed Lowther",2017-03-02,09:00,10:00,1.0,City Terrace 9,2702/3059,https://ire.org/events-and-training/event/2702/3059/
 Interactive data graphics in Tableau Public (Hosted by Tableau),Hands-on,"Learn how to create beautiful, interactive data visualizations on short deadlines. No programming required. You'll learn everything you need to build data visualizations and publish them to your website just like a video. We'll teach you how to:
 
 *Connect to Excel files and other data
@@ -98,28 +88,39 @@ Interactive data graphics in Tableau Public (Hosted by Tableau),Hands-on,"Learn 
 Tableau Public is a free tool for journalists. No previous experience with Tableau is necessary to take this class. Laptops will be provided. This is a free training, however you must be registered for the CAR Conference to attend this class.  Limited seats are available. There may be a few seats available on-site.
 
 Register for this class.",Ben Jones,2017-03-02,09:00,10:30,1.5,City Terrace 6,2702/3015,https://ire.org/events-and-training/event/2702/3015/
-"Programming for humans, in Python (intermediate/advanced) *pre-registered attendees only",Hands-on,"You’ve written a few Python scripts that get the job done, but the initial euphoria has worn off. Your code is hard to understand. Bugs are cropping up. Worse, you can’t always explain your process or results to an editor — or yourself. There must be a better way, but the path forward is not clear. If you’ve had that itchy feeling, this full-day, hands-on workshop is for you. After mastering the basics of writing code, you need to understand how to design programs. To that end, this class will explore Python language features that will help you write readable, reliable and reusable code.
+What the hell is R? And all the other questions you’re afraid to ask,Panel,,"Tisha Thompson, Sisi Wei",2017-03-02,09:00,10:00,1.0,Conference Center B,2702/3090,https://ire.org/events-and-training/event/2702/3090/
+Algorithmic accountability,Panel,"**Moderated by Aron Pilhofer, Temple University","Julia Angwin, Nick Diakopoulos, Sharad Goel, Aron Pilhofer",2017-03-02,09:00,10:00,1.0,Conference Center A,2702/3032,https://ire.org/events-and-training/event/2702/3032/
+Map camp: QGIS (intermediate) *pre-registered attendees only,Hands-on,"Learn how to uncover interesting news stories by mapping data with geographic information system (GIS) software during our intensive mini-boot camp.
 
-Preregistration is required and seating is limited.
+IRE and NICAR trainers conduct this hands-on training using the latest version of QGIS, open source-software that runs on all platforms. We will look at noteworthy stories that have used mapping and show you how to uncover stories using census and other data. You’ll learn how to display data geographically; import and query data; geocode to merge databases with addresses into maps. In addition, we'll provide you with our boot camp materials to help keep you on track long after you leave the conference.
 
-**Attendees must bring a laptop and charger to the training.
+Preregistration is required and seating is limited. Laptops will be provided for the training.
 
-Workshop prerequisites: Experience with basic Python language features like variables, data types, conditionals and functions are required.
+Workshop prerequisites: Participants should have basic knowledge in using relational database programs such as Microsoft Access, MySQL or SQLite.
 
-NOTE: Registration is required for this session. Click here to sign up.","Jeremy Bowers, Serdar Tumgoren",2017-03-02,09:00,17:45,8.75,City Terrace 4,2702/2880,https://ire.org/events-and-training/event/2702/2880/
-Excel for business & economics,Hands-on,"Whether you just started using Excel or it's been your companion for years, chances are there's a lot it can do that you've never realized. We sometimes think of Excel as the stepping stone to database managers like Access or SQL Server, and overlook just how powerful its tools can be -- especially if you're covering business and economics. Come find out why Excel is still so popular in the business world and we'll unlock some of its secrets. The people you're covering know these tricks - you should too.
+NOTE: Registration is required for this session. Click here to sign up.","David Herzog, Jennifer LaFleur",2017-03-02,09:00,17:45,8.75,City Terrace 5,2702/2883,https://ire.org/events-and-training/event/2702/2883/
+PyCAR (beginner) *pre-registered attendees only,Hands-on,"Ben Welsh, James Gordon and Cheryl Phillips teach you how to conduct and publish a data analysis with the Python programming language, its pandas toolkit and a Jupyter Notebook.
 
-This session is good for: People who understand Excel basics but want to unlock powerful functions for analyzing businesses.",Aaron Kessler,2017-03-02,09:00,10:00,1.0,City Terrace 11,2702/2931,https://ire.org/events-and-training/event/2702/2931/
+The 6-hour, hands-on tutorial will guide you through an investigation of money in politics using data from the California Civic Data Coalition. You will learn just enough Python to do damage with the powerful pandas data analysis library, the most popular open-source library for working with large data files. You will also learn how to record, remix and republish your analysis using the Jupyter Notebook, a browser-based tool for writing code that is emerging as the standard for sharing reproducible research in the sciences. And most importantly, you will see how these tools can increase the speed and veracity of your journalism.
+
+Although the class is geared toward beginners, we'll assume that you're comfortable with databases and SQL and that you've hopefully seen a command line since the days of DOS. Preregistration is required and seating is limited. Laptops will be provided for the training.
+
+Workshop prerequisites: Attendees should have familiarity with the command line and are comfortable with databases and SQL.
+
+Workshop times are Thursday 9 a.m. - 12:30 p.m. continuing Friday morning from 9 a.m. - 12:30 p.m. (Note: Registration for this session reserves your seat for both days of this workshop.  Attendees are expected to attend both session to complete this workshop).
+
+NOTE: Registration is required for this session. Click here to sign up.","Heather Battaglia, Adriana Homolova, Tom Meagher, Roberto Rocha, Eric Sagara, Chris Keller, Elaine Wong",2017-03-02,09:00,12:30,3.5,City Terrace 7,2702/2878,https://ire.org/events-and-training/event/2702/2878/
 Year in CAR,Panel,,"Lauren Grandestaff, Kaitlin Washburn",2017-03-02,09:00,10:00,1.0,River Terrace 3,2702/2899,https://ire.org/events-and-training/event/2702/2899/
+Security tools for journalists (demo),Demo,,"Olivia Martin, Mike Tigas",2017-03-02,09:00,10:00,1.0,River Terrace 2,2702/2965,https://ire.org/events-and-training/event/2702/2965/
+Investigating hacking and data breaches,Panel,,TBA,2017-03-02,10:15,11:15,1.0,Conference Center A,2702/3033,https://ire.org/events-and-training/event/2702/3033/
+Useful Excel functions for journalists,Hands-on,,Juan Lyon,2017-03-02,10:15,11:15,1.0,City Terrace 11,2702/2933,https://ire.org/events-and-training/event/2702/2933/
+Basic stats in R (advanced),Hands-on,"Learn how to analyze data through methods grounded in statistical theory. Those familiar with R will be introduced to significance tests, risk ratios, various distributions and more.",Olga Pierce,2017-03-02,10:15,11:15,1.0,City Terrace 10,2702/2932,https://ire.org/events-and-training/event/2702/2932/
 GitHub for journos,Hands-on,,Hector Alfaro,2017-03-02,10:15,11:15,1.0,City Terrace 9,2702/3061,https://ire.org/events-and-training/event/2702/3061/
 Practical data viz in JavaScript,Hands-on,"Learn how to use JavaScript, HTML, and CSS to build practical visualizations for your data. We'll cover how to make some essential chart/visualization types and go over data visualization best practices.",Maureen Linke,2017-03-02,10:15,11:15,1.0,City Terrace 8,2702/3081,https://ire.org/events-and-training/event/2702/3081/
-Conversations 2 (Sponsored by SRCCON - Knight Mozilla OpenNews),Special Event,,TBA,2017-03-02,10:15,11:15,1.0,City Terrace 12,2702/2975,https://ire.org/events-and-training/event/2702/2975/
-Investigating hacking and data breaches,Panel,,TBA,2017-03-02,10:15,11:15,1.0,Conference Center A,2702/3033,https://ire.org/events-and-training/event/2702/3033/
-Sports data: How to play money ball,Panel,,"Steve Doig, Paula Lavigne, John Templon",2017-03-02,10:15,11:15,1.0,River Terrace 3,2702/3019,https://ire.org/events-and-training/event/2702/3019/
 Good things come to those who weight: Conduct more reliable surveys using Veracio,Demo,"Most surveys consist of informal, crowd-sourced data. While this data is valuable, it’s often mathematically flawed when demographic and socioeconomic factors are not considered. Our survey tool Veracio automatically weights your responses based on census demographics to produce more accurate data. Join us for our session to learn more about the importance of weighting, how weighting works in Veracio, and how to use the tool to inform your reporting.","Heather Krause, Neal Rothleder",2017-03-02,10:15,11:15,1.0,River Terrace 2,2702/2901,https://ire.org/events-and-training/event/2702/2901/
 Big data in small organizations: How we created data-driven projects and stories at a startup,Panel,,"Ziva Branstetter, Eva Constantaras, Brent Jones",2017-03-02,10:15,11:15,1.0,River Terrace 1,2702/2900,https://ire.org/events-and-training/event/2702/2900/
-Basic stats in R (advanced),Hands-on,"Learn how to analyze data through methods grounded in statistical theory. Those familiar with R will be introduced to significance tests, risk ratios, various distributions and more.",Olga Pierce,2017-03-02,10:15,11:15,1.0,City Terrace 10,2702/2932,https://ire.org/events-and-training/event/2702/2932/
-Useful Excel functions for journalists,Hands-on,,Juan Lyon,2017-03-02,10:15,11:15,1.0,City Terrace 11,2702/2933,https://ire.org/events-and-training/event/2702/2933/
+Conversations 2 (Sponsored by SRCCON - Knight Mozilla OpenNews),Special Event,,TBA,2017-03-02,10:15,11:15,1.0,City Terrace 12,2702/2975,https://ire.org/events-and-training/event/2702/2975/
+Sports data: How to play money ball,Panel,,"Steve Doig, Paula Lavigne, John Templon",2017-03-02,10:15,11:15,1.0,River Terrace 3,2702/3019,https://ire.org/events-and-training/event/2702/3019/
 Show where the story is happening with maps in Tableau Public (Hosted by Tableau),Hands-on,"Maps are where it’s at, and with the addition of spatial file support you can viz outside the box too. In this session you will learn different methods for building maps in Tableau Public. We will teach you how to:
 
 *determine what kind of mapping data you’re looking at
@@ -136,15 +137,15 @@ Tableau Public is a free tool for journalists. Some familiarity with the product
 
 Register for this class.",Jenny Richards,2017-03-02,11:00,12:30,1.5,City Terrace 6,2702/3016,https://ire.org/events-and-training/event/2702/3016/
 Agate for data analysis in Python,Hands-on,,"Neil Bedi, Christopher Groskopf",2017-03-02,11:30,12:30,1.0,City Terrace 8,2702/3062,https://ire.org/events-and-training/event/2702/3062/
-Advanced stats in R: Linear and logistic regression (advanced),Hands-on,Continue learning statistical analysis methods in R with lessons in linear regression and logistic regression analyses.,Olga Pierce,2017-03-02,11:30,12:30,1.0,City Terrace 10,2702/2934,https://ire.org/events-and-training/event/2702/2934/
-The election data you should be paying attention to,Panel,,"Rachel Shorey, Derek Willis",2017-03-02,11:30,12:30,1.0,River Terrace 1,2702/2903,https://ire.org/events-and-training/event/2702/2903/
 Conversations 3 (Sponsored by (Sponsored by SRCCON - Knight Mozilla OpenNews),Special Event,,TBA,2017-03-02,11:30,12:30,1.0,City Terrace 12,2702/2976,https://ire.org/events-and-training/event/2702/2976/
+Stories waiting to be told with housing data,Panel,,"Tim Henderson, Skylar Olsen",2017-03-02,11:30,12:30,1.0,River Terrace 3,2702/2902,https://ire.org/events-and-training/event/2702/2902/
+Structuring your data the right way the first time,Panel,,Sandhya Kambhampati,2017-03-02,11:30,12:30,1.0,River Terrace 2,2702/2904,https://ire.org/events-and-training/event/2702/2904/
+Extracting data from PDFs,Hands-on,,Acton Gorton,2017-03-02,11:30,12:30,1.0,City Terrace 9,2702/2935,https://ire.org/events-and-training/event/2702/2935/
 Better than average: Working with high-dimensional data,Panel,,TBA,2017-03-02,11:30,12:30,1.0,Conference Center A,2702/3034,https://ire.org/events-and-training/event/2702/3034/
 OpenRefine,Hands-on,,"Nils Mulvad, Robert Gebeloff",2017-03-02,11:30,12:30,1.0,City Terrace 11,2702/2971,https://ire.org/events-and-training/event/2702/2971/
-Extracting data from PDFs,Hands-on,,Acton Gorton,2017-03-02,11:30,12:30,1.0,City Terrace 9,2702/2935,https://ire.org/events-and-training/event/2702/2935/
-Managing data projects & workflows,Panel,,TBA,2017-03-02,11:30,12:30,1.0,Conference Center B,2702/3110,https://ire.org/events-and-training/event/2702/3110/
-Structuring your data the right way the first time,Panel,,Sandhya Kambhampati,2017-03-02,11:30,12:30,1.0,River Terrace 2,2702/2904,https://ire.org/events-and-training/event/2702/2904/
-Stories waiting to be told with housing data,Panel,,"Tim Henderson, Skylar Olsen",2017-03-02,11:30,12:30,1.0,River Terrace 3,2702/2902,https://ire.org/events-and-training/event/2702/2902/
+The election data you should be paying attention to,Panel,,"Rachel Shorey, Derek Willis",2017-03-02,11:30,12:30,1.0,River Terrace 1,2702/2903,https://ire.org/events-and-training/event/2702/2903/
+Managing data projects & workflows,Panel,"**Moderated by Matt Goldberg, NBC4 Los Angeles","Matt Goldberg, Aron Pilhofer, Janet Roberts",2017-03-02,11:30,12:30,1.0,Conference Center B,2702/3110,https://ire.org/events-and-training/event/2702/3110/
+Advanced stats in R: Linear and logistic regression (advanced),Hands-on,Continue learning statistical analysis methods in R with lessons in linear regression and logistic regression analyses.,Olga Pierce,2017-03-02,11:30,12:30,1.0,City Terrace 10,2702/2934,https://ire.org/events-and-training/event/2702/2934/
 Lunch on your own (Thursday),Outside Event,,TBA,2017-03-02,12:30,14:15,1.75,See printed schedule for room information,2702/2996,https://ire.org/events-and-training/event/2702/2996/
 Conversations 4 (Sponsored by SRCCON - Knight Mozilla OpenNews),Special Event,,TBA,2017-03-02,12:45,13:45,1.0,City Terrace 12,2702/2977,https://ire.org/events-and-training/event/2702/2977/
 Finding and telling data stories with Tableau Public (Hosted by Tableau),Hands-on,"Got a dataset and an impending deadline to write a story on it? Find the scoop and convey it with beautiful, interactive visualizations in a serial narrative using Tableau Public. It’s a fast, easy to use, and free tool for journalists. Visualizations will publish using any CMS and no programming is required.
@@ -163,20 +164,17 @@ Tableau Public is a free tool for journalists. No previous experience with Table
 
 Register for this class.",Ben Jones,2017-03-02,13:30,15:00,1.5,City Terrace 6,2702/3017,https://ire.org/events-and-training/event/2702/3017/
 Educator huddle: Let's discuss the future,Panel,,TBA,2017-03-02,14:15,15:15,1.0,River Terrace 1,2702/3045,https://ire.org/events-and-training/event/2702/3045/
-Getting started with Excel,Hands-on,,Jill Riepenhoff,2017-03-02,14:15,15:15,1.0,City Terrace 11,2702/2937,https://ire.org/events-and-training/event/2702/2937/
-Meet the Computational Journalism Workbench,Special Event,,Jonathan Stray,2017-03-02,14:15,15:15,1.0,City Terrace 12,2702/3009,https://ire.org/events-and-training/event/2702/3009/
-Analyzing satellite imagery with Google Earth Engine,Hands-on,,"Chris Herwig, Vanessa Schneider, Eric Sagara",2017-03-02,14:15,15:15,1.0,City Terrace 9,2702/3096,https://ire.org/events-and-training/event/2702/3096/
 Building your own database,Panel,"**Moderated by Meghan Hoyer, The Associated Press","John Schoen, Sarah Ryley, Meghan Hoyer",2017-03-02,14:15,15:15,1.0,Conference Center B,2702/3089,https://ire.org/events-and-training/event/2702/3089/
-Security tools for journalists,Hands-on,,TBA,2017-03-02,14:15,15:15,1.0,City Terrace 8,2702/2952,https://ire.org/events-and-training/event/2702/2952/
 Intro to Python 1,Hands-on,,Liz Lucas,2017-03-02,14:15,15:15,1.0,City Terrace 10,2702/2936,https://ire.org/events-and-training/event/2702/2936/
-"Design track: Dataviz workflows - New ways to get from tools to published graphics: Ai-to-HTML, R-to-Illustrator, etc. (Sponsored by Society for News Design)",Hands-on,,TBA,2017-03-02,14:15,15:15,1.0,City Terrace 7,2702/3051,https://ire.org/events-and-training/event/2702/3051/
+Analyzing satellite imagery with Google Earth Engine,Hands-on,,"Chris Herwig, Vanessa Schneider, Eric Sagara",2017-03-02,14:15,15:15,1.0,City Terrace 9,2702/3096,https://ire.org/events-and-training/event/2702/3096/
 NPR responsive graphics tool,Demo,,"Sergio Hernandez, Matt Stiles",2017-03-02,14:15,15:15,1.0,River Terrace 2,2702/3022,https://ire.org/events-and-training/event/2702/3022/
-Using formulas in Excel,Hands-on,,Dinah Voyles Pulver,2017-03-02,15:30,16:30,1.0,City Terrace 11,2702/2939,https://ire.org/events-and-training/event/2702/2939/
-Packaging data stories for digital,Panel,,TBA,2017-03-02,15:30,16:30,1.0,River Terrace 1,2702/3046,https://ire.org/events-and-training/event/2702/3046/
-Your newsroom has a drone. Now what?,Special Event,,Matt Waite,2017-03-02,15:30,16:30,1.0,City Terrace 12,2702/3049,https://ire.org/events-and-training/event/2702/3049/
-The agile data analyst: Applying practices from agile software methodologies to data reporting,Panel,,TBA,2017-03-02,15:30,16:30,1.0,Conference Center A,2702/3011,https://ire.org/events-and-training/event/2702/3011/
+"Design track: Dataviz workflows - New ways to get from tools to published graphics: Ai-to-HTML, R-to-Illustrator, etc. (Sponsored by Society for News Design)",Hands-on,,TBA,2017-03-02,14:15,15:15,1.0,City Terrace 7,2702/3051,https://ire.org/events-and-training/event/2702/3051/
+Meet the Computational Journalism Workbench,Special Event,,Jonathan Stray,2017-03-02,14:15,15:15,1.0,City Terrace 12,2702/3009,https://ire.org/events-and-training/event/2702/3009/
+Security tools for journalists (hands-on),Hands-on,,Olivia Martin,2017-03-02,14:15,15:15,1.0,City Terrace 8,2702/2952,https://ire.org/events-and-training/event/2702/2952/
+Getting started with Excel,Hands-on,,Jill Riepenhoff,2017-03-02,14:15,15:15,1.0,City Terrace 11,2702/2937,https://ire.org/events-and-training/event/2702/2937/
 Bulletproofing your stories,Panel,,TBA,2017-03-02,15:30,16:30,1.0,Conference Center B,2702/3111,https://ire.org/events-and-training/event/2702/3111/
-Visualizing data with SandDance,Demo,,Callie Neylan,2017-03-02,15:30,16:30,1.0,River Terrace 2,2702/2905,https://ire.org/events-and-training/event/2702/2905/
+The agile data analyst: Applying practices from agile software methodologies to data reporting,Panel,,TBA,2017-03-02,15:30,16:30,1.0,Conference Center A,2702/3011,https://ire.org/events-and-training/event/2702/3011/
+Using formulas in Excel,Hands-on,,Dinah Voyles Pulver,2017-03-02,15:30,16:30,1.0,City Terrace 11,2702/2939,https://ire.org/events-and-training/event/2702/2939/
 Designing Tableau Visualizations for mobile (Hosted by Tableau),Hands-on,"Are mobile readers of your news site becoming more and more common? If your news organization is like others we’ve worked with, the percent of readers using phones and tablets to read your content is well over half of the overall number, and growing fast. Creating data visualizations for these small form-factors is very challenging. Learn how to use Tableau to create sheets and dashboards that work great, even on phones and tablets.
 
 *Design considerations, including layout and formatting
@@ -192,25 +190,27 @@ Designing Tableau Visualizations for mobile (Hosted by Tableau),Hands-on,"Are mo
 Tableau Public is a free tool for journalists. Some experience with Tableau Public is recommended. Taking one of the earlier Tableau sessions should suffice. Laptops will be provided. This is a free training, however you must be registered for the CAR Conference to attend this class. Limited seats are available. There may be a few seats available on-site.
 
 Register for this class.",Jenny Richards,2017-03-02,15:30,17:00,1.5,City Terrace 6,2702/3018,https://ire.org/events-and-training/event/2702/3018/
-Design track: Basic D3 (Sponsored by Society for News Design),Hands-on,,TBA,2017-03-02,15:30,16:30,1.0,City Terrace 7,2702/3052,https://ire.org/events-and-training/event/2702/3052/
 The first 100 days in data,Panel,,TBA,2017-03-02,15:30,16:30,1.0,River Terrace 3,2702/3039,https://ire.org/events-and-training/event/2702/3039/
+Packaging data stories for digital,Panel,,TBA,2017-03-02,15:30,16:30,1.0,River Terrace 1,2702/3046,https://ire.org/events-and-training/event/2702/3046/
+Your newsroom has a drone. Now what?,Special Event,,Matt Waite,2017-03-02,15:30,16:30,1.0,City Terrace 12,2702/3049,https://ire.org/events-and-training/event/2702/3049/
+Design track: Basic D3 (Sponsored by Society for News Design),Hands-on,,"Darla Cameron, Ashley Wu",2017-03-02,15:30,16:30,1.0,City Terrace 7,2702/3052,https://ire.org/events-and-training/event/2702/3052/
 Intro to Python 2,Hands-on,,Cathy Deng,2017-03-02,15:30,16:30,1.0,City Terrace 10,2702/2938,https://ire.org/events-and-training/event/2702/2938/
 How to build VR interactives using Digital Elevation Model (DEM) data and Three.js,Hands-on,,"Armand Emamdjomeh, Joe Fox",2017-03-02,15:30,16:30,1.0,City Terrace 8,2702/3063,https://ire.org/events-and-training/event/2702/3063/
 Scraping data without coding,Hands-on,"Scraping is a ​technical word for a traditional idea: getting ahold of information, whether or not your sources want you to. In this case, the information is data and the sources are websites. We'll go over some out-of-the-box tools for scraping data, plus some DIY techniques that often work even better.","Hilary Niles, Samantha Sunne",2017-03-02,15:30,16:30,1.0,City Terrace 9,2702/3097,https://ire.org/events-and-training/event/2702/3097/
-Intro to Python 3,Hands-on,,Alex Richards,2017-03-02,16:45,17:45,1.0,City Terrace 10,2702/2940,https://ire.org/events-and-training/event/2702/2940/
-Advanced social media sleuthing,Hands-on,,Steve Myers,2017-03-02,16:45,17:45,1.0,City Terrace 9,2702/3073,https://ire.org/events-and-training/event/2702/3073/
-PivotTables in Excel,Hands-on,,Kimbriell Kelly,2017-03-02,16:45,17:45,1.0,City Terrace 11,2702/2941,https://ire.org/events-and-training/event/2702/2941/
-How to make data approachable for younger audiences,Panel,,"Ani Ucar, Rachel Schallom",2017-03-02,16:45,17:45,1.0,Conference Center A,2702/2906,https://ire.org/events-and-training/event/2702/2906/
+Visualizing data with SandDance,Demo,,Callie Neylan,2017-03-02,15:30,16:30,1.0,River Terrace 2,2702/2905,https://ire.org/events-and-training/event/2702/2905/
 Investigating racial inequity (Sponsored by Ida B. Wells Society),Panel,,TBA,2017-03-02,16:45,17:45,1.0,Conference Center B,2702/3020,https://ire.org/events-and-training/event/2702/3020/
 A hitchhiker's guide To APIs,Hands-on,,David Eads,2017-03-02,16:45,17:45,1.0,City Terrace 8,2702/3064,https://ire.org/events-and-training/event/2702/3064/
-Mining data from the social web,Demo,,TBA,2017-03-02,16:45,17:45,1.0,River Terrace 2,2702/3112,https://ire.org/events-and-training/event/2702/3112/
-Data for radio: Turning data into characters in your story,Panel,,TBA,2017-03-02,16:45,17:45,1.0,River Terrace 3,2702/3040,https://ire.org/events-and-training/event/2702/3040/
-Open 3d sandbox,Special Event,,"Joe Fox, Armand Emamdjomeh",2017-03-02,16:45,17:45,1.0,City Terrace 12,2702/3050,https://ire.org/events-and-training/event/2702/3050/
+Advanced social media sleuthing,Hands-on,,Steve Myers,2017-03-02,16:45,17:45,1.0,City Terrace 9,2702/3073,https://ire.org/events-and-training/event/2702/3073/
 Design track: Intermediate D3 (Sponsored by Society for News Design),Hands-on,,TBA,2017-03-02,16:45,17:45,1.0,City Terrace 7,2702/3053,https://ire.org/events-and-training/event/2702/3053/
+PivotTables in Excel,Hands-on,,Kimbriell Kelly,2017-03-02,16:45,17:45,1.0,City Terrace 11,2702/2941,https://ire.org/events-and-training/event/2702/2941/
+Intro to Python 3,Hands-on,,Alex Richards,2017-03-02,16:45,17:45,1.0,City Terrace 10,2702/2940,https://ire.org/events-and-training/event/2702/2940/
+Open 3d sandbox,Special Event,,"Joe Fox, Armand Emamdjomeh",2017-03-02,16:45,17:45,1.0,City Terrace 12,2702/3050,https://ire.org/events-and-training/event/2702/3050/
+Mining data from the social web (demo),Demo,,"Lam Thuy Vo, Cathy Deng",2017-03-02,16:45,17:45,1.0,River Terrace 2,2702/3112,https://ire.org/events-and-training/event/2702/3112/
+How to make data approachable for younger audiences,Panel,,"Ani Ucar, Rachel Schallom",2017-03-02,16:45,17:45,1.0,Conference Center A,2702/2906,https://ire.org/events-and-training/event/2702/2906/
+Data for radio: Turning data into characters in your story,Panel,,TBA,2017-03-02,16:45,17:45,1.0,River Terrace 3,2702/3040,https://ire.org/events-and-training/event/2702/3040/
 Welcome reception,Reception,"Kick off the conference with a welcome reception on Thursday night beginning at 6 p.m. Meet up with friends you have not seen since last year and welcome new attendees. Each attendee will receive one drink ticket for beer, wine, soda or bottled water.",TBA,2017-03-02,18:00,19:00,1.0,River Terrace 1,2702/2995,https://ire.org/events-and-training/event/2702/2995/
 Conference registration (Friday),Special Event,Registration will be located on the 3rd floor Skybridge of the Hyatt Regency Jacksonville Riverfront.,TBA,2017-03-03,08:00,17:00,9.0,3rd floor - Skybridge,2702/3001,https://ire.org/events-and-training/event/2702/3001/
 Conference sales (Friday),Special Event,,TBA,2017-03-03,08:00,17:00,9.0,3rd floor - Skybridge,2702/3005,https://ire.org/events-and-training/event/2702/3005/
-Visualization and analysis in Python,Hands-on,,"Nathaniel Lash, Adam Playford",2017-03-03,09:00,10:00,1.0,City Terrace 4,2702/2947,https://ire.org/events-and-training/event/2702/2947/
 First Python Notebook: Rapid data analysis in the newsroom (beginner/intermediate) *pre-registered attendees only,Hands-on,"Ben Welsh, James Gordon and Cheryl Phillips teach you how to conduct and publish a data analysis with the Python programming language, its pandas toolkit and a Jupyter Notebook.
 
 The 6-hour, hands-on tutorial will guide you through an investigation of money in politics using data from the California Civic Data Coalition. You will learn just enough Python to do damage with the powerful pandas data analysis library, the most popular open-source library for working with large data files. You will also learn how to record, remix and republish your analysis using the Jupyter Notebook, a browser-based tool for writing code that is emerging as the standard for sharing reproducible research in the sciences. And most importantly, you will see how tools can increase the speed and veracity of your journalism.
@@ -220,7 +220,16 @@ Preregistration is required and seating is limited. Laptops will be provided for
 Workshop prerequisites: If you've tried Python once or twice, have good attitude and know how to take a few code crashes in stride, you are qualified for this class.
 
 NOTE: Registration is required for this session. Click here to sign up.","James Gordon, Cheryl Phillips, Ben Welsh",2017-03-03,09:00,16:30,7.5,City Terrace 6,2702/2879,https://ire.org/events-and-training/event/2702/2879/
+Uncovering the influence,Panel,,TBA,2017-03-03,09:00,10:00,1.0,Conference Center A,2702/3113,https://ire.org/events-and-training/event/2702/3113/
 How to use polls and rankings – and how to tell the good from bad,Panel,"Quick survey: how many of you are inundated with press releases about polls, rankings, and best-of lists? You know your readers love that kind of thing, but you don’t want to mislead them with bad data or overstating the results. Maybe the election has you questioning its value in general. We’ll give you the tools you need to quickly sort out what’s worth covering. But let’s go further: You’ll see some real-life examples of even more interesting ways to incorporate this data into your story-telling and reporting.","Matt Carmichael, Chris Jackson, Peter Gade",2017-03-03,09:00,10:00,1.0,River Terrace 1,2702/3047,https://ire.org/events-and-training/event/2702/3047/
+Data crunching in Python (for people who only know Excel),Hands-on,,Cody Winchester,2017-03-03,09:00,10:00,1.0,City Terrace 8,2702/3099,https://ire.org/events-and-training/event/2702/3099/
+"The perils, pitfalls and payoffs of working with higher ed data (Sponsored by Lumina Foundation)",Panel,,TBA,2017-03-03,09:00,10:00,1.0,River Terrace 3,2702/3041,https://ire.org/events-and-training/event/2702/3041/
+Visualization and analysis in Python,Hands-on,,"Nathaniel Lash, Adam Playford",2017-03-03,09:00,10:00,1.0,City Terrace 4,2702/2947,https://ire.org/events-and-training/event/2702/2947/
+"When Excel is not enough, you SQL",Hands-on,,Crina Boros,2017-03-03,09:00,12:30,3.5,City Terrace 11,2702/2991,https://ire.org/events-and-training/event/2702/2991/
+Conversations 5 (Sponsored by SRCCON - Knight Mozilla OpenNews),Special Event,,TBA,2017-03-03,09:00,10:00,1.0,City Terrace 12,2702/2978,https://ire.org/events-and-training/event/2702/2978/
+Intro to R: Stepping up your analysis game (beginner),Hands-on,,Charles Minshew,2017-03-03,09:00,10:00,1.0,City Terrace 10,2702/2943,https://ire.org/events-and-training/event/2702/2943/
+How to find stories in data: Data exploration and storytelling,Hands-on,,Heather Krause,2017-03-03,09:00,10:00,1.0,City Terrace 9,2702/2942,https://ire.org/events-and-training/event/2702/2942/
+The lone trainer: Ideas for boosting data literacy in your newsroom,Panel,,"Jennifer LaFleur, Ronald Campbell",2017-03-03,09:00,10:00,1.0,Conference Center B,2702/2907,https://ire.org/events-and-training/event/2702/2907/
 Excel Magic (beginner/intermediate) *pre-registered attendees only,Hands-on,"If you've found yourself struggling in a spreadsheet, thinking that whatever you were trying to achieve seemed harder than it should've been, then this is the class for you. You'll learn how to do things with spreadsheets that you never thought possible, such as joining tables and re-arranging badly structured data. You'll learn about the never-ending and amazing power of logical functions, as well as a whole bunch of other functions you probably didn't know about (but should). You'll also learn some handy tools for dealing with dates, times and strings of text that aren't quite the way you'd like them. Plus we'll throw in some other tricks that just make working in spreadsheets a bit easier and more efficient.
 
 Preregistration is required and seating is limited. Laptops will be provided for the training.
@@ -228,18 +237,13 @@ Preregistration is required and seating is limited. Laptops will be provided for
 Workshop prerequisites: You should have prior experience using Excel or Google Sheets, and be comfortable with introductory-level spreadsheet skills, such as sorting, filtering, SUM and AVERAGE functions, calculations such as percentage change or percent of total, and how to use Pivot Tables.
 
 NOTE: Registration is required for this session. Click here to sign up.",MaryJo Webster,2017-03-03,09:00,12:30,3.5,City Terrace 5,2702/2881,https://ire.org/events-and-training/event/2702/2881/
-The lone trainer: Ideas for boosting data literacy in your newsroom,Panel,,"Jennifer LaFleur, Ronald Campbell",2017-03-03,09:00,10:00,1.0,Conference Center B,2702/2907,https://ire.org/events-and-training/event/2702/2907/
-How to find stories in data: Data exploration and storytelling,Hands-on,,Heather Krause,2017-03-03,09:00,10:00,1.0,City Terrace 9,2702/2942,https://ire.org/events-and-training/event/2702/2942/
-Intro to R: Stepping up your analysis game (beginner),Hands-on,,Charles Minshew,2017-03-03,09:00,10:00,1.0,City Terrace 10,2702/2943,https://ire.org/events-and-training/event/2702/2943/
-"The perils, pitfalls and payoffs of working with higher ed data (Sponsored by Lumina Foundation)",Panel,,TBA,2017-03-03,09:00,10:00,1.0,River Terrace 3,2702/3041,https://ire.org/events-and-training/event/2702/3041/
-Data crunching in Python (for people who only know Excel),Hands-on,,Cody Winchester,2017-03-03,09:00,10:00,1.0,City Terrace 8,2702/3099,https://ire.org/events-and-training/event/2702/3099/
-Uncovering the influence,Panel,,TBA,2017-03-03,09:00,10:00,1.0,Conference Center A,2702/3113,https://ire.org/events-and-training/event/2702/3113/
-Conversations 5 (Sponsored by SRCCON - Knight Mozilla OpenNews),Special Event,,TBA,2017-03-03,09:00,10:00,1.0,City Terrace 12,2702/2978,https://ire.org/events-and-training/event/2702/2978/
-"When Excel is not enough, you SQL",Hands-on,,Crina Boros,2017-03-03,09:00,12:30,3.5,City Terrace 11,2702/2991,https://ire.org/events-and-training/event/2702/2991/
 Kiss your apps goodbye: Saving born-digital news,Demo,,Edward McCain,2017-03-03,09:30,10:00,0.5,River Terrace 2,2702/2908,https://ire.org/events-and-training/event/2702/2908/
-Finding narratives in the numbers,Panel,,TBA,2017-03-03,10:15,11:15,1.0,Conference Center B,2702/3114,https://ire.org/events-and-training/event/2702/3114/
-Common foundations for newsroom tools,Panel,,TBA,2017-03-03,10:15,11:15,1.0,River Terrace 1,2702/2909,https://ire.org/events-and-training/event/2702/2909/
+Conversations 6 (Sponsored by SRCCON - Knight Mozilla OpenNews),Special Event,,TBA,2017-03-03,10:15,11:15,1.0,City Terrace 12,2702/2979,https://ire.org/events-and-training/event/2702/2979/
+Data analysis in R (beginner),Hands-on,"Learn how to sort, filter, join and carry out some other basic functions in R to identify trends in your data for storytelling.",Peter Aldhous,2017-03-03,10:15,11:15,1.0,City Terrace 10,2702/2946,https://ire.org/events-and-training/event/2702/2946/
 Gifs for data viz,Demo,,Lena Groeger,2017-03-03,10:15,11:15,1.0,River Terrace 2,2702/2910,https://ire.org/events-and-training/event/2702/2910/
+Brain flipping: Tips for switching between the sides of your brain,Panel,,TBA,2017-03-03,10:15,11:15,1.0,Conference Center A,2702/3036,https://ire.org/events-and-training/event/2702/3036/
+Common foundations for newsroom tools,Panel,,TBA,2017-03-03,10:15,11:15,1.0,River Terrace 1,2702/2909,https://ire.org/events-and-training/event/2702/2909/
+Phil Meyer Award winners deep dives,Panel,"**Moderated by Jodi Upton, Syracuse University","Jeff Ernsthausen, Scott Pham, Eric Sagara, John Templon, Jodi Upton",2017-03-03,10:15,11:15,1.0,River Terrace 3,2702/3042,https://ire.org/events-and-training/event/2702/3042/
 Designing database applications for community engagement (Hosted by Caspio),Hands-on,"Investigative journalists have great ideas, and many are seeking fast, innovative solutions that allow them to publish interactive data applications by deadline. Caspio has the tools to allow you to do this, without the help of a staff developer.
 
 With a little bit of training, you can learn how to develop your own data-driven apps, interactives, consumer investigative sites, and community engagement tools using Caspio.
@@ -247,33 +251,29 @@ With a little bit of training, you can learn how to develop your own data-driven
 This demo will showcase real-world examples and techniques for building revenue-generating database applications. Creative community engagement has never been easier.
 
 Note: Pre-registration is not required.","Jennifer Christos, Sabina Tuladhar",2017-03-03,10:15,11:15,1.0,City Terrace 4,2702/2944,https://ire.org/events-and-training/event/2702/2944/
-Conversations 6 (Sponsored by SRCCON - Knight Mozilla OpenNews),Special Event,,TBA,2017-03-03,10:15,11:15,1.0,City Terrace 12,2702/2979,https://ire.org/events-and-training/event/2702/2979/
+Finding narratives in the numbers,Panel,,TBA,2017-03-03,10:15,11:15,1.0,Conference Center B,2702/3114,https://ire.org/events-and-training/event/2702/3114/
 Github for journos (repeat session),Hands-on,,Hector Alfaro,2017-03-03,10:15,11:15,1.0,City Terrace 9,2702/3074,https://ire.org/events-and-training/event/2702/3074/
-Phil Meyer Award winners deep dives,Panel,"**Moderated by Jodi Upton, Syracuse University","Jeff Ernsthausen, Scott Pham, Eric Sagara, John Templon, Jodi Upton",2017-03-03,10:15,11:15,1.0,River Terrace 3,2702/3042,https://ire.org/events-and-training/event/2702/3042/
-Brain flipping: Tips for switching between the sides of your brain,Panel,,TBA,2017-03-03,10:15,11:15,1.0,Conference Center A,2702/3036,https://ire.org/events-and-training/event/2702/3036/
-Data analysis in R (beginner),Hands-on,"Learn how to sort, filter, join and carry out some other basic functions in R to identify trends in your data for storytelling.",Peter Aldhous,2017-03-03,10:15,11:15,1.0,City Terrace 10,2702/2946,https://ire.org/events-and-training/event/2702/2946/
 Show me the money: Finding compensation gold in proxy statements,Hands-on,,Jeff Ostrowski,2017-03-03,10:15,11:15,1.0,City Terrace 8,2702/2945,https://ire.org/events-and-training/event/2702/2945/
-Google trends,Hands-on,,Jennifer Lee,2017-03-03,11:30,12:30,1.0,City Terrace 4,2702/2972,https://ire.org/events-and-training/event/2702/2972/
-Data analysis in Tableau,Hands-on,,Sarah Ryley,2017-03-03,11:30,12:30,1.0,City Terrace 9,2702/3075,https://ire.org/events-and-training/event/2702/3075/
-Conversations 7 (Sponsored by SRCCON - Knight Mozilla OpenNews),Special Event,,TBA,2017-03-03,11:30,12:30,1.0,City Terrace 12,2702/2980,https://ire.org/events-and-training/event/2702/2980/
-Broadcast: Transforming data into knockout visuals,Panel,,TBA,2017-03-03,11:30,12:30,1.0,River Terrace 1,2702/3012,https://ire.org/events-and-training/event/2702/3012/
-Data wrangling with Python,Hands-on,,Anthony DeBarros,2017-03-03,11:30,12:30,1.0,City Terrace 8,2702/2948,https://ire.org/events-and-training/event/2702/2948/
 Doing data journalism under duress,Panel,,TBA,2017-03-03,11:30,12:30,1.0,Conference Center B,2702/3038,https://ire.org/events-and-training/event/2702/3038/
+GIS with Python: 6 libraries to know,Demo,,Roberto Rocha,2017-03-03,11:30,12:30,1.0,River Terrace 2,2702/2912,https://ire.org/events-and-training/event/2702/2912/
+Data analysis in Tableau,Hands-on,,Sarah Ryley,2017-03-03,11:30,12:30,1.0,City Terrace 9,2702/3075,https://ire.org/events-and-training/event/2702/3075/
+Broadcast: Transforming data into knockout visuals,Panel,,TBA,2017-03-03,11:30,12:30,1.0,River Terrace 1,2702/3012,https://ire.org/events-and-training/event/2702/3012/
+Conversations 7 (Sponsored by SRCCON - Knight Mozilla OpenNews),Special Event,,TBA,2017-03-03,11:30,12:30,1.0,City Terrace 12,2702/2980,https://ire.org/events-and-training/event/2702/2980/
+Data wrangling with Python,Hands-on,,Anthony DeBarros,2017-03-03,11:30,12:30,1.0,City Terrace 8,2702/2948,https://ire.org/events-and-training/event/2702/2948/
+Jobs and career straight-talk: For (and by) young'uns only,Panel,,"Madi Alexander, Rachel Schallom",2017-03-03,11:30,13:30,2.0,River Terrace 3,2702/2911,https://ire.org/events-and-training/event/2702/2911/
 Visualizing and understanding uncertainty (Sponsored by Society for News Design),Panel,,"Alberto Cairo, Jen Christiansen, Mark Hansen",2017-03-03,11:30,12:30,1.0,Conference Center A,2702/3091,https://ire.org/events-and-training/event/2702/3091/
 Gathering and cleaning data with R (intermediate),Hands-on,Learn how to use R to scrape data from the web and pull data from APIs. This session will also look at how to clean and structure the data you've gathered in preparation for your analysis using tidyverse packages.,Caelainn Barr,2017-03-03,11:30,12:30,1.0,City Terrace 10,2702/2949,https://ire.org/events-and-training/event/2702/2949/
-GIS with Python: 6 libraries to know,Demo,,Roberto Rocha,2017-03-03,11:30,12:30,1.0,River Terrace 2,2702/2912,https://ire.org/events-and-training/event/2702/2912/
-Jobs and career straight-talk: For (and by) young'uns only,Panel,,"Madi Alexander, Rachel Schallom",2017-03-03,11:30,13:30,2.0,River Terrace 3,2702/2911,https://ire.org/events-and-training/event/2702/2911/
+Google trends,Hands-on,,Jennifer Lee,2017-03-03,11:30,12:30,1.0,City Terrace 4,2702/2972,https://ire.org/events-and-training/event/2702/2972/
 Lunch on your own (Friday),Outside Event,,TBA,2017-03-03,12:30,14:15,1.75,See printed schedule for room information,2702/2997,https://ire.org/events-and-training/event/2702/2997/
 Conversations 8 (Sponsored by SRCCON - Knight Mozilla OpenNews),Special Event,,TBA,2017-03-03,12:45,13:45,1.0,City Terrace 12,2702/2981,https://ire.org/events-and-training/event/2702/2981/
-Exploring environmental data,Panel,,TBA,2017-03-03,14:15,15:15,1.0,River Terrace 1,2702/2919,https://ire.org/events-and-training/event/2702/2919/
-Watch the web for news tips with Klaxon,Special Event,,Tom Meagher,2017-03-03,14:15,15:15,1.0,City Terrace 12,2702/2982,https://ire.org/events-and-training/event/2702/2982/
-QGIS I: Importing and displaying geographic data,Hands-on,,"John Walton, Christine Jeavans",2017-03-03,14:15,15:15,1.0,City Terrace 5,2702/2959,https://ire.org/events-and-training/event/2702/2959/
-Advanced PDF manipulation,Hands-on,,Miguel Barbosa,2017-03-03,14:15,15:15,1.0,City Terrace 7,2702/2950,https://ire.org/events-and-training/event/2702/2950/
 Scraping data without coding (repeat session),Hands-on,"Scraping is a ​technical word for a traditional idea: getting ahold of information, whether or not your sources want you to. In this case, the information is data and the sources are websites. We'll go over some out-of-the-box tools for scraping data, plus some DIY techniques that often work even better.",Sydney Lupkin,2017-03-03,14:15,15:15,1.0,City Terrace 9,2702/2967,https://ire.org/events-and-training/event/2702/2967/
+QGIS I: Importing and displaying geographic data,Hands-on,,"John Walton, Christine Jeavans",2017-03-03,14:15,15:15,1.0,City Terrace 5,2702/2959,https://ire.org/events-and-training/event/2702/2959/
+Basic D3 (repeat session),Hands-on,,"Chris Canipe, Jon McClure",2017-03-03,14:15,15:15,1.0,City Terrace 8,2702/3076,https://ire.org/events-and-training/event/2702/3076/
+Exploring environmental data,Panel,,TBA,2017-03-03,14:15,15:15,1.0,River Terrace 1,2702/2919,https://ire.org/events-and-training/event/2702/2919/
 What's the impact?,Panel,"**Moderated by James Hamilton, Stanford University
 
 Investigative stories can change lives and laws, draw audiences, and generate new leads and partnerships. How can you put numbers on these impacts? This panel will try, through discussion of evidence from readership metrics, benefit-cost analyses, survey data, and case studies.","Lindsay Green-Barber, Celeste LeCompte, Tom Rosenstiel, James Hamilton",2017-03-03,14:15,15:15,1.0,Conference Center B,2702/2913,https://ire.org/events-and-training/event/2702/2913/
-Unsung data,Panel,,TBA,2017-03-03,14:15,15:15,1.0,River Terrace 3,2702/3057,https://ire.org/events-and-training/event/2702/3057/
+Watch the web for news tips with Klaxon,Special Event,,Tom Meagher,2017-03-03,14:15,15:15,1.0,City Terrace 12,2702/2982,https://ire.org/events-and-training/event/2702/2982/
 Digging into data for stories: A crash course (beginner) *pre-registered attendees only,Hands-on,"Kickstart your data skills with IRE's original mini-boot camp. This series of hands-on classes will introduce you to spreadsheets and databases with IRE's proven techniques. IRE's experienced trainers will walk you through sorting, calculating and interviewing data. You'll come away with a solid base for using data analysis in your own newsroom. In addition, we'll provide you with our boot camp materials to help keep you on track long after you leave the conference.
 
 Preregistration is required and seating is limited. Laptops will be provided for the training.
@@ -285,16 +285,18 @@ Workshop times are Friday, March 3, 2:15pm - 4:30pm; Saturday, March 4, 2:15pm -
 **Speakers are IRE/NICAR Staff
 
 NOTE: Registration is required for this session. Click here to sign up.",TBA,2017-03-03,14:15,12:30,-1.75,City Terrace 10/11,2702/2882,https://ire.org/events-and-training/event/2702/2882/
-Basic D3 (repeat session),Hands-on,,"Chris Canipe, Jon McClure",2017-03-03,14:15,15:15,1.0,City Terrace 8,2702/3076,https://ire.org/events-and-training/event/2702/3076/
-Co-op models in data journalism,Special Event,,Forest Gregg,2017-03-03,15:30,16:30,1.0,City Terrace 12,2702/2983,https://ire.org/events-and-training/event/2702/2983/
-Data journalism from space,Demo,"For decades, time-sensitive satellite imagery has been expensive and accessible mostly to governments and large corporations. Recent advances in consumer technologies are making satellite technology cheaper, and new business models are making the production of space-bound hardware and imagery more democratized. Planet Labs, a startup founded by ex-NASA engineers, has the largest constellation of Earth-imaging satellites ever and aims to image the entire planet every day to track global events and challenges like climate change, deforestation, refugee camp growth, disaster response, and many others. The high frequency of Planet's imagery creates new opportunities to capture insight on significant local and global change and is able to move at the rapid rate of today’s 24-hour news cycle. Recent stories include coverage of deforestation in Bolivia, illegal gold mining in Peru, a collapsing glacier, and discovery of North Korean missile tests. As a unique source of data, Planet's imagery is available to approved journalists and socially-impactful projects.",Sara Schnadt,2017-03-03,15:30,16:30,1.0,River Terrace 2,2702/2915,https://ire.org/events-and-training/event/2702/2915/
-Intermediate D3 (repeat session),Hands-on,,"Chris Canipe, Jon McClure",2017-03-03,15:30,16:30,1.0,City Terrace 8,2702/3077,https://ire.org/events-and-training/event/2702/3077/
+Unsung data,Panel,,TBA,2017-03-03,14:15,15:15,1.0,River Terrace 3,2702/3057,https://ire.org/events-and-training/event/2702/3057/
+Advanced PDF manipulation,Hands-on,,Miguel Barbosa,2017-03-03,14:15,15:15,1.0,City Terrace 7,2702/2950,https://ire.org/events-and-training/event/2702/2950/
 Reproducibility and Rmarkdown: How to use R regularly in your newsroom (intermediate),Hands-on,Learn how to turn your most commonly created custom lines of R code into a function and package for future use. Communicate your findings to others in the newsroom easily with R Markdown. Share all to your Github repo through RStudio for others to download and use or update.,Andrew Tran,2017-03-03,15:30,16:30,1.0,City Terrace 9,2702/3078,https://ire.org/events-and-training/event/2702/3078/
-The present and future of bots,Panel,"**Moderated by Tiff Fehr, The New York Times","John Keefe, Simon Rogers, Ken Schwencke, Tiff Fehr",2017-03-03,15:30,16:30,1.0,River Terrace 1,2702/3014,https://ire.org/events-and-training/event/2702/3014/
-Intro to Javascript,Hands-on,"Functions, for loops and objects. They can be confusing at first but once you master these and other Javascript coding conventions, you'll be able to build fancy data visualizations and more. In this course, we will be learning the basics of Javascript. No coding experience is necessary.",Chris Essig,2017-03-03,15:30,16:30,1.0,City Terrace 7,2702/2951,https://ire.org/events-and-training/event/2702/2951/
 "QGIS II: Manipulating, editing and analyzing geographic data",Hands-on,,Alexandra Kanik,2017-03-03,15:30,16:30,1.0,City Terrace 5,2702/2962,https://ire.org/events-and-training/event/2702/2962/
 Quick-turn data stories,Panel,Speaker:,,2017-03-03,15:30,16:30,1.0,River Terrace 3,2702/3043,https://ire.org/events-and-training/event/2702/3043/
+Data journalism from space,Demo,"For decades, time-sensitive satellite imagery has been expensive and accessible mostly to governments and large corporations. Recent advances in consumer technologies are making satellite technology cheaper, and new business models are making the production of space-bound hardware and imagery more democratized. Planet Labs, a startup founded by ex-NASA engineers, has the largest constellation of Earth-imaging satellites ever and aims to image the entire planet every day to track global events and challenges like climate change, deforestation, refugee camp growth, disaster response, and many others. The high frequency of Planet's imagery creates new opportunities to capture insight on significant local and global change and is able to move at the rapid rate of today’s 24-hour news cycle. Recent stories include coverage of deforestation in Bolivia, illegal gold mining in Peru, a collapsing glacier, and discovery of North Korean missile tests. As a unique source of data, Planet's imagery is available to approved journalists and socially-impactful projects.",Sara Schnadt,2017-03-03,15:30,16:30,1.0,River Terrace 2,2702/2915,https://ire.org/events-and-training/event/2702/2915/
+Design track: User testing (Sponsored by Society for News Design),Panel,,"Hannah Birch, Clarisa Diaz",2017-03-03,15:30,16:30,1.0,City Terrace 4,2702/3127,https://ire.org/events-and-training/event/2702/3127/
 Data & abuse of power,Panel,,"Anna Flagg, Moiz Syed",2017-03-03,15:30,16:30,1.0,Conference Center B,2702/2914,https://ire.org/events-and-training/event/2702/2914/
+Co-op models in data journalism,Special Event,,Forest Gregg,2017-03-03,15:30,16:30,1.0,City Terrace 12,2702/2983,https://ire.org/events-and-training/event/2702/2983/
+Intro to Javascript,Hands-on,"Functions, for loops and objects. They can be confusing at first but once you master these and other Javascript coding conventions, you'll be able to build fancy data visualizations and more. In this course, we will be learning the basics of Javascript. No coding experience is necessary.",Chris Essig,2017-03-03,15:30,16:30,1.0,City Terrace 7,2702/2951,https://ire.org/events-and-training/event/2702/2951/
+The present and future of bots,Panel,"**Moderated by Tiff Fehr, The New York Times","John Keefe, Simon Rogers, Ken Schwencke, Tiff Fehr",2017-03-03,15:30,16:30,1.0,River Terrace 1,2702/3014,https://ire.org/events-and-training/event/2702/3014/
+Intermediate D3 (repeat session),Hands-on,,"Chris Canipe, Jon McClure",2017-03-03,15:30,16:30,1.0,City Terrace 8,2702/3077,https://ire.org/events-and-training/event/2702/3077/
 Lightning Talks (Sponsored by the Knight Foundation),Panel,"**Moderated by Sisi Wei, ProPublica
 
 Sometimes you don't need 45 minutes to explain a useful technique or interesting resource. Join your colleagues for a session of short (5-minute) talks about doing CAR, Web development or other related topics.",TBA,2017-03-03,16:45,18:00,1.25,Conference Center A&B,2702/2992,https://ire.org/events-and-training/event/2702/2992/
@@ -306,15 +308,9 @@ For information on the 2016 Award winners, click here.",TBA,2017-03-03,18:00,18:
 Philip Meyer Award Reception & David Donald Remembrance,Reception,"Join fellow CAR attendees in celebrating the Philip Meyer Award Winners at a reception Friday night with light hor d'oeuvres and a cash bar beginning at 6:15 p.m. in River Terrace 1.
 
 Join us for a brief tribute to former IRE training director and Philip Meyer Award winner David Donald, who died in December.",TBA,2017-03-03,18:15,19:30,1.25,River Terrace 1,2702/2994,https://ire.org/events-and-training/event/2702/2994/
-Conference sales (Saturday),Special Event,,TBA,2017-03-04,08:30,18:00,9.5,3rd floor - Skybridge,2702/3006,https://ire.org/events-and-training/event/2702/3006/
 Conference registration (Saturday),Special Event,Registration will be located on the 3rd floor Skybridge of the Hyatt Regency Jacksonville Riverfront.,TBA,2017-03-04,08:30,18:00,9.5,3rd floor - Skybridge,2702/3002,https://ire.org/events-and-training/event/2702/3002/
-Advanced analysis in SQL,Hands-on,,Meghan Hoyer,2017-03-04,09:00,10:00,1.0,City Terrace 10,2702/2956,https://ire.org/events-and-training/event/2702/2956/
-Drawing for a better brain,Demo,,TBA,2017-03-04,09:00,10:00,1.0,River Terrace 2,2702/3115,https://ire.org/events-and-training/event/2702/3115/
-Simple ways to create immersive news stories,Panel,,TBA,2017-03-04,09:00,10:00,1.0,Conference Center A,2702/3008,https://ire.org/events-and-training/event/2702/3008/
+Conference sales (Saturday),Special Event,,TBA,2017-03-04,08:30,18:00,9.5,3rd floor - Skybridge,2702/3006,https://ire.org/events-and-training/event/2702/3006/
 Under pressure: Real life in real time with breaking news,Hands-on,,"Noah Pransky, Nicole Vap",2017-03-04,09:00,10:00,1.0,City Terrace 4,2702/3068,https://ire.org/events-and-training/event/2702/3068/
-Securing data and communications,Panel,,Jorge Luis Sierra,2017-03-04,09:00,11:15,2.25,River Terrace 1,2702/2917,https://ire.org/events-and-training/event/2702/2917/
-Breaking through the Facebook wall: Reporting on Facebook using components of Facebook,Panel,,"Julia Angwin, Jon Keegan, Jeremy Merrill",2017-03-04,09:00,10:00,1.0,Conference Center B,2702/2916,https://ire.org/events-and-training/event/2702/2916/
-Geocoding addresses,Hands-on,,Michael Corey,2017-03-04,09:00,10:00,1.0,City Terrace 8,2702/3079,https://ire.org/events-and-training/event/2702/3079/
 Build your first news app (intermediate) *pre-registered attendees only,Hands-on,"This mini-boot camp will walk you through the process of building a simple online news application from a dataset. You will get hands-on experience in every stage of the development process, writing Python, HTML and JavaScript using version control tools. You won't stop until you've deployed a working application onto the World Wide Web.
 
 Preregistration is required and seating is limited. Laptops will be provided for the training.
@@ -322,6 +318,7 @@ Preregistration is required and seating is limited. Laptops will be provided for
 Workshop prerequisites: If you have a good attitude and know how to take a few code crashes in stride, you are qualified for this class.
 
 NOTE: Registration is required for this session. Click here to sign up.","Armand Emamdjomeh, Ben Welsh",2017-03-04,09:00,17:45,8.75,City Terrace 6,2702/2885,https://ire.org/events-and-training/event/2702/2885/
+Drawing for a better brain,Demo,,TBA,2017-03-04,09:00,10:00,1.0,River Terrace 2,2702/3115,https://ire.org/events-and-training/event/2702/3115/
 Intro to R (intermediate) *pre-registered attendees only,Hands-on,"Add statistical heft to your reporting by using R, a free, powerful open-source programming language. By the end of this two-hour session, you will be able to take raw data, import it into R, and start your analysis. Topics will include basic data importing, working with directories, reading in data, installing packages, creating simple visualizations, and how to clean, explore and sort your data. We'll also talk about how to find help when you're stuck.
 
 Preregistration is required and seating is limited. Laptops will be provided for the training.
@@ -329,72 +326,78 @@ Preregistration is required and seating is limited. Laptops will be provided for
 Workshop prerequisites: This session will be most helpful if you’re comfortable working with data and you’re ready to take your skills to the next level.
 
 NOTE: Registration is required for this session. Click here to sign up.",Charles Minshew,2017-03-04,09:00,12:30,3.5,City Terrace 5,2702/2886,https://ire.org/events-and-training/event/2702/2886/
-Intro to database manager MySQL I,Hands-on,,Ronald Campbell,2017-03-04,09:00,10:00,1.0,City Terrace 11,2702/2957,https://ire.org/events-and-training/event/2702/2957/
+Breaking through the Facebook wall: Reporting on Facebook using components of Facebook,Panel,,"Julia Angwin, Jon Keegan, Jeremy Merrill",2017-03-04,09:00,10:00,1.0,Conference Center B,2702/2916,https://ire.org/events-and-training/event/2702/2916/
+Securing data and communications,Panel,,Jorge Luis Sierra,2017-03-04,09:00,11:15,2.25,River Terrace 1,2702/2917,https://ire.org/events-and-training/event/2702/2917/
+Geocoding addresses,Hands-on,,Michael Corey,2017-03-04,09:00,10:00,1.0,City Terrace 8,2702/3079,https://ire.org/events-and-training/event/2702/3079/
 Extracting data from PDFs (repeat session),Hands-on,,Miguel Barbosa,2017-03-04,09:00,10:00,1.0,City Terrace 7,2702/2954,https://ire.org/events-and-training/event/2702/2954/
 Stats: An introduction,Hands-on,,Holly Hacker,2017-03-04,09:00,10:00,1.0,City Terrace 9,2702/2955,https://ire.org/events-and-training/event/2702/2955/
+Advanced analysis in SQL,Hands-on,,Meghan Hoyer,2017-03-04,09:00,10:00,1.0,City Terrace 10,2702/2956,https://ire.org/events-and-training/event/2702/2956/
+Intro to database manager MySQL I,Hands-on,,Ronald Campbell,2017-03-04,09:00,10:00,1.0,City Terrace 11,2702/2957,https://ire.org/events-and-training/event/2702/2957/
 Conversations 9 (Sponsored by SRCCON - Knight Mozilla OpenNews),Special Event,,TBA,2017-03-04,09:00,10:00,1.0,City Terrace 12,2702/2984,https://ire.org/events-and-training/event/2702/2984/
-Conversations 10 (Sponsored by SRCCON - Knight Mozilla OpenNews),Special Event,,TBA,2017-03-04,10:15,11:15,1.0,City Terrace 12,2702/2985,https://ire.org/events-and-training/event/2702/2985/
-Drones for mapping,Demo,,Matt Waite,2017-03-04,10:15,11:15,1.0,River Terrace 2,2702/3023,https://ire.org/events-and-training/event/2702/3023/
-Data cleaning in SQL,Hands-on,,Madi Alexander,2017-03-04,10:15,11:15,1.0,City Terrace 10,2702/3082,https://ire.org/events-and-training/event/2702/3082/
-Behind the scenes: Electionland,Panel,,"John Keefe, Scott Klein, Olivia Ma",2017-03-04,10:15,11:15,1.0,Conference Center A,2702/2918,https://ire.org/events-and-training/event/2702/2918/
-Intro to database manager MySQL II,Hands-on,,Liz Lucas,2017-03-04,10:15,11:15,1.0,City Terrace 11,2702/2961,https://ire.org/events-and-training/event/2702/2961/
-Advanced pdf manipulation (repeat session),Hands-on,,Jacob Fenton,2017-03-04,10:15,11:15,1.0,City Terrace 8,2702/3080,https://ire.org/events-and-training/event/2702/3080/
-The art and science of the data story comment request,Panel,,"Rob Barry, Cezary Podkul, Sarah Ryley",2017-03-04,10:15,11:15,1.0,River Terrace 3,2702/3010,https://ire.org/events-and-training/event/2702/3010/
-A roundup of international CAR,Panel,,TBA,2017-03-04,10:15,11:15,1.0,Conference Center B,2702/3116,https://ire.org/events-and-training/event/2702/3116/
-Public finance and the EMMA website,Hands-on,"For reporters covering state or local government, the Electronic Municipal Market Access (EMMA®) website provides free access to detailed information about the financial health of states, cities and counties, as well as many hospitals, universities, stadiums and other ventures financed by public debt. Staff from the Municipal Securities Rulemaking Board will demonstrate how to find data and information on EMMA, from public finance credit ratings to comprehensive annual financial reports. This interactive session will also highlight several EMMA tools and resources that can assist reporters with monitoring state and local finances and identify potential stories.","Leah Szarek,",2017-03-04,10:15,11:15,1.0,City Terrace 4,2702/2953,https://ire.org/events-and-training/event/2702/2953/
+Simple ways to create immersive news stories,Panel,,TBA,2017-03-04,09:00,10:00,1.0,Conference Center A,2702/3008,https://ire.org/events-and-training/event/2702/3008/
 Stats: Linear regression,Hands-on,,John Perry,2017-03-04,10:15,11:15,1.0,City Terrace 9,2702/2960,https://ire.org/events-and-training/event/2702/2960/
-Social media scraping,Hands-on,"From President Donald Trump’s Twitter account to fake news — social media platforms have become a major source for news.
+Drones for mapping,Demo,,Matt Waite,2017-03-04,10:15,11:15,1.0,River Terrace 2,2702/3023,https://ire.org/events-and-training/event/2702/3023/
+Mining data from the social web (hands-on),Hands-on,"From President Donald Trump’s Twitter account to fake news — social media platforms have become a major source for news.
 
 This hands-on session will give journalists the ability to harvest information from the social web in structured and automated ways. Participants will learn how to collect information from Facebook pages and Twitter accounts via scraping and APIs and turn them into spreadsheets.
 
 To get the most out of this session: Attendees should have a basic grasp of programming concepts but do not need to be proficient in coding. Attendees should have their own Twitter and Facebook accounts and create app IDs for API access in advance of the session.","Cathy Deng, Lam Thuy Vo",2017-03-04,10:15,11:15,1.0,City Terrace 7,2702/2958,https://ire.org/events-and-training/event/2702/2958/
-Investigating bias and influence in criminal justice: Police and prosecutors,Panel,,TBA,2017-03-04,11:30,12:30,1.0,River Terrace 3,2702/3021,https://ire.org/events-and-training/event/2702/3021/
-Command line tools for reporters (PC),Hands-on,,TBA,2017-03-04,11:30,12:30,1.0,City Terrace 11,2702/3121,https://ire.org/events-and-training/event/2702/3121/
-Personalized interactive journeys,Demo,,"Scott Blumenthal, Sandeep Junnarkar",2017-03-04,11:30,12:30,1.0,River Terrace 2,2702/3117,https://ire.org/events-and-training/event/2702/3117/
-Visualization and analysis in Python (repeat session),Hands-on,,Chase Davis,2017-03-04,11:30,12:30,1.0,City Terrace 8,2702/3098,https://ire.org/events-and-training/event/2702/3098/
+Data cleaning in SQL,Hands-on,,Madi Alexander,2017-03-04,10:15,11:15,1.0,City Terrace 10,2702/3082,https://ire.org/events-and-training/event/2702/3082/
+Intro to database manager MySQL II,Hands-on,,Liz Lucas,2017-03-04,10:15,11:15,1.0,City Terrace 11,2702/2961,https://ire.org/events-and-training/event/2702/2961/
+Conversations 10 (Sponsored by SRCCON - Knight Mozilla OpenNews),Special Event,,TBA,2017-03-04,10:15,11:15,1.0,City Terrace 12,2702/2985,https://ire.org/events-and-training/event/2702/2985/
+Advanced pdf manipulation (repeat session),Hands-on,,Jacob Fenton,2017-03-04,10:15,11:15,1.0,City Terrace 8,2702/3080,https://ire.org/events-and-training/event/2702/3080/
+Public finance and the EMMA website,Hands-on,"For reporters covering state or local government, the Electronic Municipal Market Access (EMMA®) website provides free access to detailed information about the financial health of states, cities and counties, as well as many hospitals, universities, stadiums and other ventures financed by public debt. Staff from the Municipal Securities Rulemaking Board will demonstrate how to find data and information on EMMA, from public finance credit ratings to comprehensive annual financial reports. This interactive session will also highlight several EMMA tools and resources that can assist reporters with monitoring state and local finances and identify potential stories.","Leah Szarek,",2017-03-04,10:15,11:15,1.0,City Terrace 4,2702/2953,https://ire.org/events-and-training/event/2702/2953/
+The art and science of the data story comment request,Panel,,"Rob Barry, Cezary Podkul, Sarah Ryley",2017-03-04,10:15,11:15,1.0,River Terrace 3,2702/3010,https://ire.org/events-and-training/event/2702/3010/
+A roundup of international CAR,Panel,,TBA,2017-03-04,10:15,11:15,1.0,Conference Center B,2702/3116,https://ire.org/events-and-training/event/2702/3116/
+Behind the scenes: Electionland,Panel,,"John Keefe, Scott Klein, Olivia Ma",2017-03-04,10:15,11:15,1.0,Conference Center A,2702/2918,https://ire.org/events-and-training/event/2702/2918/
 Going long on middleform,Panel,"**Moderated by Tom Cardoso, The Globe and Mail","Darla Cameron, Sarah Frostenson, Maureen Linke, Stuart Thompson, Tom Cardoso",2017-03-04,11:30,12:30,1.0,Conference Center A,2702/2920,https://ire.org/events-and-training/event/2702/2920/
-Security tools for journalists (repeat session),Hands-on,,TBA,2017-03-04,11:30,12:30,1.0,City Terrace 4,2702/3069,https://ire.org/events-and-training/event/2702/3069/
-Design track: Using a charting tool (Sponsored by Society for News Design),Hands-on,,TBA,2017-03-04,11:30,12:30,1.0,City Terrace 7,2702/3055,https://ire.org/events-and-training/event/2702/3055/
-Stats: Logistic regression,Hands-on,,Jennifer LaFleur,2017-03-04,11:30,12:30,1.0,City Terrace 9,2702/2963,https://ire.org/events-and-training/event/2702/2963/
-Conversations 11 (Sponsored by SRCCON - Knight Mozilla OpenNews),Special Event,,TBA,2017-03-04,11:30,12:30,1.0,City Terrace 12,2702/2986,https://ire.org/events-and-training/event/2702/2986/
-TBD,Hands-on,,TBA,2017-03-04,11:30,12:30,1.0,City Terrace 11,2702/2965,https://ire.org/events-and-training/event/2702/2965/
 Carwash: Data cleaning in Excel,Hands-on,,TBA,2017-03-04,11:30,12:30,1.0,City Terrace 10,2702/2964,https://ire.org/events-and-training/event/2702/2964/
+Investigating bias and influence in criminal justice: Police and prosecutors,Panel,,TBA,2017-03-04,11:30,12:30,1.0,River Terrace 3,2702/3021,https://ire.org/events-and-training/event/2702/3021/
+Conversations 11 (Sponsored by SRCCON - Knight Mozilla OpenNews),Special Event,,TBA,2017-03-04,11:30,12:30,1.0,City Terrace 12,2702/2986,https://ire.org/events-and-training/event/2702/2986/
+Personalized interactive journeys,Demo,,"Scott Blumenthal, Sandeep Junnarkar",2017-03-04,11:30,12:30,1.0,River Terrace 2,2702/3117,https://ire.org/events-and-training/event/2702/3117/
+Command line tools for reporters (PC),Hands-on,,Chad Day,2017-03-04,11:30,12:30,1.0,City Terrace 11,2702/3121,https://ire.org/events-and-training/event/2702/3121/
+Security tools for journalists - hands on (repeat session),Hands-on,,Mike Tigas,2017-03-04,11:30,12:30,1.0,City Terrace 4,2702/3069,https://ire.org/events-and-training/event/2702/3069/
+Visualization and analysis in Python (repeat session),Hands-on,,Chase Davis,2017-03-04,11:30,12:30,1.0,City Terrace 8,2702/3098,https://ire.org/events-and-training/event/2702/3098/
+Design track: Using a charting tool (Sponsored by Society for News Design),Hands-on,,"Grace Donnelly, Stacy Jones",2017-03-04,11:30,12:30,1.0,City Terrace 7,2702/3055,https://ire.org/events-and-training/event/2702/3055/
+Stats: Logistic regression,Hands-on,,Jennifer LaFleur,2017-03-04,11:30,12:30,1.0,City Terrace 9,2702/2963,https://ire.org/events-and-training/event/2702/2963/
 Lunch on your own (Saturday),Outside Event,,TBA,2017-03-04,12:30,14:15,1.75,See printed schedule for room information,2702/2998,https://ire.org/events-and-training/event/2702/2998/
 Conversations 12 (Sponsored by SRCCON - Knight Mozilla OpenNews),Special Event,,TBA,2017-03-04,12:45,13:45,1.0,City Terrace 12,2702/2987,https://ire.org/events-and-training/event/2702/2987/
-Using R as a GIS for spatial analysis and visualization (advanced),Hands-on,"In this session, we'll be using R for spatial analysis and creating publication-worthy map graphics. Learn how to go beyond the dots to dig deeper and tell better stories with location data in bulk.",Andrew Tran,2017-03-04,14:15,15:15,1.0,City Terrace 5,2702/3083,https://ire.org/events-and-training/event/2702/3083/
-What product can do for journalism,Panel,"Media companies, both startups, and legacy organizations are investing in news products, such as mobile apps, email newsletters, SMS bots, etc. The product approach, which demands design, data, technology, journalism, and management skills, is critical to the future of media and can lead to new revenue streams and rewarding new career paths.","Marie Gilot, Celeste LeCompte, Stacy-Marie Ishmael",2017-03-04,14:15,15:15,1.0,Conference Center A,2702/3035,https://ire.org/events-and-training/event/2702/3035/
-Working with academics,Panel,,TBA,2017-03-04,14:15,15:15,1.0,River Terrace 1,2702/3048,https://ire.org/events-and-training/event/2702/3048/
-Getting started with Access without using SQL,Hands-on,,Mc Nelly Torres,2017-03-04,14:15,15:15,1.0,City Terrace 9,2702/3084,https://ire.org/events-and-training/event/2702/3084/
+Data can only dance with its music: Understanding the ecology of public data,Panel,,"Carli Brosseau, Tom Johnson, Andrew Lehren",2017-03-04,14:15,15:15,1.0,Conference Center B,2702/2921,https://ire.org/events-and-training/event/2702/2921/
 Visualizing and understanding uncertainty (Sponsored by Society for News Design) **pre-registered attendees only,Hands-on,"Statistics is the science of uncertainty. It’s an invaluable tool for journalists trying to help readers and viewers make good choices with imperfect data. But though our models come with uncertainty, we are sometimes bad at helping readers understand the uncertainty that’s built into our work. Science is not far ahead of us -- look at the uncertainty cone in a hurricane, which lay readers often mistake for hurricane size. Look at how readers misinterpreted election predictions, even when they came with confidence intervals or likelihood measurements. How can we explain uncertainty better so that readers understand it? This is designed to be a hands-on collaborative workshop in which science communicators and visual journalists discuss the state of the art in visualizing uncertainty, then come up with some new directions via sketching and prototyping.
 
 Preregistration is required and seating is limited. Computers will not be provided for this workshop so please bring your laptop.
 
 NOTE: Registration is required for this session. Click here to sign up.",TBA,2017-03-04,14:15,17:45,3.5,City Terrace 4,2702/3054,https://ire.org/events-and-training/event/2702/3054/
-Inaugural hack swap,Special Event,,"Jeremy Bowers, Andrew Chavez, John McClure",2017-03-04,14:15,15:15,1.0,City Terrace 12,2702/2988,https://ire.org/events-and-training/event/2702/2988/
-30/60: Thirty of the best free data storytelling tools in sixty mins,Demo,"Settle in and buckle up! News innovators-in-residence Mike Reilley a trainer with the SPJ/Google News Lab program and Victor Hernandez from Banjo crank up the gravity-defying mind-bending roller coaster of new digital tools -- 30 of the latest and greatest (and free) for your data reporting toolkits. Featuring hands-on training focused on the newest available data visualization methods, mapping tools, mobile newsgathering apps and more -- this adventure promises all of the excitement of your favorite thrill ride, sans the motion sickness.","Victor Hernandez, Mike Reilley",2017-03-04,14:15,15:15,1.0,River Terrace 2,2702/2922,https://ire.org/events-and-training/event/2702/2922/
-Building your first Leaflet.js map,Hands-on,"Maps! Who doesn't love wonderful, colorful maps? In this course we will be building a map with Leaflet.js., a very popular Javascript mapping library. The map will display both markers and shapes. The shapes will be used to create a basic choropleth map.",Chris Essig,2017-03-04,14:15,15:15,1.0,City Terrace 7,2702/2966,https://ire.org/events-and-training/event/2702/2966/
-Investigating bias and influence in criminal justice: Judges and beyond,Panel,"**Moderated by Cheryl Phillips, Stanford University","Cheryl Phillips, Michael Braga, Robert Gebeloff, Barnaby Skinner",2017-03-04,14:15,15:15,1.0,River Terrace 3,2702/2926,https://ire.org/events-and-training/event/2702/2926/
-Data can only dance with its music: Understanding the ecology of public data,Panel,,"Carli Brosseau, Tom Johnson, Andrew Lehren",2017-03-04,14:15,15:15,1.0,Conference Center B,2702/2921,https://ire.org/events-and-training/event/2702/2921/
 Advanced Django for data analysis,Hands-on,,Adam Playford,2017-03-04,14:15,15:15,1.0,City Terrace 8,2702/3122,https://ire.org/events-and-training/event/2702/3122/
-Collaborating with the competition,Panel,,TBA,2017-03-04,15:30,16:30,1.0,River Terrace 1,2702/3118,https://ire.org/events-and-training/event/2702/3118/
-"Earth, wind and fire: Covering disasters from a data perspective",Panel,,TBA,2017-03-04,15:30,16:30,1.0,River Terrace 3,2702/2923,https://ire.org/events-and-training/event/2702/2923/
-Tools to convert lots of PDFs at once,Demo,,"Todd Wallack, Miguel Barbosa",2017-03-04,15:30,16:30,1.0,River Terrace 2,2702/2924,https://ire.org/events-and-training/event/2702/2924/
-Localize that investigation: Using AP data to do your own stories,Special Event,,"Troy Thibodeaux, Meghan Hoyer",2017-03-04,15:30,16:30,1.0,City Terrace 12,2702/2989,https://ire.org/events-and-training/event/2702/2989/
-Google Fusion Tables (beginner),Hands-on,,Daniel Lathrop,2017-03-04,15:30,16:30,1.0,City Terrace 8,2702/2973,https://ire.org/events-and-training/event/2702/2973/
+Inaugural hack swap,Special Event,,"Jeremy Bowers, Andrew Chavez, John McClure",2017-03-04,14:15,15:15,1.0,City Terrace 12,2702/2988,https://ire.org/events-and-training/event/2702/2988/
+Building your first Leaflet.js map,Hands-on,"Maps! Who doesn't love wonderful, colorful maps? In this course we will be building a map with Leaflet.js., a very popular Javascript mapping library. The map will display both markers and shapes. The shapes will be used to create a basic choropleth map.",Chris Essig,2017-03-04,14:15,15:15,1.0,City Terrace 7,2702/2966,https://ire.org/events-and-training/event/2702/2966/
+30/60: Thirty of the best free data storytelling tools in sixty mins,Demo,"Settle in and buckle up! News innovators-in-residence Mike Reilley a trainer with the SPJ/Google News Lab program and Victor Hernandez from Banjo crank up the gravity-defying mind-bending roller coaster of new digital tools -- 30 of the latest and greatest (and free) for your data reporting toolkits. Featuring hands-on training focused on the newest available data visualization methods, mapping tools, mobile newsgathering apps and more -- this adventure promises all of the excitement of your favorite thrill ride, sans the motion sickness.","Victor Hernandez, Mike Reilley",2017-03-04,14:15,15:15,1.0,River Terrace 2,2702/2922,https://ire.org/events-and-training/event/2702/2922/
+Investigating bias and influence in criminal justice: Judges and beyond,Panel,"**Moderated by Cheryl Phillips, Stanford University","Cheryl Phillips, Michael Braga, Robert Gebeloff, Barnaby Skinner",2017-03-04,14:15,15:15,1.0,River Terrace 3,2702/2926,https://ire.org/events-and-training/event/2702/2926/
+What product can do for journalism,Panel,"Media companies, both startups, and legacy organizations are investing in news products, such as mobile apps, email newsletters, SMS bots, etc. The product approach, which demands design, data, technology, journalism, and management skills, is critical to the future of media and can lead to new revenue streams and rewarding new career paths.","Marie Gilot, Celeste LeCompte, Stacy-Marie Ishmael",2017-03-04,14:15,15:15,1.0,Conference Center A,2702/3035,https://ire.org/events-and-training/event/2702/3035/
+Using R as a GIS for spatial analysis and visualization (advanced),Hands-on,"In this session, we'll be using R for spatial analysis and creating publication-worthy map graphics. Learn how to go beyond the dots to dig deeper and tell better stories with location data in bulk.",Andrew Tran,2017-03-04,14:15,15:15,1.0,City Terrace 5,2702/3083,https://ire.org/events-and-training/event/2702/3083/
+Getting started with Access without using SQL,Hands-on,,Mc Nelly Torres,2017-03-04,14:15,15:15,1.0,City Terrace 9,2702/3084,https://ire.org/events-and-training/event/2702/3084/
+Working with academics,Panel,,TBA,2017-03-04,14:15,15:15,1.0,River Terrace 1,2702/3048,https://ire.org/events-and-training/event/2702/3048/
+Future access to digital information,Panel,"**Moderated by David Herzog, IRE/NICAR","Margaret Janz, Yogin Kothari, Nancy Watzman, David Herzog",2017-03-04,15:30,16:30,1.0,Conference Center B,2702/3125,https://ire.org/events-and-training/event/2702/3125/
 Self-promotion for the data reporter,Panel,,TBA,2017-03-04,15:30,16:30,1.0,Conference Center A,2702/3037,https://ire.org/events-and-training/event/2702/3037/
-"Javascript charts and maps, straight from R (intermediate)",Hands-on,"In this session, we'll be using htmlwidgets to create simple JavaScript charts and maps, straight from your R data analysis pipeline and with no need to write JavaScript",Peter Aldhous,2017-03-04,15:30,16:30,1.0,City Terrace 5,2702/2968,https://ire.org/events-and-training/event/2702/2968/
-Command line for reporters (Unix),Hands-on,,AJ Vicens,2017-03-04,15:30,16:30,1.0,City Terrace 7,2702/3065,https://ire.org/events-and-training/event/2702/3065/
+Localize that investigation: Using AP data to do your own stories,Special Event,,"Troy Thibodeaux, Meghan Hoyer",2017-03-04,15:30,16:30,1.0,City Terrace 12,2702/2989,https://ire.org/events-and-training/event/2702/2989/
 Counting & summing with Access without using SQL,Hands-on,,Tisha Thompson,2017-03-04,15:30,16:30,1.0,City Terrace 9,2702/3085,https://ire.org/events-and-training/event/2702/3085/
-"Internet Archive: Resources, tools, and tricks",Demo,,Nancy Watzman,2017-03-04,16:45,17:45,1.0,River Terrace 2,2702/2927,https://ire.org/events-and-training/event/2702/2927/
-Regular expressions,Hands-on,,Justin Myers,2017-03-04,16:45,17:45,1.0,City Terrace 8,2702/3086,https://ire.org/events-and-training/event/2702/3086/
+Command line for reporters (Unix),Hands-on,,AJ Vicens,2017-03-04,15:30,16:30,1.0,City Terrace 7,2702/3065,https://ire.org/events-and-training/event/2702/3065/
+Tools to convert lots of PDFs at once,Demo,,"Todd Wallack, Miguel Barbosa",2017-03-04,15:30,16:30,1.0,River Terrace 2,2702/2924,https://ire.org/events-and-training/event/2702/2924/
+"Javascript charts and maps, straight from R (intermediate)",Hands-on,"In this session, we'll be using htmlwidgets to create simple JavaScript charts and maps, straight from your R data analysis pipeline and with no need to write JavaScript",Peter Aldhous,2017-03-04,15:30,16:30,1.0,City Terrace 5,2702/2968,https://ire.org/events-and-training/event/2702/2968/
+"Earth, wind and fire: Covering disasters from a data perspective",Panel,,TBA,2017-03-04,15:30,16:30,1.0,River Terrace 3,2702/2923,https://ire.org/events-and-training/event/2702/2923/
+Google Fusion Tables (beginner),Hands-on,,Daniel Lathrop,2017-03-04,15:30,16:30,1.0,City Terrace 8,2702/2973,https://ire.org/events-and-training/event/2702/2973/
+Collaborating with the competition,Panel,,TBA,2017-03-04,15:30,16:30,1.0,River Terrace 1,2702/3118,https://ire.org/events-and-training/event/2702/3118/
 Animated videos,Hands-on,,Kavya Sukumar,2017-03-04,16:45,17:45,1.0,City Terrace 7,2702/2969,https://ire.org/events-and-training/event/2702/2969/
-Joining in Access without using SQL,Hands-on,,Helena Bengtsson,2017-03-04,16:45,17:45,1.0,City Terrace 9,2702/3088,https://ire.org/events-and-training/event/2702/3088/
+Regular expressions,Hands-on,,Justin Myers,2017-03-04,16:45,17:45,1.0,City Terrace 8,2702/3086,https://ire.org/events-and-training/event/2702/3086/
 Separating fact from fiction: Information verification,Panel,,Steve Myers,2017-03-04,16:45,17:45,1.0,Conference Center A,2702/2925,https://ire.org/events-and-training/event/2702/2925/
+Joining in Access without using SQL,Hands-on,,Helena Bengtsson,2017-03-04,16:45,17:45,1.0,City Terrace 9,2702/3088,https://ire.org/events-and-training/event/2702/3088/
 Advanced analysis in SQL (repeat session),Hands-on,,Chris Schnaars,2017-03-04,16:45,17:45,1.0,City Terrace 5,2702/3087,https://ire.org/events-and-training/event/2702/3087/
+"Internet Archive: Resources, tools, and tricks",Demo,,Nancy Watzman,2017-03-04,16:45,17:45,1.0,River Terrace 2,2702/2927,https://ire.org/events-and-training/event/2702/2927/
+Getting data into Excel,Hands-on,,Emmanuel Martinez,2017-03-05,09:00,10:00,1.0,City Terrace 5,2702/3072,https://ire.org/events-and-training/event/2702/3072/
+Stats: Linear regression (repeat session),Hands-on,,Jeff Kelly Lowenstein,2017-03-05,09:00,10:00,1.0,City Terrace 8,2702/3094,https://ire.org/events-and-training/event/2702/3094/
+Finding connections in campaign finance data with graph databases,Hands-on,,"Meredith Broussard, William Lyon",2017-03-05,09:00,10:00,1.0,City Terrace 7,2702/3066,https://ire.org/events-and-training/event/2702/3066/
 Command line graphics,Demo,,Jon Keegan,2017-03-05,09:00,10:00,1.0,River Terrace 2,2702/3119,https://ire.org/events-and-training/event/2702/3119/
-Finding connections in campaign finance data with graph databases,Hands-on,,TBA,2017-03-05,09:00,10:00,1.0,City Terrace 7,2702/3066,https://ire.org/events-and-training/event/2702/3066/
-Conference sales (Sunday),Special Event,,TBA,2017-03-05,09:00,10:30,1.5,3rd floor - Skybridge,2702/3007,https://ire.org/events-and-training/event/2702/3007/
-Year in CAR (repeat),Panel,,"Lauren Grandestaff, Kaitlin Washburn",2017-03-05,09:00,10:00,1.0,River Terrace 1,2702/2928,https://ire.org/events-and-training/event/2702/2928/
+Twitter tricks and analytics,Hands-on,,Doug Haddix,2017-03-05,09:00,10:00,1.0,City Terrace 4,2702/3070,https://ire.org/events-and-training/event/2702/3070/
 Just enough Django: Distributed data entry in the newsroom (beginner/intermediate) *pre-registered attendees only,Hands-on,"Ben Welsh presents a step-by-step guide to creating a simple web application that empowers you to enlist reporters in data entry and refinement. The 3-hour, hands-on tutorial will teach you how to take advantage of the Django Web framework's powerful administration panel, without bothering with all the other web developer crap. You will learn how to design database tables, load in data and quickly create a system for others to improve it.
 
 Preregistration is required and seating is limited. Laptops will be provided for the training.
@@ -403,16 +406,16 @@ Workshop prerequisites: If you have a good attitude and know how to take a few c
 
 NOTE: Registration is required for this session. Click here to sign up.","Dana Amihere, Ben Welsh",2017-03-05,09:00,12:30,3.5,City Terrace 6,2702/2884,https://ire.org/events-and-training/event/2702/2884/
 OpenElections hackathon,Special Event,,"Derek Willis, Serdar Tumgoren",2017-03-05,09:00,12:30,3.5,City Terrace 12,2702/2990,https://ire.org/events-and-training/event/2702/2990/
-Getting data into Excel,Hands-on,,Emmanuel Martinez,2017-03-05,09:00,10:00,1.0,City Terrace 5,2702/3072,https://ire.org/events-and-training/event/2702/3072/
-Twitter tricks and analytics,Hands-on,,Doug Haddix,2017-03-05,09:00,10:00,1.0,City Terrace 4,2702/3070,https://ire.org/events-and-training/event/2702/3070/
-Stats: Linear regression (repeat session),Hands-on,,Jeff Kelly Lowenstein,2017-03-05,09:00,10:00,1.0,City Terrace 8,2702/3094,https://ire.org/events-and-training/event/2702/3094/
-ArcGIS Online and the power of Story Maps,Hands-on,,TBA,2017-03-05,10:15,11:15,1.0,City Terrace 5,2702/3092,https://ire.org/events-and-training/event/2702/3092/
-Stats: Logistic regression (repeat session),Hands-on,,Jennifer LaFleur,2017-03-05,10:15,11:15,1.0,City Terrace 8,2702/3095,https://ire.org/events-and-training/event/2702/3095/
-Let's get creepy: Backgrounding tips from a journalist and librarian,Panel,,"Sarah Hutchins, Lauren Grandestaff",2017-03-05,10:15,11:15,1.0,River Terrace 1,2702/2929,https://ire.org/events-and-training/event/2702/2929/
-Career roundtable,Panel,,TBA,2017-03-05,10:15,11:15,1.0,River Terrace 3,2702/3044,https://ire.org/events-and-training/event/2702/3044/
-Data analysis in Javascript and Node.js,Hands-on,,Daniel Lathrop,2017-03-05,10:15,11:15,1.0,City Terrace 7,2702/3067,https://ire.org/events-and-training/event/2702/3067/
+Year in CAR (repeat),Panel,,"Lauren Grandestaff, Kaitlin Washburn",2017-03-05,09:00,10:00,1.0,River Terrace 1,2702/2928,https://ire.org/events-and-training/event/2702/2928/
+Conference sales (Sunday),Special Event,,TBA,2017-03-05,09:00,10:30,1.5,3rd floor - Skybridge,2702/3007,https://ire.org/events-and-training/event/2702/3007/
 Programming best practices,Demo,,Jeff Larson,2017-03-05,10:15,11:15,1.0,River Terrace 2,2702/3120,https://ire.org/events-and-training/event/2702/3120/
-Getting data into Access,Hands-on,,Tracy Greer,2017-03-05,11:30,12:30,1.0,City Terrace 5,2702/3071,https://ire.org/events-and-training/event/2702/3071/
+Career roundtable,Panel,,TBA,2017-03-05,10:15,11:15,1.0,River Terrace 3,2702/3044,https://ire.org/events-and-training/event/2702/3044/
+ArcGIS Online and the power of Story Maps,Hands-on,,TBA,2017-03-05,10:15,11:15,1.0,City Terrace 5,2702/3092,https://ire.org/events-and-training/event/2702/3092/
+Data analysis in Javascript and Node.js,Hands-on,,Daniel Lathrop,2017-03-05,10:15,11:15,1.0,City Terrace 7,2702/3067,https://ire.org/events-and-training/event/2702/3067/
+Let's get creepy: Backgrounding tips from a journalist and librarian,Panel,,"Sarah Hutchins, Lauren Grandestaff",2017-03-05,10:15,11:15,1.0,River Terrace 1,2702/2929,https://ire.org/events-and-training/event/2702/2929/
+Stats: Logistic regression (repeat session),Hands-on,,Jennifer LaFleur,2017-03-05,10:15,11:15,1.0,City Terrace 8,2702/3095,https://ire.org/events-and-training/event/2702/3095/
+"Outwit, outplay, outlast: How to pull off a student investigation",Panel,"**Moderated by Sarah Hutchins, IRE/NICAR","Briana Erickson, Sara Gregory, Samantha Sunne, Sarah Hutchins",2017-03-05,11:30,12:30,1.0,River Terrace 3,2702/3126,https://ire.org/events-and-training/event/2702/3126/
 Advanced social media sleuthing (repeat session),Hands-on,,Sarah Hutchins,2017-03-05,11:30,12:30,1.0,City Terrace 4,2702/3093,https://ire.org/events-and-training/event/2702/3093/
+Getting data into Access,Hands-on,,Tracy Greer,2017-03-05,11:30,12:30,1.0,City Terrace 5,2702/3071,https://ire.org/events-and-training/event/2702/3071/
 Social media sleuthing,Panel,,Doug Haddix,2017-03-05,11:30,12:30,1.0,River Terrace 1,2702/2930,https://ire.org/events-and-training/event/2702/2930/
 Google Fusion Tables (advanced),Hands-on,,Tommy Kaas,2017-03-05,11:30,12:30,1.0,City Terrace 8,2702/2970,https://ire.org/events-and-training/event/2702/2970/
