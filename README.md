@@ -13,10 +13,10 @@ This repository contains the [NICAR 2017 conference schedule](https://ire.org/ev
 
 ## Run the scraper yourself
 
-To download the script and install the necessary Python libraries, execute the following commands in your terminal:
+To run the scraper, you'll need Python 3. To get started, execute the following commands in your terminal:
 
 ```bash
-mkvirtualenv nicar-2017 # Optional, recommended
+mkvirtualenv nicar-2017-schedule # Optional, recommended
 git clone https://github.com/jsvine/nicar-2017-schedule.git
 cd nicar-2017-schedule
 pip install -r requirements.txt
