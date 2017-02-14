@@ -3,6 +3,7 @@ import requests
 import lxml.html
 import itertools
 from collections import OrderedDict
+from operator import itemgetter
 import argparse
 import json
 import csv
@@ -107,8 +108,13 @@ def get_sessions():
     day_els = dom.cssselect("ul.listview.pane")
     days_zipped = zip(day_els, DATES)
     sessions_nested = [ parse_day(el, date) for el, date in days_zipped ]
-    sessions = list(itertools.chain.from_iterable(sessions_nested))
-    return sessions
+    sessions = itertools.chain.from_iterable(sessions_nested)
+    return list(sorted(sessions, key=itemgetter(
+        "date",
+        "time_start",
+        "time_end",
+        "title"
+    )))
 
 def main():
     """
