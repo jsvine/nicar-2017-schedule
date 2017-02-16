@@ -574,7 +574,7 @@
     {
         "title": "Analyzing satellite imagery with Google Earth Engine",
         "type": "Hands-on",
-        "description": "",
+        "description": "Learn the basics of Earth Engine, Google's planetary-scale platform for geospatial analysis and visualization. Earth Engine (sister to Google Earth) has long been used by scientists quantifying differences on the Earth's surface. See how journalists at places like Reveal, Berliner Morgenpost and The New York Times have used the free tool to speed up normally complex and resource-intensive tasks and get hands-on with the Earth Engine API.\n\nFamiliarity with GIS/remote sensing and satellite imagery is a plus, but not required. We'll be coding with the JavaScript API, but no prior JS experience is necessary. For Earth Engine access, go to: https://signup.earthengine.google.com.",
         "speakers": "Chris Herwig, Vanessa Schneider, Eric Sagara",
         "date": "2017-03-02",
         "time_start": "14:15",
@@ -715,7 +715,7 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3111/"
     },
     {
-        "title": "Design track: Intro to D3 (Sponsored by Society for News Design)",
+        "title": "Design track: Basic D3 (Sponsored by Society for News Design)",
         "type": "Hands-on",
         "description": "",
         "speakers": "Darla Cameron, Ashley Wu",
@@ -847,7 +847,7 @@
     {
         "title": "A hitchhiker's guide To APIs",
         "type": "Hands-on",
-        "description": "",
+        "description": "In this hands-on session, you will use Postman to interrogate a web API. David Eads (NPR) and Helga Salinas (Seattle Times) will guide you through the process of constructing a magic URL that will tell you how Chicago\u2019s violent crime in 2016 compares to other years.\n\nThis session is for beginners. If you\u2019ve ever thought about what goes on in the location bar of your browser, have an eye for patterns, or want better ways to answer your reporting questions, you\u2019ll have a blast.",
         "speakers": "David Eads",
         "date": "2017-03-02",
         "time_start": "16:45",
@@ -886,7 +886,7 @@
     {
         "title": "Design track: Intermediate D3 (Sponsored by Society for News Design)",
         "type": "Hands-on",
-        "description": "",
+        "description": "We\u2019ll tackle some of the more complicated chart forms in D3, cover advanced data manipulation functions, and include tons of real-world examples of how you can turn your own data into D3 charts.",
         "speakers": "John Muyskens, Leslie Shapiro",
         "date": "2017-03-02",
         "time_start": "16:45",
@@ -951,7 +951,7 @@
     {
         "title": "Open 3d sandbox",
         "type": "Special Event",
-        "description": "",
+        "description": "Make something in 3D in 10 minutes! We'll bring the basics for a three.js scene along with a bucket of assets so people can mix and match while learning how to build 3D interactives. Please bring your computer to this session.",
         "speakers": "Joe Fox, Armand Emamdjomeh",
         "date": "2017-03-02",
         "time_start": "16:45",
@@ -1196,6 +1196,19 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3036/"
     },
     {
+        "title": "Broadcast: Transforming data into knockout visuals",
+        "type": "Panel",
+        "description": "",
+        "speakers": "TBA",
+        "date": "2017-03-03",
+        "time_start": "10:15",
+        "time_end": "11:15",
+        "length_in_hours": 1.0,
+        "room": "Conference Center B",
+        "event_id": "2702/3012",
+        "event_url": "https://ire.org/events-and-training/event/2702/3012/"
+    },
+    {
         "title": "Common foundations for newsroom tools",
         "type": "Panel",
         "description": "",
@@ -1274,19 +1287,6 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3074/"
     },
     {
-        "title": "Managing data projects & workflows",
-        "type": "Panel",
-        "description": "**Moderated by Matt Goldberg, NBC4 Los Angeles",
-        "speakers": "Matt Goldberg, Aron Pilhofer, Janet Roberts",
-        "date": "2017-03-03",
-        "time_start": "10:15",
-        "time_end": "11:15",
-        "length_in_hours": 1.0,
-        "room": "Conference Center B",
-        "event_id": "2702/3110",
-        "event_url": "https://ire.org/events-and-training/event/2702/3110/"
-    },
-    {
         "title": "Phil Meyer Award winners deep dives",
         "type": "Panel",
         "description": "**Moderated by Jodi Upton, Syracuse University",
@@ -1302,7 +1302,7 @@
     {
         "title": "Show me the money: Finding compensation gold in proxy statements",
         "type": "Hands-on",
-        "description": "",
+        "description": "Want to quickly calculate how much Warren Buffett is worth? Wondering how much Mark Zuckerberg pays himself? The answers are readily available for those who know where to look. In filings with the Securities and Exchange Commission, thousands of publicly traded companies (and even some companies that don\u2019t trade on a stock exchange) reveal a wealth of information about executive pay, perks and stock holdings. This hands-on session will show you where to find compensation data for companies you cover.",
         "speakers": "Jeff Ostrowski",
         "date": "2017-03-03",
         "time_start": "10:15",
@@ -1311,19 +1311,6 @@
         "room": "City Terrace 8",
         "event_id": "2702/2945",
         "event_url": "https://ire.org/events-and-training/event/2702/2945/"
-    },
-    {
-        "title": "Broadcast: Transforming data into knockout visuals",
-        "type": "Panel",
-        "description": "",
-        "speakers": "TBA",
-        "date": "2017-03-03",
-        "time_start": "11:30",
-        "time_end": "12:30",
-        "length_in_hours": 1.0,
-        "room": "River Terrace 1",
-        "event_id": "2702/3012",
-        "event_url": "https://ire.org/events-and-training/event/2702/3012/"
     },
     {
         "title": "Conversations 7 (Sponsored by SRCCON - Knight Mozilla OpenNews)",
@@ -1354,7 +1341,7 @@
     {
         "title": "Data wrangling with Python",
         "type": "Hands-on",
-        "description": "",
+        "description": "Much of the prerequisite for analysis involves loading, transforming, and storing data. We'll dig into Python libraries that are useful for reading from and writing to various data formats, including databases. Familiarity with Python and SQL is helpful but not essential.",
         "speakers": "Anthony DeBarros",
         "date": "2017-03-03",
         "time_start": "11:30",
@@ -1415,6 +1402,19 @@
         "room": "City Terrace 4",
         "event_id": "2702/2972",
         "event_url": "https://ire.org/events-and-training/event/2702/2972/"
+    },
+    {
+        "title": "Managing data projects & workflows",
+        "type": "Panel",
+        "description": "**Moderated by Matt Goldberg, NBC4 Los Angeles",
+        "speakers": "Matt Goldberg, Aron Pilhofer, Janet Roberts",
+        "date": "2017-03-03",
+        "time_start": "11:30",
+        "time_end": "12:30",
+        "length_in_hours": 1.0,
+        "room": "River Terrace 1",
+        "event_id": "2702/3110",
+        "event_url": "https://ire.org/events-and-training/event/2702/3110/"
     },
     {
         "title": "Visualizing and understanding uncertainty (Sponsored by Society for News Design)",
@@ -1508,9 +1508,9 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3076/"
     },
     {
-        "title": "Design track: Interaction design (Sponsored by Society for News Design)",
+        "title": "Design track: Interactive design (Sponsored by Society for News Design)",
         "type": "Panel",
-        "description": "",
+        "description": "What the worst user interface ever can teach you about design.",
         "speakers": "Sarah Slobin",
         "date": "2017-03-03",
         "time_start": "14:15",
@@ -1532,6 +1532,19 @@
         "room": "River Terrace 1",
         "event_id": "2702/2919",
         "event_url": "https://ire.org/events-and-training/event/2702/2919/"
+    },
+    {
+        "title": "Fighting First Amendment attacks",
+        "type": "Panel",
+        "description": "**Moderated by Doug Haddix, IRE/NICAR",
+        "speakers": "Doug Haddix",
+        "date": "2017-03-03",
+        "time_start": "14:15",
+        "time_end": "15:15",
+        "length_in_hours": 1.0,
+        "room": "Conference Center B",
+        "event_id": "2702/3129",
+        "event_url": "https://ire.org/events-and-training/event/2702/3129/"
     },
     {
         "title": "QGIS I: Importing and displaying geographic data",
@@ -1594,7 +1607,7 @@
         "time_start": "14:15",
         "time_end": "15:15",
         "length_in_hours": 1.0,
-        "room": "Conference Center B",
+        "room": "Conference Center A",
         "event_id": "2702/2913",
         "event_url": "https://ire.org/events-and-training/event/2702/2913/"
     },
@@ -1640,7 +1653,7 @@
     {
         "title": "Design track: User testing - Gathering insight to make better stories (Sponsored by Society for News Design)",
         "type": "Panel",
-        "description": "",
+        "description": "Is your story clear? Do people see that search field? Does that button work the way you think it does? Find out how to answer these questions by talking to a few outside people. It\u2019s easy, it\u2019s cheap, and it works. Bonus: Bring a project you\u2019re working on and learn how to test it.",
         "speakers": "Hannah Birch, Clarisa Diaz",
         "date": "2017-03-03",
         "time_start": "15:30",
@@ -1874,7 +1887,7 @@
     {
         "title": "Intro to database manager MySQL I",
         "type": "Hands-on",
-        "description": "",
+        "description": "We\u2019ll show you how to import files into MySQL, a powerful open-source database manager. You\u2019ll use SQL to sort, query and add new fields to make sense of the data.\n\nThis session is good for: Anyone with basic spreadsheet or database skills.",
         "speakers": "Ronald Campbell",
         "date": "2017-03-04",
         "time_start": "09:00",
@@ -1926,7 +1939,7 @@
     {
         "title": "Securing data and communications",
         "type": "Panel",
-        "description": "",
+        "description": "Are your sources\u2019 identities at risk? Are you handling sensitive information? Do you need to protect your data from digital espionage? Do you need to encrypt your communication with editors and sources? Are you under technical attack? In two hours, your information security skills will go to the next level. Use a digital security toolbox and learn how to store, send and receive sensitive information. Bring your computers and mobile phones, and enjoy a cryptoparty at NICAR 2017!",
         "speakers": "Jorge Luis Sierra",
         "date": "2017-03-04",
         "time_start": "09:00",
@@ -2017,7 +2030,7 @@
     {
         "title": "Data cleaning in SQL",
         "type": "Hands-on",
-        "description": "",
+        "description": "Spend enough time around databases and inevitably you\u2019ll come across one that has an obnoxious number of variations on city names: New York City. New York. NYC. NY. And yes, even NY City. If you\u2019re not sure how to handle that, this session is for you. Come to \u201cData cleaning in SQL\u201d if you\u2019ve had an introduction to SQL but want to move past the basics of \u201cWHERE\u201d and \u201cORDER BY.\u201d We\u2019ll cover how to deal with multiple spellings and misspellings, strange date formats, category codes, and a few other tricks and tips for using SQL to clean data.",
         "speakers": "Madi Alexander",
         "date": "2017-03-04",
         "time_start": "10:15",
@@ -2043,7 +2056,7 @@
     {
         "title": "Intro to database manager MySQL II",
         "type": "Hands-on",
-        "description": "",
+        "description": "We'll pick up from 'Intro to database manager MySQL I' and continue to cover SQL, introduce joining tables, and talk about some of the useful functions and other features unique to MySQL that make it a powerful and useful tool for reporting.\n\nThis session is good for: Anyone with basic spreadsheet or database skills; we suggest you take the first part of this class: Intro to database manager MySQL I.",
         "speakers": "Liz Lucas",
         "date": "2017-03-04",
         "time_start": "10:15",
@@ -2147,7 +2160,7 @@
     {
         "title": "Design track: Use a charting tool (Sponsored by Society for News Design)",
         "type": "Hands-on",
-        "description": "",
+        "description": "We\u2019ll take a look at Datawrapper and discuss how to use it, how to customize it for your newsroom styles, and more.",
         "speakers": "Grace Donnelly, Stacy Jones",
         "date": "2017-03-04",
         "time_start": "11:30",
@@ -2330,7 +2343,7 @@
         "title": "Inaugural hack swap",
         "type": "Special Event",
         "description": "",
-        "speakers": "Jeremy Bowers, Andrew Chavez, John McClure",
+        "speakers": "Jeremy Bowers, Andrew Chavez, Jon McClure",
         "date": "2017-03-04",
         "time_start": "14:15",
         "time_end": "15:15",
@@ -2563,7 +2576,7 @@
     {
         "title": "Internet Archive: Resources, tools, and tricks",
         "type": "Demo",
-        "description": "",
+        "description": "Have you ever wondered how to get the Wayback Machine to crawl what you want it to crawl? Are you looking for that thing you know President Donald Trump said, but you don\u2019t remember when, where, or to whom? Would you like to know how often a particular video clip was repeated by Fox News or MSNBC? We\u2019ll do a deep dive into the byways of the Internet Archive and explore how we can help bolster your reporting. We\u2019ll also preview our plans to mine more rich metadata from our 30 petabytes of TV news shows, web pages, books and more.",
         "speakers": "Nancy Watzman",
         "date": "2017-03-04",
         "time_start": "16:45",
@@ -2641,7 +2654,7 @@
     {
         "title": "Getting data into Excel",
         "type": "Hands-on",
-        "description": "",
+        "description": "Data doesn\u2019t always come in nicely formatted spreadsheets. For some file formats, you can\u2019t analyze the data until you get it into a spreadsheet. In this session, we will import everything from text files to tables on a webpage into Excel. We will cover the importance of data types, delimiters and fixed-width columns to make the import process as smooth as possible.",
         "speakers": "Emmanuel Martinez",
         "date": "2017-03-05",
         "time_start": "09:00",
@@ -2650,6 +2663,19 @@
         "room": "City Terrace 5",
         "event_id": "2702/3072",
         "event_url": "https://ire.org/events-and-training/event/2702/3072/"
+    },
+    {
+        "title": "Lighter side of data journalism?",
+        "type": "Panel",
+        "description": "",
+        "speakers": "TBA",
+        "date": "2017-03-05",
+        "time_start": "09:00",
+        "time_end": "10:00",
+        "length_in_hours": 1.0,
+        "room": "River Terrace 3",
+        "event_id": "2702/3130",
+        "event_url": "https://ire.org/events-and-training/event/2702/3130/"
     },
     {
         "title": "Stats: Linear regression (repeat session)",
@@ -2771,7 +2797,7 @@
     {
         "title": "Let's get creepy: Backgrounding tips from a journalist and librarian",
         "type": "Panel",
-        "description": "",
+        "description": "Backgrounding sources can be a tedious and time-consuming process. But there's nothing worse that being caught off-guard in the moments before publication \u2013 or, even worse, after publication. We'll help you develop a list of go-to online tools and resources to speed up the process, and run through a couple scenarios to show you how they work in practice.",
         "speakers": "Sarah Hutchins, Lauren Grandestaff",
         "date": "2017-03-05",
         "time_start": "10:15",
@@ -2808,15 +2834,15 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3095/"
     },
     {
-        "title": "Advanced social media sleuthing (repeat session)",
-        "type": "Hands-on",
-        "description": "",
-        "speakers": "Sarah Hutchins",
+        "title": "Flourish: Making reusable visualization templates",
+        "type": "Demo",
+        "description": "Speaker:",
+        "speakers": null,
         "date": "2017-03-05",
         "time_start": "11:30",
         "time_end": "12:30",
         "length_in_hours": 1.0,
-        "room": "City Terrace 4",
+        "room": "River Terrace 2",
         "event_id": "2702/3093",
         "event_url": "https://ire.org/events-and-training/event/2702/3093/"
     },
