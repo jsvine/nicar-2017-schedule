@@ -299,6 +299,19 @@
         "event_url": "https://ire.org/events-and-training/event/2702/2975/"
     },
     {
+        "title": "Educator huddle: Let's discuss the future",
+        "type": "Panel",
+        "description": "",
+        "speakers": "Brant Houston, Cheryl Phillips",
+        "date": "2017-03-02",
+        "time_start": "10:15",
+        "time_end": "11:15",
+        "length_in_hours": 1.0,
+        "room": "Conference Center B",
+        "event_id": "2702/3045",
+        "event_url": "https://ire.org/events-and-training/event/2702/3045/"
+    },
+    {
         "title": "GitHub for journos",
         "type": "Hands-on",
         "description": "",
@@ -432,7 +445,7 @@
         "title": "Better than average: Working with high-dimensional data",
         "type": "Panel",
         "description": "",
-        "speakers": "TBA",
+        "speakers": "Holly Hacker, Paul Overberg, Larry Fenn",
         "date": "2017-03-02",
         "time_start": "11:30",
         "time_end": "12:30",
@@ -598,10 +611,23 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3089/"
     },
     {
+        "title": "Covering K-12 while battling FERPA",
+        "type": "Panel",
+        "description": "",
+        "speakers": "Nathaniel Lash, Jennifer Peebles, Jennifer Smith Richards",
+        "date": "2017-03-02",
+        "time_start": "14:15",
+        "time_end": "15:15",
+        "length_in_hours": 1.0,
+        "room": "River Terrace 1",
+        "event_id": "2702/3133",
+        "event_url": "https://ire.org/events-and-training/event/2702/3133/"
+    },
+    {
         "title": "Design track: Dataviz workflows -  Unexpected ways to use tools to publish print & web graphics (Sponsored by Society for News Design)",
         "type": "Hands-on",
         "description": "Using tools such as AI2HTML and SVG Crowbar to go from the web to print and back again.",
-        "speakers": "Troy Griggs, K.K. Rebecca Lai",
+        "speakers": "K.K. Rebecca Lai, Troy Griggs",
         "date": "2017-03-02",
         "time_start": "14:15",
         "time_end": "15:15",
@@ -611,17 +637,17 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3051/"
     },
     {
-        "title": "Educator huddle: Let's discuss the future",
+        "title": "From drugs to doctors: Uncovering stories in health data",
         "type": "Panel",
-        "description": "",
-        "speakers": "TBA",
+        "description": "**Moderated by Kristin Hussey, independent journalist",
+        "speakers": "Jeff Ernsthausen, Ryan McNeill, Nicole Vap, Kristin Hussey",
         "date": "2017-03-02",
         "time_start": "14:15",
         "time_end": "15:15",
         "length_in_hours": 1.0,
-        "room": "River Terrace 1",
-        "event_id": "2702/3045",
-        "event_url": "https://ire.org/events-and-training/event/2702/3045/"
+        "room": "River Terrace 3",
+        "event_id": "2702/3134",
+        "event_url": "https://ire.org/events-and-training/event/2702/3134/"
     },
     {
         "title": "Getting started with Excel",
@@ -871,19 +897,6 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3073/"
     },
     {
-        "title": "Data for radio: Turning data into characters in your story",
-        "type": "Panel",
-        "description": "",
-        "speakers": "Madeleine Baran, William Craft, Michael Corey",
-        "date": "2017-03-02",
-        "time_start": "16:45",
-        "time_end": "17:45",
-        "length_in_hours": 1.0,
-        "room": "River Terrace 3",
-        "event_id": "2702/3040",
-        "event_url": "https://ire.org/events-and-training/event/2702/3040/"
-    },
-    {
         "title": "Design track: Intermediate D3 (Sponsored by Society for News Design)",
         "type": "Hands-on",
         "description": "We\u2019ll tackle some of the more complicated chart forms in D3, cover advanced data manipulation functions, and include tons of real-world examples of how you can turn your own data into D3 charts.",
@@ -895,6 +908,19 @@
         "room": "City Terrace 7",
         "event_id": "2702/3053",
         "event_url": "https://ire.org/events-and-training/event/2702/3053/"
+    },
+    {
+        "title": "Embrace the data! How to turn data into characters in your story",
+        "type": "Panel",
+        "description": "",
+        "speakers": "Michael Corey, Madeleine Baran, William Craft",
+        "date": "2017-03-02",
+        "time_start": "16:45",
+        "time_end": "17:45",
+        "length_in_hours": 1.0,
+        "room": "River Terrace 3",
+        "event_id": "2702/3040",
+        "event_url": "https://ire.org/events-and-training/event/2702/3040/"
     },
     {
         "title": "How to make data approachable for younger audiences",
@@ -926,7 +952,7 @@
         "title": "Investigating racial inequity (Sponsored by Ida B. Wells Society)",
         "type": "Panel",
         "description": "",
-        "speakers": "Nikole Hannah-Jones, Ron Nixon",
+        "speakers": "Ron Nixon, Nikole Hannah-Jones",
         "date": "2017-03-02",
         "time_start": "16:45",
         "time_end": "17:45",
@@ -1380,7 +1406,7 @@
     {
         "title": "Gathering and cleaning data with R (intermediate)",
         "type": "Hands-on",
-        "description": "Learn how to use R to scrape data from the web and pull data from APIs. This session will also look at how to clean and structure the data you've gathered in preparation for your analysis using tidyverse packages.",
+        "description": "Learn how to use R to scrape data from the web and pull data from APIs. This session will also look at how to clean and structure the data you've gathered in preparation for your analysis using tidyverse packages. Please note: You will need an API key for Zillow, so please sign up for one prior to this class.",
         "speakers": "Caelainn Barr",
         "date": "2017-03-03",
         "time_start": "11:30",
@@ -2212,8 +2238,8 @@
     {
         "title": "Investigating bias and influence in criminal justice: Police and prosecutors",
         "type": "Panel",
-        "description": "",
-        "speakers": "TBA",
+        "description": "**Moderated by Cheryl W. Thompson, The Washington Post",
+        "speakers": "Cheryl W. Thompson, Sharad Goel, Josh Hinkle, Andrew Lehren",
         "date": "2017-03-04",
         "time_start": "11:30",
         "time_end": "12:30",
@@ -2434,7 +2460,7 @@
         "title": "Visualizing and understanding uncertainty (Sponsored by Society for News Design) **pre-registered attendees only",
         "type": "Hands-on",
         "description": "Statistics is the science of uncertainty. It\u2019s an invaluable tool for journalists trying to help readers and viewers make good choices with imperfect data. But though our models come with uncertainty, we are sometimes bad at helping readers understand the uncertainty that\u2019s built into our work. Science is not far ahead of us -- look at the uncertainty cone in a hurricane, which lay readers often mistake for hurricane size. Look at how readers misinterpreted election predictions, even when they came with confidence intervals or likelihood measurements. How can we explain uncertainty better so that readers understand it? This is designed to be a hands-on collaborative workshop in which science communicators and visual journalists discuss the state of the art in visualizing uncertainty, then come up with some new directions via sketching and prototyping.\n\nPreregistration is required and seating is limited. Computers will not be provided for this workshop so please bring your laptop.\n\nNOTE: Registration is required for this session. Click here to sign up.",
-        "speakers": "Enrico Bertini, Alberto Cairo, Jen Christiansen",
+        "speakers": "Alberto Cairo, Jen Christiansen, Mark Hansen",
         "date": "2017-03-04",
         "time_start": "14:15",
         "time_end": "17:45",
@@ -2642,7 +2668,7 @@
         "title": "Separating fact from fiction: Information verification",
         "type": "Panel",
         "description": "",
-        "speakers": "Steve Myers",
+        "speakers": "Steve Myers, Gary Price",
         "date": "2017-03-04",
         "time_start": "16:45",
         "time_end": "17:45",
