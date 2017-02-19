@@ -314,7 +314,7 @@
     {
         "title": "GitHub for journos",
         "type": "Hands-on",
-        "description": "",
+        "description": "What is Git? What is GitHub? Why should I care? In this session, we\u2019ll answer these questions and tap into why developers think GitHub is the best collaboration platform in the world. You'll learn how to navigate your way around GitHub.com and use it to find incredible projects.",
         "speakers": "Hector Alfaro",
         "date": "2017-03-02",
         "time_start": "10:15",
@@ -392,7 +392,7 @@
     {
         "title": "Useful Excel functions for journalists",
         "type": "Hands-on",
-        "description": "",
+        "description": "Much of Excel power comes in the form of functions. In this session, you will learn about commonly used functions, including how to use them to analyze data with the eye of a journalist. We will see functions as if and his relatives sumif, countif, sumifs, and more. Also we will see some other useful functions to arrange and clean data like trim, concatenate and vlookup.\n\nThis session is good for: Journalists who want to dig deeper into Excel functions. (Journalists who want to see a little more Excel)",
         "speakers": "Juan Lyon",
         "date": "2017-03-02",
         "time_start": "10:15",
@@ -470,7 +470,7 @@
     {
         "title": "Extracting data from PDFs",
         "type": "Hands-on",
-        "description": "",
+        "description": "Learn how to use tools for extracting text from documents. The seminar will discuss the fundamentals of knowing the best tool for the job, a walk-through using online web applications, and an introduction to cracking tough cases using Optical Character Recognition (OCR). For questions before or after the course, please email Acton Gorton (actongorton@gmail.com).",
         "speakers": "Acton Gorton",
         "date": "2017-03-02",
         "time_start": "11:30",
@@ -652,7 +652,7 @@
     {
         "title": "Getting started with Excel",
         "type": "Hands-on",
-        "description": "",
+        "description": "In this introduction to spreadsheets you'll begin analyzing data with Excel, a simple but powerful tool. You'll learn how to enter data, sort it and conduct simple calculations like average and median.",
         "speakers": "Jill Riepenhoff",
         "date": "2017-03-02",
         "time_start": "14:15",
@@ -821,7 +821,7 @@
     {
         "title": "Using formulas in Excel",
         "type": "Hands-on",
-        "description": "",
+        "description": "Have you missed trigonometry since high school? No? Didn't think so. We haven't either. But, we have learned formulas can be fun, fairly easy and extraordinarily helpful with Microsoft Excel. Join us for this session, Excel 2, and learn how you can make Microsoft do all your math for you, giving you all kinds of additional insight and statistics to make your stories stronger.",
         "speakers": "Dinah Voyles Pulver",
         "date": "2017-03-02",
         "time_start": "15:30",
@@ -1211,7 +1211,7 @@
     {
         "title": "Brain flipping: Tips for switching between the sides of your brain",
         "type": "Panel",
-        "description": "**Moderated by Jennifer LaFleur, Reveal from the Center for Investigative Reporting",
+        "description": "Working with data means that many of us are flipping our brains between analytical tasks, such as coding and querying and more creative tasks, such as writing and designing.This session will give you some tools for helping both sides of your brain do a better job.\n\nTelling narratives in data investigations stories with data \u2013 or maybe, some of the best narrative stories by people who also work with data.\n\n**Moderated by Jennifer LaFleur, Reveal from the Center for Investigative Reporting",
         "speakers": "Leah Kohlenberg, Scott Pham, Jennifer LaFleur",
         "date": "2017-03-03",
         "time_start": "10:15",
@@ -1302,7 +1302,7 @@
     {
         "title": "Github for journos (repeat session)",
         "type": "Hands-on",
-        "description": "",
+        "description": "This session will teach you everything you need to know about collaboration on GitHub. We'll use GitHub.com and a user interface to interact with a real life project. You'll walk away feeling empowered to create your own projects, use existing projects, collaborate with colleagues remotely, and exploit coding workflows.",
         "speakers": "Hector Alfaro",
         "date": "2017-03-03",
         "time_start": "10:15",
@@ -1315,7 +1315,7 @@
     {
         "title": "Phil Meyer Award winners deep dives",
         "type": "Panel",
-        "description": "**Moderated by Jodi Upton, Syracuse University",
+        "description": "The winners of the Philip Meyer Award take you behind the scenes and offer insights, tips, and strategies that helped them pull off their award-winning work. These projects included a sophisticated data investigation that revealed doctors who had sexually abused their patients; an innovative tracking system showing how wildfires spread in the West; and a data-driven investigation that exposed match-fixing in professional tennis.\n\n**Moderated by Jodi Upton, Syracuse University",
         "speakers": "Jeff Ernsthausen, Scott Pham, Eric Sagara, John Templon, Jodi Upton",
         "date": "2017-03-03",
         "time_start": "10:15",
@@ -1510,7 +1510,7 @@
     {
         "title": "Advanced PDF manipulation",
         "type": "Hands-on",
-        "description": "",
+        "description": "So now you know how to get data from basic pdfs and large batches. What about mixed formats, ongoing jobs etc?\n\nThis session will cover how to process pdfs in large batches, use Amazon Mechanical Turk, schedule OCR jobs to work while you aren't around, and build data pipeline. If you\u2019re comfortable with the command line and Tesseract this is for you.",
         "speakers": "Miguel Barbosa",
         "date": "2017-03-03",
         "time_start": "14:15",
@@ -1575,7 +1575,7 @@
     {
         "title": "Fighting First Amendment attacks",
         "type": "Panel",
-        "description": "**Moderated by Doug Haddix, IRE/NICAR",
+        "description": "In this freewheeling open-mic session, the audience will share tactics to overcome attacks on First Amendment rights, including access to public records, data, documents and meetings. Bring your practical tips, success stories and tools to share. We'll crowdsource proven ways to overcome obstacles to getting the sources, data and documents you need.\n\n**Moderated by Doug Haddix, IRE/NICAR",
         "speakers": "Doug Haddix",
         "date": "2017-03-03",
         "time_start": "14:15",
@@ -1744,7 +1744,7 @@
     {
         "title": "QGIS II: Manipulating, editing and analyzing geographic data",
         "type": "Hands-on",
-        "description": "",
+        "description": "Dive even deeper into data mapping in this continuation of QGIS I. This class will cover joining data tables to maps, aggregating point data for easier analysis and preparing geographic data for display online. It is strongly recommended that you take QGIS I immediate preceding this session, but it is not a strict requirement.",
         "speakers": "Alexandra Kanik",
         "date": "2017-03-03",
         "time_start": "15:30",
@@ -2082,7 +2082,7 @@
     {
         "title": "Drones for mapping",
         "type": "Demo",
-        "description": "",
+        "description": "You've seen breathtaking video from drones, but the same platform can be used for mapping small areas at very high resolutions. The software couldn't be easier to make high resolution georeferenced aerial photos for data journalism. In this demo, you'll see the hardware, software and techniques used to do drone mapping.",
         "speakers": "Matt Waite",
         "date": "2017-03-04",
         "time_start": "10:15",
@@ -2277,7 +2277,7 @@
     {
         "title": "Stats: Logistic regression",
         "type": "Hands-on",
-        "description": "",
+        "description": "Linear regression helps you find relationships between two or more variables, but when an outcome has only two possibilities, you need a different tool. That, my friends, is where logistic regression comes in.\n\nThis session will be taught in PSPP and will be most useful if: You took 'Stats: An introduction', or are comfortable with summary statistics and PSPP or SPSS. Familiarity with spreadsheets and database managers is recommended.",
         "speakers": "Jennifer LaFleur",
         "date": "2017-03-04",
         "time_start": "11:30",
@@ -2472,7 +2472,7 @@
     {
         "title": "Command line for reporters (Unix)",
         "type": "Hands-on",
-        "description": "",
+        "description": "Too often in data journalism we forget about the basics. And it doesn\u2019t get as basic as the command line.\n\nEven knowing a little will make your job easier. We\u2019ll run through some simple commands, and dive into working with spreadsheets, I\u2019ll show you some handy tools I frequently use at work.\n\nThis session is good for: People unfamiliar with the command line, and those who want to get some practical, hands-on practice with the Mac-based terminal.",
         "speakers": "AJ Vicens",
         "date": "2017-03-04",
         "time_start": "15:30",
@@ -2524,7 +2524,7 @@
     {
         "title": "Google Fusion Tables (beginner)",
         "type": "Hands-on",
-        "description": "",
+        "description": "Welcome to Google Fusion Tables. In this hands-on introduction to the free online tool you'll learn how to import and combine data, do simple analysis and easily turn that into an online map.\n\nThis session will be most useful if: You've ever used a spreadsheet. You need to have a Google account.",
         "speakers": "Daniel Lathrop",
         "date": "2017-03-04",
         "time_start": "15:30",
@@ -2615,7 +2615,7 @@
     {
         "title": "Animated videos",
         "type": "Hands-on",
-        "description": "",
+        "description": "Short animated videos are a great way to \u00a0tell complex stories in an easily shareable form that works on most devices and social media platforms. In this session, learn to create and publish your own animated video from scratch with Adobe After Effects.\n\nThis session is good for beginners who are new to making videos as well as for people with some experience in video production looking to add animation to your skill set. This workshop also introduces the basics of Adobe Expressions, a javascript like language, to control animation.",
         "speakers": "Kavya Sukumar",
         "date": "2017-03-04",
         "time_start": "16:45",
@@ -2641,7 +2641,7 @@
     {
         "title": "Joining in Access without using SQL",
         "type": "Hands-on",
-        "description": "",
+        "description": "Learn how to join tables and match information from one file to another.\n\nIf you feel at home with Excel, but want to take the next step with larger files and joining data, this is the session for you. Access is the easy gateway drug to the harder stuff, like SQL and R - and here you'll learn how to join and count without a single line of code.\"",
         "speakers": "Helena Bengtsson",
         "date": "2017-03-04",
         "time_start": "16:45",
@@ -2654,7 +2654,7 @@
     {
         "title": "Regular expressions",
         "type": "Hands-on",
-        "description": "",
+        "description": "Regular expressions are a powerful tool when working with data, especially when dealing with values that are formatted inconsistently. They're supported by a variety of text editors, databases and programming languages, but they can be pretty daunting if you've never dealt with them before. Learn about the basics of regular expressions and how they can help with your next batch of dirty data.",
         "speakers": "Justin Myers",
         "date": "2017-03-04",
         "time_start": "16:45",
@@ -2680,7 +2680,7 @@
     {
         "title": "Command line graphics",
         "type": "Demo",
-        "description": "",
+        "description": "Some of the most powerful tools for creating visuals and working with images lie hidden in your terminal. We'll do an overview of some of these amazing (FREE!) tools \u2013 such as ImageMagick and ffmpeg \u2013 and see some real world techniques for working with large collections of images, and how I use these tools in my projects. Some of the things we'll cover: make a timelapse video from sequential images, extract and save metadata embedded in photos, create image quilts, and build animated GIFs from videos.",
         "speakers": "Jon Keegan",
         "date": "2017-03-05",
         "time_start": "09:00",
@@ -2693,7 +2693,7 @@
     {
         "title": "Finding connections in campaign finance data with graph databases",
         "type": "Hands-on",
-        "description": "",
+        "description": "Graph databases are optimized for working with complex and connected data. Campaign finance data is a great example of a complex dataset where the connections in the data are often as important as the discrete data points, making it a great use case for a graph database.\n\nIn this hands-on workshop we will cover how to model, import, and query campaign finance data using the Neo4j graph database. We will focus on learning the property graph data model and how to use Cypher, the query language for graphs, to write queries that can help find stories in the data.\n\nThis session is geared toward those with some basic familiarity with databases and data analysis, but will start at an introductory level for those new to graph databases.",
         "speakers": "Meredith Broussard, William Lyon",
         "date": "2017-03-05",
         "time_start": "09:00",
@@ -2901,7 +2901,7 @@
     {
         "title": "Getting data into Access",
         "type": "Hands-on",
-        "description": "",
+        "description": "This course will review the basics of using Microsoft Access. Understanding when Access is the right database software to use, how to enter and import data, and what to look for once you\u2019re staring at a database interface.",
         "speakers": "Tracy Greer",
         "date": "2017-03-05",
         "time_start": "11:30",
