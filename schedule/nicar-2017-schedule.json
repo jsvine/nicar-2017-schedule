@@ -340,8 +340,8 @@
     {
         "title": "Investigating hacking and data breaches",
         "type": "Panel",
-        "description": "",
-        "speakers": "TBA",
+        "description": "**Moderated by Chase Davis, The New York Times",
+        "speakers": "Julia Angwin, Joe Sullivan, Chase Davis",
         "date": "2017-03-02",
         "time_start": "10:15",
         "time_end": "11:15",
@@ -598,6 +598,19 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3096/"
     },
     {
+        "title": "Battling burnout in a tweet-breaking world",
+        "type": "Panel",
+        "description": "**Moderated by Andy Boyle, Axios",
+        "speakers": "Darla Cameron, Nikole Hannah-Jones, Andy Boyle",
+        "date": "2017-03-02",
+        "time_start": "14:15",
+        "time_end": "15:15",
+        "length_in_hours": 1.0,
+        "room": "Conference Center A",
+        "event_id": "2702/3135",
+        "event_url": "https://ire.org/events-and-training/event/2702/3135/"
+    },
+    {
         "title": "Building your own database",
         "type": "Panel",
         "description": "**Moderated by Meghan Hoyer, The Associated Press",
@@ -731,7 +744,7 @@
         "title": "Bulletproofing your stories",
         "type": "Panel",
         "description": "",
-        "speakers": "TBA",
+        "speakers": "Jennifer Forsyth, Joel Engelhardt",
         "date": "2017-03-02",
         "time_start": "15:30",
         "time_end": "16:30",
@@ -1225,12 +1238,12 @@
         "title": "Broadcast: Transforming data into knockout visuals",
         "type": "Panel",
         "description": "",
-        "speakers": "TBA",
+        "speakers": "Mc Nelly Torres, Josh Hinkle, Cecil Rosner",
         "date": "2017-03-03",
         "time_start": "10:15",
         "time_end": "11:15",
         "length_in_hours": 1.0,
-        "room": "Conference Center B",
+        "room": "River Terrace 3",
         "event_id": "2702/3012",
         "event_url": "https://ire.org/events-and-training/event/2702/3012/"
     },
@@ -1238,7 +1251,7 @@
         "title": "Common foundations for newsroom tools",
         "type": "Panel",
         "description": "",
-        "speakers": "TBA",
+        "speakers": "Allan James Vestal, Chris Amico, Daniele Palumbo",
         "date": "2017-03-03",
         "time_start": "10:15",
         "time_end": "11:15",
@@ -1313,19 +1326,6 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3074/"
     },
     {
-        "title": "Phil Meyer Award winners deep dives",
-        "type": "Panel",
-        "description": "The winners of the Philip Meyer Award take you behind the scenes and offer insights, tips, and strategies that helped them pull off their award-winning work. These projects included a sophisticated data investigation that revealed doctors who had sexually abused their patients; an innovative tracking system showing how wildfires spread in the West; and a data-driven investigation that exposed match-fixing in professional tennis.\n\n**Moderated by Jodi Upton, Syracuse University",
-        "speakers": "Jeff Ernsthausen, Scott Pham, Eric Sagara, John Templon, Jodi Upton",
-        "date": "2017-03-03",
-        "time_start": "10:15",
-        "time_end": "11:15",
-        "length_in_hours": 1.0,
-        "room": "River Terrace 3",
-        "event_id": "2702/3042",
-        "event_url": "https://ire.org/events-and-training/event/2702/3042/"
-    },
-    {
         "title": "Show me the money: Finding compensation gold in proxy statements",
         "type": "Hands-on",
         "description": "Want to quickly calculate how much Warren Buffett is worth? Wondering how much Mark Zuckerberg pays himself? The answers are readily available for those who know where to look. In filings with the Securities and Exchange Commission, thousands of publicly traded companies (and even some companies that don\u2019t trade on a stock exchange) reveal a wealth of information about executive pay, perks and stock holdings. This hands-on session will show you where to find compensation data for companies you cover.",
@@ -1337,6 +1337,19 @@
         "room": "City Terrace 8",
         "event_id": "2702/2945",
         "event_url": "https://ire.org/events-and-training/event/2702/2945/"
+    },
+    {
+        "title": "The present and future of bots",
+        "type": "Panel",
+        "description": "**Moderated by Tiff Fehr, The New York Times",
+        "speakers": "John Keefe, Simon Rogers, Ken Schwencke, Tiff Fehr",
+        "date": "2017-03-03",
+        "time_start": "10:15",
+        "time_end": "11:15",
+        "length_in_hours": 1.0,
+        "room": "Conference Center B",
+        "event_id": "2702/3014",
+        "event_url": "https://ire.org/events-and-training/event/2702/3014/"
     },
     {
         "title": "Conversations 7 (Sponsored by SRCCON - Knight Mozilla OpenNews)",
@@ -1380,8 +1393,8 @@
     {
         "title": "Doing data journalism under duress",
         "type": "Panel",
-        "description": "",
-        "speakers": "TBA",
+        "description": "**Moderated by Charles Lewis, Investigative Reporting Workshop",
+        "speakers": "Anatoliy Bondarenko, Rigoberto Carvajal, Eva Constantaras, Charles Lewis",
         "date": "2017-03-03",
         "time_start": "11:30",
         "time_end": "12:30",
@@ -1742,6 +1755,32 @@
         "event_url": "https://ire.org/events-and-training/event/2702/2951/"
     },
     {
+        "title": "News games and simulations",
+        "type": "Panel",
+        "description": "",
+        "speakers": "Amanda Hickman, Sandeep Junnarkar",
+        "date": "2017-03-03",
+        "time_start": "15:30",
+        "time_end": "16:30",
+        "length_in_hours": 1.0,
+        "room": "Conference Center A",
+        "event_id": "2702/3136",
+        "event_url": "https://ire.org/events-and-training/event/2702/3136/"
+    },
+    {
+        "title": "Phil Meyer Award winners deep dives",
+        "type": "Panel",
+        "description": "The winners of the Philip Meyer Award take you behind the scenes and offer insights, tips, and strategies that helped them pull off their award-winning work. These projects included a sophisticated data investigation that revealed doctors who had sexually abused their patients; an innovative tracking system showing how wildfires spread in the West; and a data-driven investigation that exposed match-fixing in professional tennis.\n\n**Moderated by Jodi Upton, Syracuse University",
+        "speakers": "Jeff Ernsthausen, Scott Pham, Eric Sagara, John Templon, Jodi Upton",
+        "date": "2017-03-03",
+        "time_start": "15:30",
+        "time_end": "16:30",
+        "length_in_hours": 1.0,
+        "room": "River Terrace 1",
+        "event_id": "2702/3042",
+        "event_url": "https://ire.org/events-and-training/event/2702/3042/"
+    },
+    {
         "title": "QGIS II: Manipulating, editing and analyzing geographic data",
         "type": "Hands-on",
         "description": "Dive even deeper into data mapping in this continuation of QGIS I. This class will cover joining data tables to maps, aggregating point data for easier analysis and preparing geographic data for display online. It is strongly recommended that you take QGIS I immediate preceding this session, but it is not a strict requirement.",
@@ -1766,19 +1805,6 @@
         "room": "City Terrace 9",
         "event_id": "2702/3078",
         "event_url": "https://ire.org/events-and-training/event/2702/3078/"
-    },
-    {
-        "title": "The present and future of bots",
-        "type": "Panel",
-        "description": "**Moderated by Tiff Fehr, The New York Times",
-        "speakers": "John Keefe, Simon Rogers, Ken Schwencke, Tiff Fehr",
-        "date": "2017-03-03",
-        "time_start": "15:30",
-        "time_end": "16:30",
-        "length_in_hours": 1.0,
-        "room": "River Terrace 1",
-        "event_id": "2702/3014",
-        "event_url": "https://ire.org/events-and-training/event/2702/3014/"
     },
     {
         "title": "Lightning Talks (Sponsored by the Knight Foundation)",
@@ -1935,6 +1961,19 @@
         "room": "City Terrace 11",
         "event_id": "2702/2957",
         "event_url": "https://ire.org/events-and-training/event/2702/2957/"
+    },
+    {
+        "title": "Marrying documents and data",
+        "type": "Panel",
+        "description": "",
+        "speakers": "Steven Rich, Francisco Vara-Orta, Brooke Williams",
+        "date": "2017-03-04",
+        "time_start": "09:00",
+        "time_end": "10:00",
+        "length_in_hours": 1.0,
+        "room": "River Terrace 3",
+        "event_id": "2702/3137",
+        "event_url": "https://ire.org/events-and-training/event/2702/3137/"
     },
     {
         "title": "Simple ways to create immersive news stories",
@@ -2407,7 +2446,7 @@
     {
         "title": "Investigating bias and influence in criminal justice: Judges and beyond",
         "type": "Panel",
-        "description": "Using data to investigate the criminal justice system The Sarasota Herald-Tribune draws on two large databases \u2013 one compiled by county clerks and the other by the Department of Corrections \u2013 to report on sentencing patterns of judges, prosecutors, public defenders and private attorneys in Florida. No news outlet has ever been able to evaluate actors in the judicial system on such a granular level before. But the data exists in at least 30 states, and we will show you how to tap into it.\n\n**Moderated by Cheryl Phillips, Stanford University",
+        "description": "**Moderated by Cheryl Phillips, Stanford University",
         "speakers": "Cheryl Phillips, Michael Braga, Robert Gebeloff, Barnaby Skinner",
         "date": "2017-03-04",
         "time_start": "14:15",
@@ -2509,23 +2548,10 @@
         "event_url": "https://ire.org/events-and-training/event/2702/2923/"
     },
     {
-        "title": "Future access to digital information",
-        "type": "Panel",
-        "description": "**Moderated by David Herzog, IRE/NICAR",
-        "speakers": "Margaret Janz, David Herzog, Yogin Kothari, Nancy Watzman",
-        "date": "2017-03-04",
-        "time_start": "15:30",
-        "time_end": "16:30",
-        "length_in_hours": 1.0,
-        "room": "Conference Center B",
-        "event_id": "2702/3125",
-        "event_url": "https://ire.org/events-and-training/event/2702/3125/"
-    },
-    {
         "title": "Google Fusion Tables (beginner)",
         "type": "Hands-on",
         "description": "Welcome to Google Fusion Tables. In this hands-on introduction to the free online tool you'll learn how to import and combine data, do simple analysis and easily turn that into an online map.\n\nThis session will be most useful if: You've ever used a spreadsheet. You need to have a Google account.",
-        "speakers": "Daniel Lathrop",
+        "speakers": "Tommy Kaas",
         "date": "2017-03-04",
         "time_start": "15:30",
         "time_end": "16:30",
@@ -2559,6 +2585,19 @@
         "room": "City Terrace 12",
         "event_id": "2702/2989",
         "event_url": "https://ire.org/events-and-training/event/2702/2989/"
+    },
+    {
+        "title": "Protecting endangered data in the Trump era and beyond",
+        "type": "Panel",
+        "description": "Access to government data has always hinged on the priorities and values of different administrations. We\u2019ll talk to attendees about how they can protect endangered data in the Trump era and beyond. Panelists will share lessons learned and best practices from their own experiences shielding data.\n\n**Moderated by David Herzog, IRE/NICAR",
+        "speakers": "Margaret Janz, David Herzog, Yogin Kothari, Nancy Watzman",
+        "date": "2017-03-04",
+        "time_start": "15:30",
+        "time_end": "16:30",
+        "length_in_hours": 1.0,
+        "room": "Conference Center B",
+        "event_id": "2702/3125",
+        "event_url": "https://ire.org/events-and-training/event/2702/3125/"
     },
     {
         "title": "Quick-turn data stories",
@@ -2624,6 +2663,19 @@
         "room": "City Terrace 7",
         "event_id": "2702/2969",
         "event_url": "https://ire.org/events-and-training/event/2702/2969/"
+    },
+    {
+        "title": "Economic development incentives: Old issues, hot new data",
+        "type": "Panel",
+        "description": "",
+        "speakers": "Greg LeRoy, Janelle O'Dea",
+        "date": "2017-03-04",
+        "time_start": "16:45",
+        "time_end": "17:45",
+        "length_in_hours": 1.0,
+        "room": "Conference Center B",
+        "event_id": "2702/3138",
+        "event_url": "https://ire.org/events-and-training/event/2702/3138/"
     },
     {
         "title": "Internet Archive: Resources, tools, and tricks",
@@ -2720,7 +2772,7 @@
         "title": "Lighter side of data journalism?",
         "type": "Panel",
         "description": "",
-        "speakers": "TBA",
+        "speakers": "Jenny Ye, Jeff Hargarten",
         "date": "2017-03-05",
         "time_start": "09:00",
         "time_end": "10:00",
@@ -2915,7 +2967,7 @@
         "title": "Google Fusion Tables (advanced)",
         "type": "Hands-on",
         "description": "",
-        "speakers": "Tommy Kaas",
+        "speakers": "Daniel Lathrop",
         "date": "2017-03-05",
         "time_start": "11:30",
         "time_end": "12:30",
