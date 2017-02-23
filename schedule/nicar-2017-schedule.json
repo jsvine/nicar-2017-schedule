@@ -21,7 +21,7 @@
         "time_start": "13:00",
         "time_end": "17:00",
         "length_in_hours": 4.0,
-        "room": "River Terrace 1",
+        "room": "River Terrace 3",
         "event_id": "2702/2897",
         "event_url": "https://ire.org/events-and-training/event/2702/2897/"
     },
@@ -80,7 +80,7 @@
     {
         "title": "Welcome and overview of the conference",
         "type": "Panel",
-        "description": "**Speakers are IRE/NICAR Staff",
+        "description": "Welcome to the conference! IRE staff will highlight key sessions and events that you won't want to miss while in Jacksonville. We'll also give you a brief rundown on some of the resources IRE has to offer.\n\n**Speakers are IRE/NICAR Staff",
         "speakers": "TBA",
         "date": "2017-03-02",
         "time_start": "08:30",
@@ -93,8 +93,8 @@
     {
         "title": "Algorithmic accountability",
         "type": "Panel",
-        "description": "",
-        "speakers": "Julia Angwin, Nick Diakopoulos,",
+        "description": "**Moderated by Greg Linch, McClatchy DC\n\nLarge or small, data projects can be a HUGE pain in the neck and require planning and structure to be successful. On this panel, we will examine different approaches to managing data projects, organizing the newsroom and creating an effective workflow.",
+        "speakers": "Julia Angwin, Nick Diakopoulos, Sam Corbett-Davies, Greg Linch",
         "date": "2017-03-02",
         "time_start": "09:00",
         "time_end": "10:00",
@@ -151,7 +151,7 @@
         "time_start": "09:00",
         "time_end": "10:00",
         "length_in_hours": 1.0,
-        "room": "City Terrace 9",
+        "room": "City Terrace 6",
         "event_id": "2702/3059",
         "event_url": "https://ire.org/events-and-training/event/2702/3059/"
     },
@@ -197,7 +197,7 @@
     {
         "title": "Working together without sitting together: Building happy, productive distributed teams",
         "type": "Panel",
-        "description": "",
+        "description": "How do you communicate when you or other members of your team are in different cities? Email, phones and Slack are great tools. But how do you stay abreast of progress and ideas without the casual connections and serendipity that happen when you share the same space? In this panel, we\u2019ll talk about our experiences working remotely and the tools, processes and team-building techniques that help make it work.",
         "speakers": "Ryan Pitts, Julia Smith, Chris Canipe",
         "date": "2017-03-02",
         "time_start": "09:00",
@@ -210,7 +210,7 @@
     {
         "title": "Year in CAR",
         "type": "Panel",
-        "description": "",
+        "description": "What were the big stories of the year? What were the most creative uses of data analysis? See what your colleagues have been up to and pick up some story ideas at the same time. This session is good for: Anyone.",
         "speakers": "Lauren Grandestaff, Kaitlin Washburn",
         "date": "2017-03-02",
         "time_start": "09:00",
@@ -229,7 +229,7 @@
         "time_start": "09:00",
         "time_end": "10:30",
         "length_in_hours": 1.5,
-        "room": "City Terrace 6",
+        "room": "City Terrace 4",
         "event_id": "2702/3015",
         "event_url": "https://ire.org/events-and-training/event/2702/3015/"
     },
@@ -242,7 +242,7 @@
         "time_start": "09:00",
         "time_end": "12:30",
         "length_in_hours": 3.5,
-        "room": "City Terrace 7",
+        "room": "City Terrace 5",
         "event_id": "2702/2878",
         "event_url": "https://ire.org/events-and-training/event/2702/2878/"
     },
@@ -255,7 +255,7 @@
         "time_start": "09:00",
         "time_end": "17:45",
         "length_in_hours": 8.75,
-        "room": "City Terrace 5",
+        "room": "City Terrace 9",
         "event_id": "2702/2883",
         "event_url": "https://ire.org/events-and-training/event/2702/2883/"
     },
@@ -268,7 +268,7 @@
         "time_start": "09:00",
         "time_end": "17:45",
         "length_in_hours": 8.75,
-        "room": "City Terrace 4",
+        "room": "City Terrace 7",
         "event_id": "2702/2880",
         "event_url": "https://ire.org/events-and-training/event/2702/2880/"
     },
@@ -301,7 +301,7 @@
     {
         "title": "Educator huddle: Let's discuss the future",
         "type": "Panel",
-        "description": "",
+        "description": "Come participate in a session to come up with an ideal data journalism curriculum across universities and programs. This will go beyond a panel session and focus on concrete ideas and proposals that you can take back and begin to put into place. We will use the wisdom of educators and journalists in the room to lay out best practices and the route to them.",
         "speakers": "Brant Houston, Cheryl Phillips",
         "date": "2017-03-02",
         "time_start": "10:15",
@@ -320,7 +320,7 @@
         "time_start": "10:15",
         "time_end": "11:15",
         "length_in_hours": 1.0,
-        "room": "City Terrace 9",
+        "room": "City Terrace 6",
         "event_id": "2702/3061",
         "event_url": "https://ire.org/events-and-training/event/2702/3061/"
     },
@@ -341,7 +341,7 @@
         "title": "Investigating hacking and data breaches",
         "type": "Panel",
         "description": "**Moderated by Chase Davis, The New York Times",
-        "speakers": "Julia Angwin, Joe Sullivan, Chase Davis",
+        "speakers": "Julia Angwin, Joe Sullivan, Chase Davis, Sri Sridharan",
         "date": "2017-03-02",
         "time_start": "10:15",
         "time_end": "11:15",
@@ -354,7 +354,7 @@
         "title": "Packaging data stories for digital",
         "type": "Panel",
         "description": "",
-        "speakers": "TBA",
+        "speakers": "Ashlyn Still, Richard Watkins, Brittany Mayes",
         "date": "2017-03-02",
         "time_start": "10:15",
         "time_end": "11:15",
@@ -411,7 +411,7 @@
         "time_start": "11:00",
         "time_end": "12:30",
         "length_in_hours": 1.5,
-        "room": "City Terrace 6",
+        "room": "City Terrace 4",
         "event_id": "2702/3016",
         "event_url": "https://ire.org/events-and-training/event/2702/3016/"
     },
@@ -476,7 +476,7 @@
         "time_start": "11:30",
         "time_end": "12:30",
         "length_in_hours": 1.0,
-        "room": "City Terrace 9",
+        "room": "City Terrace 6",
         "event_id": "2702/2935",
         "event_url": "https://ire.org/events-and-training/event/2702/2935/"
     },
@@ -484,7 +484,7 @@
         "title": "Finding narratives in the numbers",
         "type": "Panel",
         "description": "",
-        "speakers": "TBA",
+        "speakers": "Reade Levinson, Shawn McIntosh, Ziva Branstetter",
         "date": "2017-03-02",
         "time_start": "11:30",
         "time_end": "12:30",
@@ -580,7 +580,7 @@
         "time_start": "13:30",
         "time_end": "15:00",
         "length_in_hours": 1.5,
-        "room": "City Terrace 6",
+        "room": "City Terrace 4",
         "event_id": "2702/3017",
         "event_url": "https://ire.org/events-and-training/event/2702/3017/"
     },
@@ -593,7 +593,7 @@
         "time_start": "14:15",
         "time_end": "15:15",
         "length_in_hours": 1.0,
-        "room": "City Terrace 9",
+        "room": "City Terrace 6",
         "event_id": "2702/3096",
         "event_url": "https://ire.org/events-and-training/event/2702/3096/"
     },
@@ -645,7 +645,7 @@
         "time_start": "14:15",
         "time_end": "15:15",
         "length_in_hours": 1.0,
-        "room": "City Terrace 7",
+        "room": "City Terrace 5",
         "event_id": "2702/3051",
         "event_url": "https://ire.org/events-and-training/event/2702/3051/"
     },
@@ -678,7 +678,7 @@
     {
         "title": "Intro to Python 1",
         "type": "Hands-on",
-        "description": "",
+        "description": "Want to upgrade your data skills? Come learn the Python programming language for a three-hour span. Geared toward beginners, this class with go over language basics and introduce you to key concepts. You'll then take your new Python skills and learn how to automate simple tasks, as well as how to collect and manipulate data in pursuit of stories.",
         "speakers": "Liz Lucas",
         "date": "2017-03-02",
         "time_start": "14:15",
@@ -730,7 +730,7 @@
     {
         "title": "Big data in small organizations: How we created data-driven projects and stories at a startup",
         "type": "Panel",
-        "description": "",
+        "description": "Whether you're a team of one, a small startup or battling despots abroad, we'll tell you how to pull off data-focused stories and projects with few dedicated resources. Our panel features journalists working with and within small teams in the U.S. and abroad who manage to produce stories and investigations with impact using data. We\u2019ll share tips and tools to make you more efficient and project examples to show you what\u2019s possible for a data journalist in a small shop. We\u2019ll also talk about how to avoid mistakes, find mentors and get buy-in from others.",
         "speakers": "Eva Constantaras, Brent Jones, Ziva Branstetter",
         "date": "2017-03-02",
         "time_start": "15:30",
@@ -754,7 +754,7 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3111/"
     },
     {
-        "title": "Design track: Basic D3 (Sponsored by Society for News Design)",
+        "title": "Design track: Intro to D3 (Sponsored by Society for News Design)",
         "type": "Hands-on",
         "description": "",
         "speakers": "Darla Cameron, Ashley Wu",
@@ -762,7 +762,7 @@
         "time_start": "15:30",
         "time_end": "16:30",
         "length_in_hours": 1.0,
-        "room": "City Terrace 7",
+        "room": "City Terrace 5",
         "event_id": "2702/3052",
         "event_url": "https://ire.org/events-and-training/event/2702/3052/"
     },
@@ -782,7 +782,7 @@
     {
         "title": "Intro to Python 2",
         "type": "Hands-on",
-        "description": "",
+        "description": "Want to upgrade your data skills? Come learn the Python programming language for a three-hour span. Geared toward beginners, this class with go over language basics and introduce you to key concepts. You'll then take your new Python skills and learn how to automate simple tasks, as well as how to collect and manipulate data in pursuit of stories.",
         "speakers": "Cathy Deng",
         "date": "2017-03-02",
         "time_start": "15:30",
@@ -801,7 +801,7 @@
         "time_start": "15:30",
         "time_end": "16:30",
         "length_in_hours": 1.0,
-        "room": "City Terrace 9",
+        "room": "City Terrace 6",
         "event_id": "2702/3097",
         "event_url": "https://ire.org/events-and-training/event/2702/3097/"
     },
@@ -809,7 +809,7 @@
         "title": "The agile data analyst: Applying practices from agile software methodologies to data reporting",
         "type": "Panel",
         "description": "**Moderated by Troy Thibodeaux, The Associated Press",
-        "speakers": "Christopher Groskopf, Rachel Shorey, Troy Thibodeaux",
+        "speakers": "Christopher Groskopf, Rachel Shorey, Troy Thibodeaux, Tyler Fisher",
         "date": "2017-03-02",
         "time_start": "15:30",
         "time_end": "16:30",
@@ -821,8 +821,8 @@
     {
         "title": "The first 100 days in data",
         "type": "Panel",
-        "description": "",
-        "speakers": "TBA",
+        "description": "**Moderated by Liz Lucas, Kaiser Health News",
+        "speakers": "Michael Corey, Meghan Hoyer, Margaret Janz, Liz Lucas",
         "date": "2017-03-02",
         "time_start": "15:30",
         "time_end": "16:30",
@@ -835,7 +835,7 @@
         "title": "Using formulas in Excel",
         "type": "Hands-on",
         "description": "Have you missed trigonometry since high school? No? Didn't think so. We haven't either. But, we have learned formulas can be fun, fairly easy and extraordinarily helpful with Microsoft Excel. Join us for this session, Excel 2, and learn how you can make Microsoft do all your math for you, giving you all kinds of additional insight and statistics to make your stories stronger.",
-        "speakers": "Dinah Voyles Pulver",
+        "speakers": "Dinah Pulver",
         "date": "2017-03-02",
         "time_start": "15:30",
         "time_end": "16:30",
@@ -879,7 +879,7 @@
         "time_start": "15:30",
         "time_end": "17:00",
         "length_in_hours": 1.5,
-        "room": "City Terrace 6",
+        "room": "City Terrace 4",
         "event_id": "2702/3018",
         "event_url": "https://ire.org/events-and-training/event/2702/3018/"
     },
@@ -899,15 +899,28 @@
     {
         "title": "Advanced social media sleuthing",
         "type": "Hands-on",
-        "description": "",
+        "description": "Learn how to use social media tools to build profiles of people and their connections (and see what people can learn about you!)",
         "speakers": "Steve Myers",
         "date": "2017-03-02",
         "time_start": "16:45",
         "time_end": "17:45",
         "length_in_hours": 1.0,
-        "room": "City Terrace 9",
+        "room": "City Terrace 6",
         "event_id": "2702/3073",
         "event_url": "https://ire.org/events-and-training/event/2702/3073/"
+    },
+    {
+        "title": "Data for radio: Turning data into characters in your story",
+        "type": "Panel",
+        "description": "A lot of reporters are afraid of losing people\u2019s interest by using too many numbers in stories. But data can be just as engaging as any human character, if you know how to use it as a storyteller. Our panel will show you how to turn data into compelling characters that help drive the story, create tension and make people care. We will show you how even the most complicated data can be explored in ways that engage and surprise people. We\u2019ll guide you through how APM Reports used data as a character in an investigative podcast, In the Dark. And we'll look at the dos and don'ts of data sonification to put data front and center. And we\u2019ll show you how to incorporate the same techniques into other stories -- both for broadcast and print/online.",
+        "speakers": "Madeleine Baran, Michael Corey, William Craft",
+        "date": "2017-03-02",
+        "time_start": "16:45",
+        "time_end": "17:45",
+        "length_in_hours": 1.0,
+        "room": "River Terrace 3",
+        "event_id": "2702/3145",
+        "event_url": "https://ire.org/events-and-training/event/2702/3145/"
     },
     {
         "title": "Design track: Intermediate D3 (Sponsored by Society for News Design)",
@@ -918,14 +931,14 @@
         "time_start": "16:45",
         "time_end": "17:45",
         "length_in_hours": 1.0,
-        "room": "City Terrace 7",
+        "room": "City Terrace 5",
         "event_id": "2702/3053",
         "event_url": "https://ire.org/events-and-training/event/2702/3053/"
     },
     {
         "title": "Embrace the data! How to turn data into characters in your story",
         "type": "Panel",
-        "description": "",
+        "description": "A lot of reporters are afraid of losing people\u2019s interest by using too many numbers in stories. But data can be just as engaging as any human character, if you know how to use it as a storyteller. Our panel will show you how to turn data into compelling characters that help drive the story, create tension and make people care. We will show you how even the most complicated data can be explored in ways that engage and surprise people. We\u2019ll guide you through how APM Reports used data as a character in an investigative podcast, In the Dark. And we'll look at the dos and don'ts of data sonification to put data front and center. And we\u2019ll show you how to incorporate the same techniques into other stories -- both for broadcast and print/online.",
         "speakers": "Michael Corey, Madeleine Baran, William Craft",
         "date": "2017-03-02",
         "time_start": "16:45",
@@ -951,7 +964,7 @@
     {
         "title": "Intro to Python 3",
         "type": "Hands-on",
-        "description": "",
+        "description": "Want to upgrade your data skills? Come learn the Python programming language for a three-hour span. Geared toward beginners, this class with go over language basics and introduce you to key concepts. You'll then take your new Python skills and learn how to automate simple tasks, as well as how to collect and manipulate data in pursuit of stories.",
         "speakers": "Alex Richards",
         "date": "2017-03-02",
         "time_start": "16:45",
@@ -1087,7 +1100,7 @@
         "time_start": "09:00",
         "time_end": "10:00",
         "length_in_hours": 1.0,
-        "room": "City Terrace 9",
+        "room": "City Terrace 6",
         "event_id": "2702/2942",
         "event_url": "https://ire.org/events-and-training/event/2702/2942/"
     },
@@ -1133,7 +1146,7 @@
     {
         "title": "The perils, pitfalls and payoffs of working with higher ed data (Sponsored by Lumina Foundation)",
         "type": "Panel",
-        "description": "",
+        "description": "With college costs at record levels, and student debt topping $1.2 trillion, data on colleges is more critical than ever before. In the last year alone, colleges have been at the crux of major national controversies including sexual assault on campus, the rights of undocumented students, and tensions over political speech. This panel will take you through several major higher education data sets that will help you tell those stories. We'll explore data on student debt, campus demographics, and campus crime and talk about the pros and cons of using each data set.",
         "speakers": "Jennifer Forsyth, Holly Hacker",
         "date": "2017-03-03",
         "time_start": "09:00",
@@ -1165,7 +1178,7 @@
         "time_start": "09:00",
         "time_end": "10:00",
         "length_in_hours": 1.0,
-        "room": "City Terrace 4",
+        "room": "City Terrace 7",
         "event_id": "2702/2947",
         "event_url": "https://ire.org/events-and-training/event/2702/2947/"
     },
@@ -1178,7 +1191,7 @@
         "time_start": "09:00",
         "time_end": "12:30",
         "length_in_hours": 3.5,
-        "room": "City Terrace 5",
+        "room": "City Terrace 9",
         "event_id": "2702/2881",
         "event_url": "https://ire.org/events-and-training/event/2702/2881/"
     },
@@ -1204,14 +1217,14 @@
         "time_start": "09:00",
         "time_end": "16:30",
         "length_in_hours": 7.5,
-        "room": "City Terrace 6",
+        "room": "City Terrace 4",
         "event_id": "2702/2879",
         "event_url": "https://ire.org/events-and-training/event/2702/2879/"
     },
     {
         "title": "Kiss your apps goodbye: Saving born-digital news",
         "type": "Demo",
-        "description": "",
+        "description": "The longevity of digital news content is about the same as the lifespan of an earthworm - about 100 days. As founder of the Dodging the Memory Hole initiative, digital curator of journalism Edward McCain is working to ensure long-term access to journalistic content. In today\u2019s digital newsrooms, a software or hardware crash can wipe out decades of texts, photos, videos and applications. Furthermore, digital archives can become obsolete if they aren\u2019t adapted to evolving formats and systems. A 2014 study by the Reynolds Journalism Institute shows that 17 percent of online-only organizations have already experienced just this kind of damage. Come learn how to keep your content alive and accessible for future generations.",
         "speakers": "Edward McCain",
         "date": "2017-03-03",
         "time_start": "09:30",
@@ -1251,7 +1264,7 @@
         "title": "Common foundations for newsroom tools",
         "type": "Panel",
         "description": "",
-        "speakers": "Allan James Vestal, Chris Amico, Daniele Palumbo",
+        "speakers": "Allan James Vestal, Chris Amico, Daniele Palumbo, Casey Miller",
         "date": "2017-03-03",
         "time_start": "10:15",
         "time_end": "11:15",
@@ -1295,7 +1308,7 @@
         "time_start": "10:15",
         "time_end": "11:15",
         "length_in_hours": 1.0,
-        "room": "City Terrace 4",
+        "room": "City Terrace 7",
         "event_id": "2702/2944",
         "event_url": "https://ire.org/events-and-training/event/2702/2944/"
     },
@@ -1321,7 +1334,7 @@
         "time_start": "10:15",
         "time_end": "11:15",
         "length_in_hours": 1.0,
-        "room": "City Terrace 9",
+        "room": "City Terrace 6",
         "event_id": "2702/3074",
         "event_url": "https://ire.org/events-and-training/event/2702/3074/"
     },
@@ -1341,7 +1354,7 @@
     {
         "title": "The present and future of bots",
         "type": "Panel",
-        "description": "**Moderated by Tiff Fehr, The New York Times",
+        "description": "Expectations are very high in 2017 for bots, artificial intelligence and their usefulness to journalism. \u00a0But the definitions and boundaries between types of bots are murky at best. \u00a0Few journalistic bots are alike (if you don't count their clones). \u00a0And each newsroom's needs for bots are often unique. \u00a0Our panel of bot-builders will lead you on a guided tour of bots past, present and future.\n\n**Moderated by Tiff Fehr, The New York Times",
         "speakers": "John Keefe, Simon Rogers, Ken Schwencke, Tiff Fehr",
         "date": "2017-03-03",
         "time_start": "10:15",
@@ -1373,7 +1386,7 @@
         "time_start": "11:30",
         "time_end": "12:30",
         "length_in_hours": 1.0,
-        "room": "City Terrace 9",
+        "room": "City Terrace 6",
         "event_id": "2702/3075",
         "event_url": "https://ire.org/events-and-training/event/2702/3075/"
     },
@@ -1438,14 +1451,14 @@
         "time_start": "11:30",
         "time_end": "12:30",
         "length_in_hours": 1.0,
-        "room": "City Terrace 4",
+        "room": "City Terrace 7",
         "event_id": "2702/2972",
         "event_url": "https://ire.org/events-and-training/event/2702/2972/"
     },
     {
         "title": "Managing data projects & workflows",
         "type": "Panel",
-        "description": "**Moderated by Matt Goldberg, NBC4 Los Angeles",
+        "description": "Large data projects can be a large pain in the neck and often require more planning and structure than is typical in most newsrooms. On this panel, we will discuss different approaches to managing large-scale data projects, what has worked and what hasn't.\n\n**Moderated by Matt Goldberg, NBC4 Los Angeles",
         "speakers": "Aron Pilhofer, Janet Roberts, Matt Goldberg",
         "date": "2017-03-03",
         "time_start": "11:30",
@@ -1529,14 +1542,14 @@
         "time_start": "14:15",
         "time_end": "15:15",
         "length_in_hours": 1.0,
-        "room": "City Terrace 7",
+        "room": "City Terrace 5",
         "event_id": "2702/2950",
         "event_url": "https://ire.org/events-and-training/event/2702/2950/"
     },
     {
         "title": "Basic D3 (repeat session)",
         "type": "Hands-on",
-        "description": "",
+        "description": "We\u2019ll cover the basics of getting you started with D3, even if you\u2019ve never used it before. Then we\u2019ll take several real datasets and use them to create a few basic charts.",
         "speakers": "Chris Canipe, Jon McClure",
         "date": "2017-03-03",
         "time_start": "14:15",
@@ -1568,7 +1581,7 @@
         "time_start": "14:15",
         "time_end": "15:15",
         "length_in_hours": 1.0,
-        "room": "City Terrace 4",
+        "room": "City Terrace 7",
         "event_id": "2702/3128",
         "event_url": "https://ire.org/events-and-training/event/2702/3128/"
     },
@@ -1576,7 +1589,7 @@
         "title": "Exploring environmental data",
         "type": "Panel",
         "description": "",
-        "speakers": "David Heath, Dianne Finch, Dinah Voyles Pulver",
+        "speakers": "David Heath, Dianne Finch, Dinah Pulver",
         "date": "2017-03-03",
         "time_start": "14:15",
         "time_end": "15:15",
@@ -1607,7 +1620,7 @@
         "time_start": "14:15",
         "time_end": "15:15",
         "length_in_hours": 1.0,
-        "room": "City Terrace 5",
+        "room": "City Terrace 9",
         "event_id": "2702/2959",
         "event_url": "https://ire.org/events-and-training/event/2702/2959/"
     },
@@ -1620,7 +1633,7 @@
         "time_start": "14:15",
         "time_end": "15:15",
         "length_in_hours": 1.0,
-        "room": "City Terrace 9",
+        "room": "City Terrace 6",
         "event_id": "2702/2967",
         "event_url": "https://ire.org/events-and-training/event/2702/2967/"
     },
@@ -1706,7 +1719,7 @@
         "title": "Data journalism from space",
         "type": "Demo",
         "description": "For decades, time-sensitive satellite imagery has been expensive and accessible mostly to governments and large corporations. Recent advances in consumer technologies are making satellite technology cheaper, and new business models are making the production of space-bound hardware and imagery more democratized. Planet Labs, a startup founded by ex-NASA engineers, has the largest constellation of Earth-imaging satellites ever and aims to image the entire planet every day to track global events and challenges like climate change, deforestation, refugee camp growth, disaster response, and many others. The high frequency of Planet's imagery creates new opportunities to capture insight on significant local and global change and is able to move at the rapid rate of today\u2019s 24-hour news cycle. Recent stories include coverage of deforestation in Bolivia, illegal gold mining in Peru, a collapsing glacier, and discovery of North Korean missile tests. As a unique source of data, Planet's imagery is available to approved journalists and socially-impactful projects.",
-        "speakers": "Sara Schnadt, Tim Schaub",
+        "speakers": "Sara Schnadt,",
         "date": "2017-03-03",
         "time_start": "15:30",
         "time_end": "16:30",
@@ -1724,14 +1737,14 @@
         "time_start": "15:30",
         "time_end": "16:30",
         "length_in_hours": 1.0,
-        "room": "City Terrace 4",
+        "room": "City Terrace 7",
         "event_id": "2702/3127",
         "event_url": "https://ire.org/events-and-training/event/2702/3127/"
     },
     {
         "title": "Intermediate D3 (repeat session)",
         "type": "Hands-on",
-        "description": "",
+        "description": "We\u2019ll tackle some of the more complicated chart forms in D3, cover advanced data manipulation functions, and include tons of real-world examples of how you can turn your own data into D3 charts.",
         "speakers": "Chris Canipe, Jon McClure",
         "date": "2017-03-03",
         "time_start": "15:30",
@@ -1750,7 +1763,7 @@
         "time_start": "15:30",
         "time_end": "16:30",
         "length_in_hours": 1.0,
-        "room": "City Terrace 7",
+        "room": "City Terrace 5",
         "event_id": "2702/2951",
         "event_url": "https://ire.org/events-and-training/event/2702/2951/"
     },
@@ -1789,7 +1802,7 @@
         "time_start": "15:30",
         "time_end": "16:30",
         "length_in_hours": 1.0,
-        "room": "City Terrace 5",
+        "room": "City Terrace 9",
         "event_id": "2702/2962",
         "event_url": "https://ire.org/events-and-training/event/2702/2962/"
     },
@@ -1802,7 +1815,7 @@
         "time_start": "15:30",
         "time_end": "16:30",
         "length_in_hours": 1.0,
-        "room": "City Terrace 9",
+        "room": "City Terrace 6",
         "event_id": "2702/3078",
         "event_url": "https://ire.org/events-and-training/event/2702/3078/"
     },
@@ -1874,7 +1887,7 @@
     {
         "title": "Advanced analysis in SQL",
         "type": "Hands-on",
-        "description": "",
+        "description": "If you feel comfortable with the Structured Query Language basics that IRE teaches in its boot camps -- SELECT, FROM, WHERE, GROUP BY -- but are ready to see what else SQL can do, this session is for you. We will cover more advanced ways of manipulating and questioning data, such as UPDATE queries, joins, writing sub-queries, and other neat tricks. \u00a0We will use SQLite.",
         "speakers": "Meghan Hoyer",
         "date": "2017-03-04",
         "time_start": "09:00",
@@ -1926,20 +1939,20 @@
     {
         "title": "Extracting data from PDFs (repeat session)",
         "type": "Hands-on",
-        "description": "",
+        "description": "Learn how to use tools for extracting text from documents. The seminar will discuss the fundamentals of knowing the best tool for the job, a walk-through using online web applications, and an introduction to cracking tough cases using Optical Character Recognition (OCR). For questions before or after the course, please email Acton Gorton (actongorton@gmail.com).",
         "speakers": "Miguel Barbosa",
         "date": "2017-03-04",
         "time_start": "09:00",
         "time_end": "10:00",
         "length_in_hours": 1.0,
-        "room": "City Terrace 7",
+        "room": "City Terrace 5",
         "event_id": "2702/2954",
         "event_url": "https://ire.org/events-and-training/event/2702/2954/"
     },
     {
         "title": "Geocoding addresses",
         "type": "Hands-on",
-        "description": "",
+        "description": "If you've had to place many addresses on a map before, you know how problematic bulk geocoding can be -- technical issues, terms of service, fun, fun fun! If you've never had the pleasure, don't worry, we'll show you how to happily (and correctly) geocode large sets of addresses.",
         "speakers": "Michael Corey",
         "date": "2017-03-04",
         "time_start": "09:00",
@@ -1966,7 +1979,7 @@
         "title": "Marrying documents and data",
         "type": "Panel",
         "description": "",
-        "speakers": "Steven Rich, Francisco Vara-Orta, Brooke Williams",
+        "speakers": "Steven Rich, Brooke Williams, Francisco Vara-Orta, Tom McGinty",
         "date": "2017-03-04",
         "time_start": "09:00",
         "time_end": "10:00",
@@ -1991,13 +2004,13 @@
     {
         "title": "Stats: An introduction",
         "type": "Hands-on",
-        "description": "",
+        "description": "You know how to do sums and averages in Excel. What's next? Learn how to use other statistical tools in Excel, from standard deviations to correlations to t-tests.",
         "speakers": "Holly Hacker",
         "date": "2017-03-04",
         "time_start": "09:00",
         "time_end": "10:00",
         "length_in_hours": 1.0,
-        "room": "City Terrace 9",
+        "room": "City Terrace 6",
         "event_id": "2702/2955",
         "event_url": "https://ire.org/events-and-training/event/2702/2955/"
     },
@@ -2010,7 +2023,7 @@
         "time_start": "09:00",
         "time_end": "10:00",
         "length_in_hours": 1.0,
-        "room": "City Terrace 4",
+        "room": "City Terrace 7",
         "event_id": "2702/3068",
         "event_url": "https://ire.org/events-and-training/event/2702/3068/"
     },
@@ -2036,7 +2049,7 @@
         "time_start": "09:00",
         "time_end": "12:30",
         "length_in_hours": 3.5,
-        "room": "City Terrace 5",
+        "room": "City Terrace 9",
         "event_id": "2702/2886",
         "event_url": "https://ire.org/events-and-training/event/2702/2886/"
     },
@@ -2049,7 +2062,7 @@
         "time_start": "09:00",
         "time_end": "17:45",
         "length_in_hours": 8.75,
-        "room": "City Terrace 6",
+        "room": "City Terrace 4",
         "event_id": "2702/2885",
         "event_url": "https://ire.org/events-and-training/event/2702/2885/"
     },
@@ -2067,9 +2080,9 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3116/"
     },
     {
-        "title": "Advanced pdf manipulation (repeat session)",
+        "title": "Advanced PDF manipulation (repeat session)",
         "type": "Hands-on",
-        "description": "",
+        "description": "So now you know how to get data from basic pdfs and large batches. What about mixed formats, ongoing jobs etc?\n\nThis session will cover how to process pdfs in large batches, use Amazon Mechanical Turk, schedule OCR jobs to work while you aren't around, and build data pipeline. If you\u2019re comfortable with the command line and Tesseract this is for you.",
         "speakers": "Jacob Fenton",
         "date": "2017-03-04",
         "time_start": "10:15",
@@ -2153,7 +2166,7 @@
         "time_start": "10:15",
         "time_end": "11:15",
         "length_in_hours": 1.0,
-        "room": "City Terrace 7",
+        "room": "City Terrace 5",
         "event_id": "2702/2958",
         "event_url": "https://ire.org/events-and-training/event/2702/2958/"
     },
@@ -2166,20 +2179,20 @@
         "time_start": "10:15",
         "time_end": "11:15",
         "length_in_hours": 1.0,
-        "room": "City Terrace 4",
+        "room": "City Terrace 7",
         "event_id": "2702/2953",
         "event_url": "https://ire.org/events-and-training/event/2702/2953/"
     },
     {
         "title": "Stats: Linear regression",
         "type": "Hands-on",
-        "description": "",
+        "description": "Go beyond counting and sorting. Learn how (and when) to measure relationships, level playing fields and make predictions.",
         "speakers": "John Perry",
         "date": "2017-03-04",
         "time_start": "10:15",
         "time_end": "11:15",
         "length_in_hours": 1.0,
-        "room": "City Terrace 9",
+        "room": "City Terrace 6",
         "event_id": "2702/2960",
         "event_url": "https://ire.org/events-and-training/event/2702/2960/"
     },
@@ -2244,14 +2257,14 @@
         "time_start": "11:30",
         "time_end": "12:30",
         "length_in_hours": 1.0,
-        "room": "City Terrace 7",
+        "room": "City Terrace 5",
         "event_id": "2702/3055",
         "event_url": "https://ire.org/events-and-training/event/2702/3055/"
     },
     {
         "title": "Digging through the web",
         "type": "Panel",
-        "description": "",
+        "description": "\"Digging through the web\" is being presented by Gary Price, founder of infoDOCKET.com and Caryn Baird, News Researcher at the Tampa Bay Times. In a fast-paced session, two veteran librarians will share a variety of research techniques and free resources. From backgrounding a person to retrieving an archived multimedia interview to one-click web scraping, this session will give you tools you can put to use immediately.",
         "speakers": "Caryn Baird, Gary Price",
         "date": "2017-03-04",
         "time_start": "11:30",
@@ -2288,9 +2301,22 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3021/"
     },
     {
+        "title": "Negotiating for the records",
+        "type": "Panel",
+        "description": "",
+        "speakers": "Maggie Mulvihill, John Bones, Jim Ross",
+        "date": "2017-03-04",
+        "time_start": "11:30",
+        "time_end": "12:30",
+        "length_in_hours": 1.0,
+        "room": "Conference Center B",
+        "event_id": "2702/3141",
+        "event_url": "https://ire.org/events-and-training/event/2702/3141/"
+    },
+    {
         "title": "Personalized interactive journeys",
         "type": "Demo",
-        "description": "",
+        "description": "This session explores the developing art of creating mobile-friendly news interactives that deliver personalized experiences to users by guiding them through a series of choices. Scott Blumenthal, deputy editor of interactive news at the New York Times and Sandeep Junnarkar, director of interactive journalism at the CUNY Graduate School of Journalism, will explain the process of building these interactives that show audiences where they fit into the news \u2013 helping them understand complex issues or make informed decisions. The panelists will showcase work they've produced and explain how the pieces came together. This engaging form of storytelling can help the user forge connections to the experiences of others \u2013 giving them a deeper, more visceral understanding of the news\u2019 impact on people\u2019s lives.",
         "speakers": "Scott Blumenthal, Sandeep Junnarkar",
         "date": "2017-03-04",
         "time_start": "11:30",
@@ -2309,7 +2335,7 @@
         "time_start": "11:30",
         "time_end": "12:30",
         "length_in_hours": 1.0,
-        "room": "City Terrace 4",
+        "room": "City Terrace 7",
         "event_id": "2702/3069",
         "event_url": "https://ire.org/events-and-training/event/2702/3069/"
     },
@@ -2322,7 +2348,7 @@
         "time_start": "11:30",
         "time_end": "12:30",
         "length_in_hours": 1.0,
-        "room": "City Terrace 9",
+        "room": "City Terrace 6",
         "event_id": "2702/2963",
         "event_url": "https://ire.org/events-and-training/event/2702/2963/"
     },
@@ -2400,14 +2426,14 @@
         "time_start": "14:15",
         "time_end": "15:15",
         "length_in_hours": 1.0,
-        "room": "City Terrace 7",
+        "room": "City Terrace 5",
         "event_id": "2702/2966",
         "event_url": "https://ire.org/events-and-training/event/2702/2966/"
     },
     {
         "title": "Data can only dance with its music: Understanding the ecology of public data",
         "type": "Panel",
-        "description": "",
+        "description": "Traditionally, journalists have sought government documents. Today we seek digital data. But that data always exists in a metadata ecosystem of variable definitions. The metadata contributes to seeing patterns, trends and significance in the data analysis. So do we submit FOIA requests for the data or the metadata or both in the same request? Each approach can have varying degrees of success. This session will consist of short presentations, followed by an audience discussion of how to develop best practice FOIA request strategies.",
         "speakers": "Carli Brosseau, Tom Johnson, Andrew Lehren",
         "date": "2017-03-04",
         "time_start": "14:15",
@@ -2426,7 +2452,7 @@
         "time_start": "14:15",
         "time_end": "15:15",
         "length_in_hours": 1.0,
-        "room": "City Terrace 9",
+        "room": "City Terrace 6",
         "event_id": "2702/3084",
         "event_url": "https://ire.org/events-and-training/event/2702/3084/"
     },
@@ -2465,7 +2491,7 @@
         "time_start": "14:15",
         "time_end": "15:15",
         "length_in_hours": 1.0,
-        "room": "City Terrace 5",
+        "room": "City Terrace 9",
         "event_id": "2702/3083",
         "event_url": "https://ire.org/events-and-training/event/2702/3083/"
     },
@@ -2504,7 +2530,7 @@
         "time_start": "14:15",
         "time_end": "17:45",
         "length_in_hours": 3.5,
-        "room": "City Terrace 4",
+        "room": "City Terrace 7",
         "event_id": "2702/3054",
         "event_url": "https://ire.org/events-and-training/event/2702/3054/"
     },
@@ -2517,7 +2543,7 @@
         "time_start": "15:30",
         "time_end": "16:30",
         "length_in_hours": 1.0,
-        "room": "City Terrace 7",
+        "room": "City Terrace 5",
         "event_id": "2702/3065",
         "event_url": "https://ire.org/events-and-training/event/2702/3065/"
     },
@@ -2530,7 +2556,7 @@
         "time_start": "15:30",
         "time_end": "16:30",
         "length_in_hours": 1.0,
-        "room": "City Terrace 9",
+        "room": "City Terrace 6",
         "event_id": "2702/3085",
         "event_url": "https://ire.org/events-and-training/event/2702/3085/"
     },
@@ -2569,7 +2595,7 @@
         "time_start": "15:30",
         "time_end": "16:30",
         "length_in_hours": 1.0,
-        "room": "City Terrace 5",
+        "room": "City Terrace 9",
         "event_id": "2702/2968",
         "event_url": "https://ire.org/events-and-training/event/2702/2968/"
     },
@@ -2577,7 +2603,7 @@
         "title": "Localize that investigation: Using AP data to do your own stories",
         "type": "Special Event",
         "description": "",
-        "speakers": "Troy Thibodeaux, Meghan Hoyer",
+        "speakers": "Troy Thibodeaux, Meghan Hoyer, Ian Greenleigh",
         "date": "2017-03-04",
         "time_start": "15:30",
         "time_end": "16:30",
@@ -2602,8 +2628,8 @@
     {
         "title": "Quick-turn data stories",
         "type": "Panel",
-        "description": "Speaker:",
-        "speakers": null,
+        "description": "",
+        "speakers": "Greta Kaul, Dave Sheingold, Patrick Cain, Mark Walker",
         "date": "2017-03-04",
         "time_start": "15:30",
         "time_end": "16:30",
@@ -2615,7 +2641,7 @@
     {
         "title": "Self-promotion for the data reporter",
         "type": "Panel",
-        "description": "",
+        "description": "Do you struggle to get data projects off the ground because your editor won't give you time? Do you wish you could learn jQuery but keep getting stuck on daily projects? Two battle-tested editors and a freelancer are ready to share their wisdom on how to find gigs, story space, funding or other opportunities to help you be the data reporter you know you can be.",
         "speakers": "Scott Klein, Samantha Sunne, Chrys Wu",
         "date": "2017-03-04",
         "time_start": "15:30",
@@ -2641,13 +2667,13 @@
     {
         "title": "Advanced analysis in SQL (repeat session)",
         "type": "Hands-on",
-        "description": "",
+        "description": "If you feel comfortable with the Structured Query Language basics that IRE teaches in its boot camps -- SELECT, FROM, WHERE, GROUP BY -- but are ready to see what else SQL can do, this session is for you. We will cover more advanced ways of manipulating and questioning data, such as UPDATE queries, joins, writing sub-queries, and other neat tricks. \u00a0We will use PostgreSQL.",
         "speakers": "Chris Schnaars",
         "date": "2017-03-04",
         "time_start": "16:45",
         "time_end": "17:45",
         "length_in_hours": 1.0,
-        "room": "City Terrace 5",
+        "room": "City Terrace 9",
         "event_id": "2702/3087",
         "event_url": "https://ire.org/events-and-training/event/2702/3087/"
     },
@@ -2660,14 +2686,14 @@
         "time_start": "16:45",
         "time_end": "17:45",
         "length_in_hours": 1.0,
-        "room": "City Terrace 7",
+        "room": "City Terrace 5",
         "event_id": "2702/2969",
         "event_url": "https://ire.org/events-and-training/event/2702/2969/"
     },
     {
         "title": "Economic development incentives: Old issues, hot new data",
         "type": "Panel",
-        "description": "",
+        "description": "States and cities spend tens of billions of dollars on \u201ccorporate welfare,\u201d or economic development tax breaks for all kinds of projects. Persistent shoe-leather reporting has long proven effective in exposing problems with many deals. Now a new accounting rule, Governmental Accounting Standards Board Statement No. 77 on Tax Abatement Disclosures, is about to generate first-ever spending data from more than 50,000 local and state bodies of government, a new investigative gold mine!",
         "speakers": "Greg LeRoy, Janelle O'Dea",
         "date": "2017-03-04",
         "time_start": "16:45",
@@ -2676,6 +2702,19 @@
         "room": "Conference Center B",
         "event_id": "2702/3138",
         "event_url": "https://ire.org/events-and-training/event/2702/3138/"
+    },
+    {
+        "title": "Ethical dilemmas in data",
+        "type": "Special Event",
+        "description": "",
+        "speakers": "MaryJo Webster, Tom McGinty",
+        "date": "2017-03-04",
+        "time_start": "16:45",
+        "time_end": "17:45",
+        "length_in_hours": 1.0,
+        "room": "City Terrace 12",
+        "event_id": "2702/3139",
+        "event_url": "https://ire.org/events-and-training/event/2702/3139/"
     },
     {
         "title": "Internet Archive: Resources, tools, and tricks",
@@ -2699,9 +2738,22 @@
         "time_start": "16:45",
         "time_end": "17:45",
         "length_in_hours": 1.0,
-        "room": "City Terrace 9",
+        "room": "City Terrace 6",
         "event_id": "2702/3088",
         "event_url": "https://ire.org/events-and-training/event/2702/3088/"
+    },
+    {
+        "title": "Putting your town under a microscope--and keeping it there",
+        "type": "Panel",
+        "description": "",
+        "speakers": "Kate Howard, Matt Kiefer, Andrew Mollica",
+        "date": "2017-03-04",
+        "time_start": "16:45",
+        "time_end": "17:45",
+        "length_in_hours": 1.0,
+        "room": "River Terrace 3",
+        "event_id": "2702/3143",
+        "event_url": "https://ire.org/events-and-training/event/2702/3143/"
     },
     {
         "title": "Regular expressions",
@@ -2719,7 +2771,7 @@
     {
         "title": "Separating fact from fiction: Information verification",
         "type": "Panel",
-        "description": "",
+        "description": "Odds are, your boss has asked you to comb through social media during breaking news to find photos and witness accounts. Odds are, no one has taught you how to assess whether those images are authentic. We will.",
         "speakers": "Steve Myers, Gary Price",
         "date": "2017-03-04",
         "time_start": "16:45",
@@ -2730,9 +2782,22 @@
         "event_url": "https://ire.org/events-and-training/event/2702/2925/"
     },
     {
+        "title": "Using data to cover immigration",
+        "type": "Panel",
+        "description": "",
+        "speakers": "Nassos Stylianou, Linnea Heppling",
+        "date": "2017-03-04",
+        "time_start": "16:45",
+        "time_end": "17:45",
+        "length_in_hours": 1.0,
+        "room": "River Terrace 1",
+        "event_id": "2702/3142",
+        "event_url": "https://ire.org/events-and-training/event/2702/3142/"
+    },
+    {
         "title": "Command line graphics",
         "type": "Demo",
-        "description": "Some of the most powerful tools for creating visuals and working with images lie hidden in your terminal. We'll do an overview of some of these amazing (FREE!) tools \u2013 such as ImageMagick and ffmpeg \u2013 and see some real world techniques for working with large collections of images, and how I use these tools in my projects. Some of the things we'll cover: make a timelapse video from sequential images, extract and save metadata embedded in photos, create image quilts, and build animated GIFs from videos.",
+        "description": "Some of the most powerful tools for creating visuals and working with images lie hidden in your terminal. We'll do an overview of some of these amazing (FREE!) tools \u2013 such as ImageMagick and ffmpeg \u2013 and see some real-world techniques for working with large collections of images, and how I use these tools in my projects. Some of the things we'll cover: make a timelapse video from sequential images, extract and save metadata embedded in photos, create image quilts, and build animated GIFs from videos.",
         "speakers": "Jon Keegan",
         "date": "2017-03-05",
         "time_start": "09:00",
@@ -2751,7 +2816,7 @@
         "time_start": "09:00",
         "time_end": "10:00",
         "length_in_hours": 1.0,
-        "room": "City Terrace 7",
+        "room": "City Terrace 5",
         "event_id": "2702/3066",
         "event_url": "https://ire.org/events-and-training/event/2702/3066/"
     },
@@ -2764,7 +2829,7 @@
         "time_start": "09:00",
         "time_end": "10:00",
         "length_in_hours": 1.0,
-        "room": "City Terrace 5",
+        "room": "City Terrace 9",
         "event_id": "2702/3072",
         "event_url": "https://ire.org/events-and-training/event/2702/3072/"
     },
@@ -2772,7 +2837,7 @@
         "title": "Lighter side of data journalism?",
         "type": "Panel",
         "description": "",
-        "speakers": "Jenny Ye, Jeff Hargarten",
+        "speakers": "Jenny Ye, Jeffrey Hargarten",
         "date": "2017-03-05",
         "time_start": "09:00",
         "time_end": "10:00",
@@ -2784,7 +2849,7 @@
     {
         "title": "Stats: Linear regression (repeat session)",
         "type": "Hands-on",
-        "description": "",
+        "description": "Go beyond counting and sorting. Learn how (and when) to measure relationships, level playing fields and make predictions.",
         "speakers": "Jeff Kelly Lowenstein",
         "date": "2017-03-05",
         "time_start": "09:00",
@@ -2803,14 +2868,14 @@
         "time_start": "09:00",
         "time_end": "10:00",
         "length_in_hours": 1.0,
-        "room": "City Terrace 4",
+        "room": "City Terrace 7",
         "event_id": "2702/3070",
         "event_url": "https://ire.org/events-and-training/event/2702/3070/"
     },
     {
-        "title": "Year in CAR (repeat)",
+        "title": "Year in CAR (repeat session)",
         "type": "Panel",
-        "description": "",
+        "description": "What were the big stories of the year? What were the most creative uses of data analysis? See what your colleagues have been up to and pick up some story ideas at the same time. This session is good for: Anyone.",
         "speakers": "Lauren Grandestaff, Kaitlin Washburn",
         "date": "2017-03-05",
         "time_start": "09:00",
@@ -2842,7 +2907,7 @@
         "time_start": "09:00",
         "time_end": "12:30",
         "length_in_hours": 3.5,
-        "room": "City Terrace 6",
+        "room": "City Terrace 4",
         "event_id": "2702/2884",
         "event_url": "https://ire.org/events-and-training/event/2702/2884/"
     },
@@ -2868,7 +2933,7 @@
         "time_start": "10:15",
         "time_end": "11:15",
         "length_in_hours": 1.0,
-        "room": "City Terrace 5",
+        "room": "City Terrace 9",
         "event_id": "2702/3092",
         "event_url": "https://ire.org/events-and-training/event/2702/3092/"
     },
@@ -2876,7 +2941,7 @@
         "title": "Career roundtable",
         "type": "Panel",
         "description": "**Moderated by Megan Luther, IRE/NICAR",
-        "speakers": "Clark Fouraker, Jill Riepenhoff, Steven Rich, Megan Luther",
+        "speakers": "Clark Fouraker, Jill Riepenhoff, Steven Rich, Megan Luther, Mc Nelly Torres",
         "date": "2017-03-05",
         "time_start": "10:15",
         "time_end": "11:15",
@@ -2894,7 +2959,7 @@
         "time_start": "10:15",
         "time_end": "11:15",
         "length_in_hours": 1.0,
-        "room": "City Terrace 7",
+        "room": "City Terrace 5",
         "event_id": "2702/3067",
         "event_url": "https://ire.org/events-and-training/event/2702/3067/"
     },
@@ -2927,7 +2992,7 @@
     {
         "title": "Stats: Logistic regression (repeat session)",
         "type": "Hands-on",
-        "description": "",
+        "description": "Linear regression helps you find relationships between two or more variables, but when an outcome has only two possibilities, you need a different tool. That, my friends, is where logistic regression comes in.\n\nThis session will be taught in PSPP and will be most useful if: You took 'Stats: An introduction', or are comfortable with summary statistics and PSPP or SPSS. Familiarity with spreadsheets and database managers is recommended.",
         "speakers": "Jennifer LaFleur",
         "date": "2017-03-05",
         "time_start": "10:15",
@@ -2936,6 +3001,19 @@
         "room": "City Terrace 8",
         "event_id": "2702/3095",
         "event_url": "https://ire.org/events-and-training/event/2702/3095/"
+    },
+    {
+        "title": "D3 charting tool",
+        "type": "Hands-on",
+        "description": "",
+        "speakers": "Daniele Palumbo",
+        "date": "2017-03-05",
+        "time_start": "11:30",
+        "time_end": "12:30",
+        "length_in_hours": 1.0,
+        "room": "City Terrace 5",
+        "event_id": "2702/3140",
+        "event_url": "https://ire.org/events-and-training/event/2702/3140/"
     },
     {
         "title": "Flourish: Making reusable visualization templates",
@@ -2959,7 +3037,7 @@
         "time_start": "11:30",
         "time_end": "12:30",
         "length_in_hours": 1.0,
-        "room": "City Terrace 5",
+        "room": "City Terrace 9",
         "event_id": "2702/3071",
         "event_url": "https://ire.org/events-and-training/event/2702/3071/"
     },
