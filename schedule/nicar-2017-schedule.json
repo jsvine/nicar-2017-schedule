@@ -13,6 +13,19 @@
         "event_url": "https://ire.org/events-and-training/event/2702/2999/"
     },
     {
+        "title": "Conference sales (Wednesday)",
+        "type": "Special Event",
+        "description": "Stop by the NICAR Conference sales table and browse our merchandise, including the IRE bookstore's most popular titles and shirts with the winning design from the NICAR T-shirt contest.",
+        "speakers": "TBA",
+        "date": "2017-03-01",
+        "time_start": "13:00",
+        "time_end": "17:00",
+        "length_in_hours": 4.0,
+        "room": "3rd floor - Skybridge",
+        "event_id": "2702/3003",
+        "event_url": "https://ire.org/events-and-training/event/2702/3003/"
+    },
+    {
         "title": "Techraking <=19: Bootstrapping the News (Sponsored by Reveal from The Center for Investigative Reporting)",
         "type": "Outside Event",
         "description": "Register now!\n\nGive us four hours and your laptop, and we\u2019ll send you into NICAR with a fully-functioning data-crunching machine and the knowledge to use it.\n\nOne of the biggest hurdles to learning programming is the often bewildering process of setting up your computer. Veteran programmers and data crunchers from Reveal from The Center for Investigative Reporting will give you a virtual playground on your personal laptop that will allow you to explore all the tools you'll gather throughout the conference. In this four-hour workshop, we\u2019ll introduce crucial programming concepts and tools and -- most importantly -- why we use them.\n\nYou\u2019ll walk into conference sessions with a laptop loaded with many of the tools presenters will be talking about, and a leg up as you continue developing your skills once you're back home.\n\nTarget audience: People with no or minimal exposure to programming who need a jumping off point to get their feet wet so they are prepared for programming classes at the conference.\n\nRequirements to attend: Laptop with administrative privileges\n\nMinimum technical specifications: Windows: Version 7 or higher; Mac: OS 10.9 (Mavericks) or higher. 4 GB of RAM, 15 GB of free hard-drive space. English layout keyboard strongly preferred. (Other layouts may work, but we've had trouble with certain characters in the past and our ability to provide tech support will be limited.)\n\nParticipants will walk away with a fully functioning dev machine (on their personal laptop) that includes: VirtualBox, Ubuntu/Xbuntu, Bower, csvkit, Django, Fabric, Git, Grunt, Ilene, MySQL, Node.js, NPM, PostgreSQL, PostGIS, PANDAS, Python, QuantumGIS, R, RBENV, Rails, Ruby, SQLite, Tabula, virtualenv/virtualenvwrapper\n\nAdditional details including the schedule for the workshop can be found on the\u00a0conference website.\n\n*Basic Schedule:*\n\n*1-5 p.m.*\n\nI. Programming: Why should you care?\n\nII. What we're about to install\n\nIII. Installing VirtualBox and Ubuntu\n\nIV. Brief overview of stuff you got with your install\n\nV. Using your new powers\n\nA. Navigating the command line\n\nB. Updating/installing software with apt\n\nC. Working with open-source software\n\nD. Basic version control (git)\n\nE. How to get help\n\n5 p.m. Beer/mingling (Location: Fionn MacCool's)\n\nRegister for this workshop.",
@@ -39,17 +52,17 @@
         "event_url": "https://ire.org/events-and-training/event/2702/2898/"
     },
     {
-        "title": "Conference sales (Wednesday)",
+        "title": "International meet and greet *invitation only",
         "type": "Special Event",
         "description": "",
         "speakers": "TBA",
-        "date": "2017-03-01",
-        "time_start": "15:00",
-        "time_end": "17:00",
-        "length_in_hours": 2.0,
-        "room": "3rd floor - Skybridge",
-        "event_id": "2702/3003",
-        "event_url": "https://ire.org/events-and-training/event/2702/3003/"
+        "date": "2017-03-02",
+        "time_start": "07:30",
+        "time_end": "08:15",
+        "length_in_hours": 0.75,
+        "room": "River Terrace 2",
+        "event_id": "2702/3147",
+        "event_url": "https://ire.org/events-and-training/event/2702/3147/"
     },
     {
         "title": "Conference registration (Thursday)",
@@ -67,12 +80,12 @@
     {
         "title": "Conference sales (Thursday)",
         "type": "Special Event",
-        "description": "",
+        "description": "Stop by the NICAR Conference sales table and browse our merchandise, including the IRE bookstore's most popular titles and shirts with the winning design from the NICAR T-shirt contest.",
         "speakers": "TBA",
         "date": "2017-03-02",
-        "time_start": "08:00",
+        "time_start": "07:30",
         "time_end": "18:00",
-        "length_in_hours": 10.0,
+        "length_in_hours": 10.5,
         "room": "3rd floor - Skybridge",
         "event_id": "2702/3004",
         "event_url": "https://ire.org/events-and-training/event/2702/3004/"
@@ -93,7 +106,7 @@
     {
         "title": "Algorithmic accountability",
         "type": "Panel",
-        "description": "**Moderated by Greg Linch, McClatchy DC\n\nLarge or small, data projects can be a HUGE pain in the neck and require planning and structure to be successful. On this panel, we will examine different approaches to managing data projects, organizing the newsroom and creating an effective workflow.",
+        "description": "**Moderated by Greg Linch, McClatchy",
         "speakers": "Julia Angwin, Nick Diakopoulos, Sam Corbett-Davies, Greg Linch",
         "date": "2017-03-02",
         "time_start": "09:00",
@@ -117,10 +130,10 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3058/"
     },
     {
-        "title": "Conversations 1 (Sponsored by SRCCON - Knight Mozilla OpenNews)",
+        "title": "Conversations: Journalism's bottom line (Sponsored by SRCCON - OpenNews)",
         "type": "Special Event",
-        "description": "",
-        "speakers": "TBA",
+        "description": "This conversation will brainstorm coping strategies and solutions for working in corporate news and the roadblocks that come with it. How do we deal with the push to focus on \"click bait\" material, or doing just about anything to get more web traffic? The focus on boosting web traffic eats up time that could be spent on other important coverage and seems to at times detract from the mission. In newsrooms across the country, money has become so tight that it rules everything that we do. It shouldn't, but it does affect coverage. What's the point of boosting web traffic if we aren't really fulfilling the real purpose of journalism, which is watchdogging and being the fourth estate? This conversation will allow journalists who struggle with these issues to connect and think of creative ways to deal.",
+        "speakers": "Janelle O'Dea",
         "date": "2017-03-02",
         "time_start": "09:00",
         "time_end": "10:00",
@@ -169,9 +182,9 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3060/"
     },
     {
-        "title": "Security tools for journalists (demo)",
+        "title": "Security tools for journalists",
         "type": "Demo",
-        "description": "",
+        "description": "You're traveling abroad to cover a story: What steps can you take to secure your data, your devices, and your sources before heading to the airport? What are the pros and cons of bringing a burner into the field? How should you send notes to your editor before returning home? This demo is designed to address the digital security needs of journalists as they travel overseas. Participants can expect to learn a number of software solutions and security practices \u2014 with particular focus paid to mobile and desktop security and file encryption.",
         "speakers": "Olivia Martin, Mike Tigas",
         "date": "2017-03-02",
         "time_start": "09:00",
@@ -236,7 +249,7 @@
     {
         "title": "PyCAR (beginner) *pre-registered attendees only",
         "type": "Hands-on",
-        "description": "Ben Welsh, James Gordon and Cheryl Phillips teach you how to conduct and publish a data analysis with the Python programming language, its pandas toolkit and a Jupyter Notebook.\n\nThe 6-hour, hands-on tutorial will guide you through an investigation of money in politics using data from the California Civic Data Coalition. You will learn just enough Python to do damage with the powerful pandas data analysis library, the most popular open-source library for working with large data files. You will also learn how to record, remix and republish your analysis using the Jupyter Notebook, a browser-based tool for writing code that is emerging as the standard for sharing reproducible research in the sciences. And most importantly, you will see how these tools can increase the speed and veracity of your journalism.\n\nAlthough the class is geared toward beginners, we'll assume that you're comfortable with databases and SQL and that you've hopefully seen a command line since the days of DOS. Preregistration is required and seating is limited. Laptops will be provided for the training.\n\nWorkshop prerequisites: Attendees should have familiarity with the command line and are comfortable with databases and SQL.\n\nWorkshop times are Thursday 9 a.m. - 12:30 p.m. continuing Friday morning from 9 a.m. - 12:30 p.m. (Note: Registration for this session reserves your seat for both days of this workshop. \u00a0Attendees are expected to attend both session to complete this workshop).\n\nNOTE: Registration is required for this session. Click here to sign up.",
+        "description": "This hands-on workshop will teach journalists basic programming concepts using the Python language. The daylong class will introduce language basics and useful libraries in the course of a typical reporting project: scraping data from the web, inserting it in a database and analyzing the results.\n\nAlthough the class is geared toward beginners, we'll assume that you're comfortable with databases and SQL and that you've hopefully seen a command line since the days of DOS.\n\nPreregistration is required and seating is limited. Laptops will be provided for the training.\n\nWorkshop prerequisites: Attendees should have familiarity with the command line and are comfortable with databases and SQL.\n\nWorkshop times are Thursday 9 a.m. - 12:30 p.m. continuing Friday morning from 9 a.m. - 12:30 p.m. (Note: Registration for this session reserves your seat for both days of this workshop. \u00a0Attendees are expected to attend both session to complete this workshop).\n\nNOTE: Registration is required for this session. Click here to sign up.",
         "speakers": "Adriana Homolova, Tom Meagher, Roberto Rocha, Eric Sagara, Elaine Wong, Heather Battaglia, Chris Keller",
         "date": "2017-03-02",
         "time_start": "09:00",
@@ -286,10 +299,10 @@
         "event_url": "https://ire.org/events-and-training/event/2702/2932/"
     },
     {
-        "title": "Conversations 2 (Sponsored by SRCCON - Knight Mozilla OpenNews)",
+        "title": "Conversations: NICAR freelancers (Sponsored by SRCCON - OpenNews)",
         "type": "Special Event",
-        "description": "",
-        "speakers": "TBA",
+        "description": "Freelance journalists and programmers, let's put our heads together! We'll have an informal chat about the joys and tribulations of being self-employed in the world of cutting-edge journalism. Hopefully, we'll trade some new tips and make some new friends. If you're thinking about going freelance, this may be a good session for you, too!",
+        "speakers": "Samantha Sunne",
         "date": "2017-03-02",
         "time_start": "10:15",
         "time_end": "11:15",
@@ -302,7 +315,7 @@
         "title": "Educator huddle: Let's discuss the future",
         "type": "Panel",
         "description": "Come participate in a session to come up with an ideal data journalism curriculum across universities and programs. This will go beyond a panel session and focus on concrete ideas and proposals that you can take back and begin to put into place. We will use the wisdom of educators and journalists in the room to lay out best practices and the route to them.",
-        "speakers": "Brant Houston, Cheryl Phillips",
+        "speakers": "Cheryl Phillips, Brant Houston",
         "date": "2017-03-02",
         "time_start": "10:15",
         "time_end": "11:15",
@@ -353,8 +366,8 @@
     {
         "title": "Packaging data stories for digital",
         "type": "Panel",
-        "description": "",
-        "speakers": "Ashlyn Still, Richard Watkins, Brittany Mayes",
+        "description": "**Moderated by Sarah Hutchins, IRE/NICAR",
+        "speakers": "Ashlyn Still, Richard Watkins, Brittany Mayes, Sarah Hutchins",
         "date": "2017-03-02",
         "time_start": "10:15",
         "time_end": "11:15",
@@ -431,7 +444,7 @@
     {
         "title": "Agate for data analysis in Python",
         "type": "Hands-on",
-        "description": "",
+        "description": "In this hands-on session we'll introduce you to programmatic data analysis with the agate module for Python. We'll go through the basics\u2014reading CSV files, transforming data, and running basic statistical analysis\u2014while leaving plenty of room for your questions. This session is ideal for folks with some Python experience, especially those who've reached the limits of what they can do with tools like csvkit, but find pandas and numpy bewildering.",
         "speakers": "Christopher Groskopf, Neil Bedi",
         "date": "2017-03-02",
         "time_start": "11:30",
@@ -455,10 +468,10 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3034/"
     },
     {
-        "title": "Conversations 3 (Sponsored by (Sponsored by SRCCON - Knight Mozilla OpenNews)",
+        "title": "Conversations: Remote working for journalists (Sponsored by SRCCON - OpenNews)",
         "type": "Special Event",
-        "description": "",
-        "speakers": "TBA",
+        "description": "Remote working in journalism is sometimes very different than remote working in other fields. Even major national media outlets hesitate to allow remote workers for various reasons. I would love to have a conversation about whys why-nots, dos and don'ts of remote working.",
+        "speakers": "Kavya Sukumar",
         "date": "2017-03-02",
         "time_start": "11:30",
         "time_end": "12:30",
@@ -535,7 +548,7 @@
     {
         "title": "The election data you should be paying attention to",
         "type": "Panel",
-        "description": "",
+        "description": "Election data isn't just results. Come learn about other datasets that help journalists and academics understand elections from people who use them. We\u2019ll discuss voter files, election administration data and other sources, plus how to collaborate with researchers who already work in this area.",
         "speakers": "Rachel Shorey, Derek Willis, Daniel Smith",
         "date": "2017-03-02",
         "time_start": "11:30",
@@ -559,10 +572,10 @@
         "event_url": "https://ire.org/events-and-training/event/2702/2996/"
     },
     {
-        "title": "Conversations 4 (Sponsored by SRCCON - Knight Mozilla OpenNews)",
+        "title": "Conversations: Preparing for the worst case scenario (Sponsored by SRCCON - OpenNews)",
         "type": "Special Event",
-        "description": "",
-        "speakers": "TBA",
+        "description": "A systematic persecution of specific minority groups in America (like the Japanese internment camps in the 1940s) has again become a scary and real possibility. If you've felt similar fears, have thought about your own emergency plans, let's talk. This session is not for people who are simply curious about why others might feel this way. Come to this session to talk emergency plan tips, building a geographically diverse support system for if/when the time comes, what to do as self-care in the meantime, and to know that you're not alone.",
+        "speakers": "Sisi Wei",
         "date": "2017-03-02",
         "time_start": "12:45",
         "time_end": "13:45",
@@ -640,7 +653,7 @@
         "title": "Design track: Dataviz workflows -  Unexpected ways to use tools to publish print & web graphics (Sponsored by Society for News Design)",
         "type": "Hands-on",
         "description": "Using tools such as AI2HTML and SVG Crowbar to go from the web to print and back again.",
-        "speakers": "K.K. Rebecca Lai, Troy Griggs",
+        "speakers": "Ka Kay Rebecca Lai, Troy Griggs",
         "date": "2017-03-02",
         "time_start": "14:15",
         "time_end": "15:15",
@@ -650,10 +663,23 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3051/"
     },
     {
+        "title": "Digital security preparation for reporting abroad",
+        "type": "Hands-on",
+        "description": "You're traveling abroad to cover a story: What steps can you take to secure your data, your devices, and your sources before heading to the airport? What are the pros and cons of bringing a burner into the field? How should you send notes to your editor before returning home? This hands-on workshop is designed to address the digital security needs of journalists as they travel overseas. Participants can expect to demo a number of software solutions and security practices \u2014 with particular focus paid to mobile and desktop security and file encryption.",
+        "speakers": "Olivia Martin",
+        "date": "2017-03-02",
+        "time_start": "14:15",
+        "time_end": "15:15",
+        "length_in_hours": 1.0,
+        "room": "City Terrace 8",
+        "event_id": "2702/2952",
+        "event_url": "https://ire.org/events-and-training/event/2702/2952/"
+    },
+    {
         "title": "From drugs to doctors: Uncovering stories in health data",
         "type": "Panel",
         "description": "**Moderated by Kristin Hussey, independent journalist",
-        "speakers": "Jeff Ernsthausen, Ryan McNeill, Nicole Vap, Kristin Hussey",
+        "speakers": "Jeff Ernsthausen, Nicole Vap, Kristin Hussey, Ryan McNeill",
         "date": "2017-03-02",
         "time_start": "14:15",
         "time_end": "15:15",
@@ -691,7 +717,7 @@
     {
         "title": "Meet the Computational Journalism Workbench",
         "type": "Special Event",
-        "description": "",
+        "description": "The Computational Journalism Workbench combines scraping, analysis, and visualization in one easy tool. It works by assembling simple modules into a \u201cworkflow,\u201d a repeatable, sharable, automatically updating pipeline that produces a publishable chart or a live API endpoint. Use off the shelf modules to monitor data sources for changes, scrape sites, clean data, or even crowdsource a data processing task. No programming experience is necessary, but each module is just Python under the hood, making it infinitely extensible. Think of it as If This Then That for data journalism, with the power of Jupyter notebook and Chartbuilder built in.",
         "speakers": "Jonathan Stray",
         "date": "2017-03-02",
         "time_start": "14:15",
@@ -715,19 +741,6 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3022/"
     },
     {
-        "title": "Security tools for journalists (hands-on)",
-        "type": "Hands-on",
-        "description": "",
-        "speakers": "Olivia Martin",
-        "date": "2017-03-02",
-        "time_start": "14:15",
-        "time_end": "15:15",
-        "length_in_hours": 1.0,
-        "room": "City Terrace 8",
-        "event_id": "2702/2952",
-        "event_url": "https://ire.org/events-and-training/event/2702/2952/"
-    },
-    {
         "title": "Big data in small organizations: How we created data-driven projects and stories at a startup",
         "type": "Panel",
         "description": "Whether you're a team of one, a small startup or battling despots abroad, we'll tell you how to pull off data-focused stories and projects with few dedicated resources. Our panel features journalists working with and within small teams in the U.S. and abroad who manage to produce stories and investigations with impact using data. We\u2019ll share tips and tools to make you more efficient and project examples to show you what\u2019s possible for a data journalist in a small shop. We\u2019ll also talk about how to avoid mistakes, find mentors and get buy-in from others.",
@@ -739,19 +752,6 @@
         "room": "River Terrace 1",
         "event_id": "2702/2900",
         "event_url": "https://ire.org/events-and-training/event/2702/2900/"
-    },
-    {
-        "title": "Bulletproofing your stories",
-        "type": "Panel",
-        "description": "",
-        "speakers": "Jennifer Forsyth, Joel Engelhardt",
-        "date": "2017-03-02",
-        "time_start": "15:30",
-        "time_end": "16:30",
-        "length_in_hours": 1.0,
-        "room": "Conference Center B",
-        "event_id": "2702/3111",
-        "event_url": "https://ire.org/events-and-training/event/2702/3111/"
     },
     {
         "title": "Design track: Intro to D3 (Sponsored by Society for News Design)",
@@ -778,6 +778,19 @@
         "room": "City Terrace 8",
         "event_id": "2702/3063",
         "event_url": "https://ire.org/events-and-training/event/2702/3063/"
+    },
+    {
+        "title": "How to bulletproof your data story",
+        "type": "Panel",
+        "description": "We walk through all the steps you need to take to make sure the data you've been slaving over for months cannot be dismissed by naysayers. We give managers the questions they should ask to help reporters think through their approach to data. And we sound warning bells for some of the most dangerous mistakes and assumptions that come up in using data in the newsroom.",
+        "speakers": "Jennifer Forsyth, Joel Engelhardt",
+        "date": "2017-03-02",
+        "time_start": "15:30",
+        "time_end": "16:30",
+        "length_in_hours": 1.0,
+        "room": "Conference Center B",
+        "event_id": "2702/3111",
+        "event_url": "https://ire.org/events-and-training/event/2702/3111/"
     },
     {
         "title": "Intro to Python 2",
@@ -910,19 +923,6 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3073/"
     },
     {
-        "title": "Data for radio: Turning data into characters in your story",
-        "type": "Panel",
-        "description": "A lot of reporters are afraid of losing people\u2019s interest by using too many numbers in stories. But data can be just as engaging as any human character, if you know how to use it as a storyteller. Our panel will show you how to turn data into compelling characters that help drive the story, create tension and make people care. We will show you how even the most complicated data can be explored in ways that engage and surprise people. We\u2019ll guide you through how APM Reports used data as a character in an investigative podcast, In the Dark. And we'll look at the dos and don'ts of data sonification to put data front and center. And we\u2019ll show you how to incorporate the same techniques into other stories -- both for broadcast and print/online.",
-        "speakers": "Madeleine Baran, Michael Corey, William Craft",
-        "date": "2017-03-02",
-        "time_start": "16:45",
-        "time_end": "17:45",
-        "length_in_hours": 1.0,
-        "room": "River Terrace 3",
-        "event_id": "2702/3145",
-        "event_url": "https://ire.org/events-and-training/event/2702/3145/"
-    },
-    {
         "title": "Design track: Intermediate D3 (Sponsored by Society for News Design)",
         "type": "Hands-on",
         "description": "We\u2019ll tackle some of the more complicated chart forms in D3, cover advanced data manipulation functions, and include tons of real-world examples of how you can turn your own data into D3 charts.",
@@ -1040,6 +1040,19 @@
         "event_url": "https://ire.org/events-and-training/event/2702/2995/"
     },
     {
+        "title": "Mentoring Breakfast (Co-sponsored by Donald W. Reynolds Journalism Institute and Google) *invitation-only",
+        "type": "Special Event",
+        "description": "",
+        "speakers": "TBA",
+        "date": "2017-03-03",
+        "time_start": "07:45",
+        "time_end": "20:45",
+        "length_in_hours": 13.0,
+        "room": "River Terrace 2",
+        "event_id": "2702/3146",
+        "event_url": "https://ire.org/events-and-training/event/2702/3146/"
+    },
+    {
         "title": "Conference registration (Friday)",
         "type": "Special Event",
         "description": "Registration will be located on the 3rd floor Skybridge of the Hyatt Regency Jacksonville Riverfront.",
@@ -1055,7 +1068,7 @@
     {
         "title": "Conference sales (Friday)",
         "type": "Special Event",
-        "description": "",
+        "description": "Stop by the NICAR Conference sales table and browse our merchandise, including the IRE bookstore's most popular titles and shirts with the winning design from the NICAR T-shirt contest.",
         "speakers": "TBA",
         "date": "2017-03-03",
         "time_start": "08:00",
@@ -1066,10 +1079,10 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3005/"
     },
     {
-        "title": "Conversations 5 (Sponsored by SRCCON - Knight Mozilla OpenNews)",
+        "title": "Conversations: How to be the caring human being behind the job posting (Sponsored by SRCCON - OpenNews)",
         "type": "Special Event",
-        "description": "",
-        "speakers": "TBA",
+        "description": "Hiring is hard and time consuming. I believe that people want to have an intentional and caring hiring process, but it's easy for things to fall through the cracks. We'll talk about tangible solutions to make this process better.",
+        "speakers": "Rachel Schallom",
         "date": "2017-03-03",
         "time_start": "09:00",
         "time_end": "10:00",
@@ -1172,7 +1185,7 @@
     {
         "title": "Visualization and analysis in Python",
         "type": "Hands-on",
-        "description": "",
+        "description": "So you're familiar with Python and some of its core concepts. How do you use that to crunch large amounts of data and records into stories and data visualizations quickly and easily? In this hands-on course, we'll show you our tips and tricks in using our favorite Python tools to do just that. You\u2019ll walk out knowing how to go from analysis to publishable graphics in just a few minutes. The tools we'll be using: Seaborn (statistical data viz library), matplotlib (plotting library), pandas (data analysis tool), and Jupyter notebooks.",
         "speakers": "Nathaniel Lash, Adam Playford",
         "date": "2017-03-03",
         "time_start": "09:00",
@@ -1274,10 +1287,10 @@
         "event_url": "https://ire.org/events-and-training/event/2702/2909/"
     },
     {
-        "title": "Conversations 6 (Sponsored by SRCCON - Knight Mozilla OpenNews)",
+        "title": "Conversations: Open source in the newsroom (Sponsored by SRCCON - OpenNews)",
         "type": "Special Event",
-        "description": "",
-        "speakers": "TBA",
+        "description": "At OpenNews, we're working on a community-written guidebook to tackle a mutual challenge: how to produce open source projects. We've seen a common set of cultural and technical questions coming up before, during, and after projects--but our community doesn't have a common pool of answers. More open source software means more time for meaningful journalism, less time spent recreating code. In this conversation, we'll talk about this new guidebook, share expertise with each other around open source in the newsroom, and ask how this resource could be helpful to you and your colleagues.",
+        "speakers": "Lindsay Muscato, Erin Kissane, Ryan Pitts",
         "date": "2017-03-03",
         "time_start": "10:15",
         "time_end": "11:15",
@@ -1365,10 +1378,10 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3014/"
     },
     {
-        "title": "Conversations 7 (Sponsored by SRCCON - Knight Mozilla OpenNews)",
+        "title": "Conversations: Beyond objectivity - New standards for building trust in journalism (Sponsored by SRCCON - OpenNews)",
         "type": "Special Event",
-        "description": "",
-        "speakers": "TBA",
+        "description": "Ida B. Wells reported on lynchings through simple, clear questions and a systematic collection and analysis of data. However, Wells could not report on racist violence from a detached vantage point. She had friends who were murdered and was herself exiled from her home in Memphis after her newspaper's office was ransacked and her life was threatened. Many buying homes or choosing schools for their children, including reporters and editors, are implicated in systems intertwined with race, class and politics. However, few acknowledge that they aren't detached from these systems. Last year, Nikole Hannah-Jones used her background reporting about race, segregation and education to show how [her own experience choosing a school for her daughter](https://www.nytimes.com/2016/06/12/magazine/choosing-a-school-for-my-daughter-in-a-segregated-city.html?_r=0) exemplified broader issues in American education. Lewis Wallace, a reporter for Marketplace, reported being fired after publishing an [essay](https://medium.com/@lewispants/objectivity-is-dead-and-im-okay-with-it-7fd2b4b5c58f#.yzkh8bigt) questioning the reality of standards of objectivity and neutrality in news and surfacing the struggles he faces as a trans person who is specifically affected by policy.\n\nLet's start by accepting that objectivity and neutrality aren't real and that there is a crisis of audience trust in reporting. Let's also aknowledge that reporters and editors are consciously or unconciously implicated in many of the dynamics on which they cover, yet still do rigorous work. Finally, let's agree that not everyone in a newsroom is impacted by newsworthy events in the same way.\n\nFrom this starting point, let's talk about different standards that journalists are developing, either in their own practice, or at their organizations to address our personal implications in the news. How can or should reporters disclose their connections or orientations? What are the implications, if any, if reporters participate in protests or donate to causes? How have reporters taken political actions but remained fair and truthful in the reporting? What were the times when this wasn't possible? From this conversation, I hope we can develop sets of standards, personal and organizational that prioritize both our humanity and the integrity of our journalism.",
+        "speakers": "Geoff Hing",
         "date": "2017-03-03",
         "time_start": "11:30",
         "time_end": "12:30",
@@ -1508,10 +1521,10 @@
         "event_url": "https://ire.org/events-and-training/event/2702/2997/"
     },
     {
-        "title": "Conversations 8 (Sponsored by SRCCON - Knight Mozilla OpenNews)",
+        "title": "Conversations: If newsrooms had Hogwarts personalities (Sponsored by SRCCON - OpenNews)",
         "type": "Special Event",
-        "description": "",
-        "speakers": "TBA",
+        "description": "In \"Harry Potter,\" students at Hogwarts School of Witchcraft and Wizardry are sorted into four houses: Gryffindor (the brave), Ravenclaw (the clever), Hufflepuff (the loyal), and Slytherin (the ambitious). This can be a useful framework for understanding personality clashes (and synergies) in the workplace. As House representatives, we* will take a Hogwartsian perspective on common newsroom issues. We will encourage participants to discover and discuss their own Hogwarts identities by taking the online quiz.\n\n*\"we\" are Gerald Rich (Axios, Gryffindor) - also identifies as Ravenclaw. sore loser in a Harry Potter costume competition (http://www.pinoyexchange.com/forums/printthread.php?t=478749&pp=20&page=170)\n\nChristine Zhang (OpenNews/freelance, Ravenclaw) - gave a lightning talk at MozFest 2016 on \"what Harry Potter taught me about journalism\" (https://twitter.com/christinezhang/status/792421131647082496)\n\nJeremy Bowers (NYT, Hufflepuff) - gave a lightning talk at SRCCON 2016 on \"Why you should hire Hufflepuffs\" (https://datanews.github.io/blitzen/)\n\nCasey Miller (Vox, Slytherin) - surveyed her co-workers about which Hogwarts House they thought each other belonged to -- and compared expectations with reality (https://storytelling.voxmedia.com/2016/9/23/13037226/how-our-remote-team-makes-time-to-bond)",
+        "speakers": "Christine Zhang, Gerald Rich, Jeremy Bowers, Casey Miller",
         "date": "2017-03-03",
         "time_start": "12:45",
         "time_end": "13:45",
@@ -1562,7 +1575,7 @@
     {
         "title": "Data to localize housing and economy stories",
         "type": "Panel",
-        "description": "",
+        "description": "Keith will discuss finding, graphing, mapping, and sharing economic data from the St. Louis Fed\u2019s free website FRED. \u00a0Attendees will leave the session able to find economic data by U.S. region such as state, metropolitan area, or county; create multi-series graphs and maps to compare indicators by geography; and download data. \u00a0Keith will also cover embedding graphs and maps in stories, saving frequently used graphs, and creating dashboards. \u00a0Dashboards are custom webpages created by the user that contain automatically updating data as graphs, tables, and data points.",
         "speakers": "Skylar Olsen, Keith Taylor",
         "date": "2017-03-03",
         "time_start": "14:15",
@@ -1588,7 +1601,7 @@
     {
         "title": "Exploring environmental data",
         "type": "Panel",
-        "description": "",
+        "description": "We'll look at primary data related to marine science--with a focus on coral reef research. We'll look at how scientists collect data from the ocean, and what it looks like once collected. The point of the session is to \"know your data,\" and in this case the data is all about the ocean. In addition, I'll be showing some data on fresh water that I received from Mark Nichols, who couldn't attend. We'll provide some samples to participants.\n\nDavid will be showing data related to toxins in the environment. Dinah will talk about her work as an environmental journalist. You'll receive more details from them.\n\nAll three of us will provide links to useful sites for locating environmental data.",
         "speakers": "David Heath, Dianne Finch, Dinah Pulver",
         "date": "2017-03-03",
         "time_start": "14:15",
@@ -1640,7 +1653,7 @@
     {
         "title": "Unsung data",
         "type": "Panel",
-        "description": "",
+        "description": "What makes a dataset sing? And what great datasets are underappreciated? Join us for a (totally subjective) romp through some of our favorites. We\u2019ll look at data that have been used for award-winning, customized, sophisticated, localized, timely information \u2014 many with no programming, no software and no downloading needed. \u00a0A quick step-by-step guide to using them.",
         "speakers": "Dan Keating, Jeremy Singer-Vine",
         "date": "2017-03-03",
         "time_start": "14:15",
@@ -1692,7 +1705,7 @@
     {
         "title": "Collaborating with the competition",
         "type": "Panel",
-        "description": "**Moderated by\u00a0Ben Wieder, The Center for Public Integrity",
+        "description": "Working with a rival news organization might seem like one of the great journalism no-nos, but successful collaborations can be a way for newsrooms around the country -- and the globe -- to combine their individual strengths and produce higher impact work than each organization could achieve on its own. Learn strategies and tools that will make it easier to play nice with the competition, produce awesome, data-driven investigations and take over the world.\n\n**Moderated by\u00a0Ben Wieder, The Center for Public Integrity",
         "speakers": "Crina Boros, Sandhya Kambhampati, Jeff Kelly Lowenstein, Ben Wieder",
         "date": "2017-03-03",
         "time_start": "15:30",
@@ -1705,7 +1718,7 @@
     {
         "title": "Data & abuse of power",
         "type": "Panel",
-        "description": "",
+        "description": "We need data on public institutions so that we can keep them accountable. But when that data is collected and shared by the institution itself, they are in a powerful position to control the narrative. What can we as data practitioners do to help identify potentially biased narratives that could exist in this type of data? Because blindly trusting a biased dataset is just as harmful as blindly trusting a biased source. We would like to talk a little about a vetting process, and about a few important types of biases in data that you should have in mind. This list is by no means complete and is still a work in progress, but it includes some of the more major types of bias that we\u2019ve noticed in data, and what we think you can do about them.",
         "speakers": "Anna Flagg, Moiz Syed",
         "date": "2017-03-03",
         "time_start": "15:30",
@@ -1874,7 +1887,7 @@
     {
         "title": "Conference sales (Saturday)",
         "type": "Special Event",
-        "description": "",
+        "description": "Stop by the NICAR Conference sales table and browse our merchandise, including the IRE bookstore's most popular titles and shirts with the winning design from the NICAR T-shirt contest.",
         "speakers": "TBA",
         "date": "2017-03-04",
         "time_start": "08:30",
@@ -1911,10 +1924,10 @@
         "event_url": "https://ire.org/events-and-training/event/2702/2916/"
     },
     {
-        "title": "Conversations 9 (Sponsored by SRCCON - Knight Mozilla OpenNews)",
+        "title": "Conversations: Let's chat journalism and technology fellowships! Bring your questions and ideas (Sponsored by SRCCON - OpenNews)",
         "type": "Special Event",
-        "description": "",
-        "speakers": "TBA",
+        "description": "If you've ever thought about applying for a journalism-tech fellowship, join us to chat about the application process. Learn about applying to the Knight-Mozilla Fellowship or the BuzzFeed Open Lab, or just talk through what makes a fellowship application strong.",
+        "speakers": "Amanda Hickman, Erika Owens",
         "date": "2017-03-04",
         "time_start": "09:00",
         "time_end": "10:00",
@@ -1926,7 +1939,7 @@
     {
         "title": "Drawing for a better brain",
         "type": "Demo",
-        "description": "",
+        "description": "Can learning to draw improve your writing and reporting skills? \u00a0Can you, a reporter good with words who can only draw a stick figure, learn to draw? \u00a0Yes you can! \u00a0To prove it, come take this hour-long drawing lesson from a Time Magazine reporter/writer turned professional artist and art teacher. \u00a0You'll walk away with a finished drawing, and a newfound understanding of how exercising the right side of your brain will help you in your professional life. \u00a0All materials provided, no drawing experience necessary.",
         "speakers": "Leah Kohlenberg",
         "date": "2017-03-04",
         "time_start": "09:00",
@@ -2069,7 +2082,7 @@
     {
         "title": "A roundup of international CAR",
         "type": "Panel",
-        "description": "**Moderated by Helena Bengtsson, The Guardian",
+        "description": "How is data journalism done in Norway - in Costa Rica - or in Cameroon? What are the trends and stories done outside of the US? See what journalists around the world are doing - and maybe you can steal a story idea or two to take home.\n\n**Moderated by Helena Bengtsson, The Guardian",
         "speakers": "Marianne Bouchart, Rigoberto Carvajal, Helena Bengtsson",
         "date": "2017-03-04",
         "time_start": "10:15",
@@ -2106,10 +2119,10 @@
         "event_url": "https://ire.org/events-and-training/event/2702/2918/"
     },
     {
-        "title": "Conversations 10 (Sponsored by SRCCON - Knight Mozilla OpenNews)",
+        "title": "Conversations: Feeling defeated? You're not the only one (Sponsored by SRCCON - OpenNews)",
         "type": "Special Event",
-        "description": "",
-        "speakers": "TBA",
+        "description": "Regardless of your views on the new administration, the campaign and election made it easy to feel like the work we do isn't important or impactful. I don't have answers, but maybe others do, and some constructive emoting might provide some catharsis either way.",
+        "speakers": "Alan Palazzolo",
         "date": "2017-03-04",
         "time_start": "10:15",
         "time_end": "11:15",
@@ -2187,7 +2200,7 @@
         "title": "Stats: Linear regression",
         "type": "Hands-on",
         "description": "Go beyond counting and sorting. Learn how (and when) to measure relationships, level playing fields and make predictions.",
-        "speakers": "John Perry",
+        "speakers": "Jeff Kelly Lowenstein",
         "date": "2017-03-04",
         "time_start": "10:15",
         "time_end": "11:15",
@@ -2225,7 +2238,7 @@
     {
         "title": "Command line tools for reporters (PC)",
         "type": "Hands-on",
-        "description": "",
+        "description": "Repetitive tasks are the worst. I think we can all agree. If you\u2019re tired of monotonous copying and pasting, if large files are harshing your mellow, or even if you just want to know more about that screen from War Games, then this class is for you. We\u2019ll walk through some basics of the command line that can make your life easier and free up time for more important things. We\u2019ll explore the powerful and versatile csvkit, fix messed up pdfs with some simple commands and get a taste of automating file downloads. No coding experience required but familiarity with SQL is a plus. Class is for PC users, but we\u2019ll talk about Linux and Unix as well.",
         "speakers": "Chad Day",
         "date": "2017-03-04",
         "time_start": "11:30",
@@ -2236,10 +2249,10 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3121/"
     },
     {
-        "title": "Conversations 11 (Sponsored by SRCCON - Knight Mozilla OpenNews)",
+        "title": "Conversations: How do I exist and work in a newsroom as a POC? (Sponsored by SRCCON - OpenNews)",
         "type": "Special Event",
-        "description": "",
-        "speakers": "TBA",
+        "description": "I'm interested if any journalists have brought up these issues in their own newsroom with their co-workers and/or management. It doesn't have to be along the lines of race, but also sexuality, immigration, gender, religion etc. The title refers to the question that I often asked myself after the election and subsequent current events.\n\nIf it has been brought up in other newsrooms, did the discussion include newsroom ethic handbooks, defining conflicts of interest, and dealing with having a perceived advocacy/agenda as a news org while also fighting 'fake news.'",
+        "speakers": "Helga Salinas",
         "date": "2017-03-04",
         "time_start": "11:30",
         "time_end": "12:30",
@@ -2290,8 +2303,8 @@
     {
         "title": "Investigating bias and influence in criminal justice: Police and prosecutors",
         "type": "Panel",
-        "description": "**Moderated by Cheryl W. Thompson, The Washington Post",
-        "speakers": "Cheryl W. Thompson, Sharad Goel, Josh Hinkle, Andrew Lehren",
+        "description": "From wrongfully recording racial profiling data in traffic ticketing to disparities in adult diversion programs run by prosecutors, this session will examine how to mine criminal justice data, what to do when there seems to be no data and reporting it all out.\n\n**Moderated by Cheryl W. Thompson, The Washington Post",
+        "speakers": "Sharad Goel, Josh Hinkle, Andrew Lehren, Cheryl W. Thompson",
         "date": "2017-03-04",
         "time_start": "11:30",
         "time_end": "12:30",
@@ -2329,7 +2342,7 @@
     {
         "title": "Security tools for journalists - hands on (repeat session)",
         "type": "Hands-on",
-        "description": "",
+        "description": "You're traveling abroad to cover a story: What steps can you take to secure your data, your devices, and your sources before heading to the airport? What are the pros and cons of bringing a burner into the field? How should you send notes to your editor before returning home? This hands-on workshop is designed to address the digital security needs of journalists as they travel overseas. Participants can expect to demo a number of software solutions and security practices \u2014 with particular focus paid to mobile and desktop security and file encryption.",
         "speakers": "Mike Tigas",
         "date": "2017-03-04",
         "time_start": "11:30",
@@ -2355,7 +2368,7 @@
     {
         "title": "Visualization and analysis in Python (repeat session)",
         "type": "Hands-on",
-        "description": "",
+        "description": "So you're familiar with Python and some of its core concepts. How do you use that to crunch large amounts of data and records into stories and data visualizations quickly and easily? In this hands-on course, we'll show you our tips and tricks in using our favorite Python tools to do just that. You\u2019ll walk out knowing how to go from analysis to publishable graphics in just a few minutes. The tools we'll be using: Seaborn (statistical data viz library), matplotlib (plotting library), pandas (data analysis tool), and Jupyter notebooks.",
         "speakers": "Chase Davis",
         "date": "2017-03-04",
         "time_start": "11:30",
@@ -2379,7 +2392,7 @@
         "event_url": "https://ire.org/events-and-training/event/2702/2998/"
     },
     {
-        "title": "Conversations 12 (Sponsored by SRCCON - Knight Mozilla OpenNews)",
+        "title": "Conversations: Open Slot! Signup at the Conversations room (Sponsored by SRCCON - OpenNews)",
         "type": "Special Event",
         "description": "",
         "speakers": "TBA",
@@ -2390,6 +2403,19 @@
         "room": "City Terrace 12",
         "event_id": "2702/2987",
         "event_url": "https://ire.org/events-and-training/event/2702/2987/"
+    },
+    {
+        "title": "Media lawyers brown bag",
+        "type": "Special Event",
+        "description": "",
+        "speakers": "Madeleine Baran, Michael Corey, William Craft",
+        "date": "2017-03-04",
+        "time_start": "12:45",
+        "time_end": "13:45",
+        "length_in_hours": 1.0,
+        "room": "River Terrace 3",
+        "event_id": "2702/3145",
+        "event_url": "https://ire.org/events-and-training/event/2702/3145/"
     },
     {
         "title": "30/60: Thirty of the best free data storytelling tools in sixty mins",
@@ -2446,7 +2472,7 @@
     {
         "title": "Getting started with Access without using SQL",
         "type": "Hands-on",
-        "description": "",
+        "description": "This session is designed to teach you how to use Access without Structure Query Language, also known as SQL. Learn how to download data onto Access and query the data using design view or the grid, instead of SQL. You\u2019ll learn how to select specific fields on the data, sort and filter.",
         "speakers": "Mc Nelly Torres",
         "date": "2017-03-04",
         "time_start": "14:15",
@@ -2511,7 +2537,7 @@
     {
         "title": "Working with academics",
         "type": "Panel",
-        "description": "",
+        "description": "Academics can help you make almost impossible projects possible. But how do you know when a project would be a good fit for academic collaboration? What's the challenges behind it? And how do you thread the needle between the demands of journalism and the restrictions of academia? Hear from three journalists with experience in these types of projects. Find out how to take your complicated idea and turn it into reality without tearing your hair out.",
         "speakers": "Matt Dempsey, Karisa King, Al Shaw",
         "date": "2017-03-04",
         "time_start": "14:15",
@@ -2563,7 +2589,7 @@
     {
         "title": "Earth, wind and fire: Covering disasters from a data perspective",
         "type": "Panel",
-        "description": "",
+        "description": "When disaster strikes, it can turn a newsroom into chaos. Tight deadlines, power loss and harried editors all complicate the already rough waters of navigating a newsroom as a data journalist. This panel will prepare you to weather the storm. \u00a0Panelists will discuss what you need, where to get it and how to rise above the inevitable firestorm that besets a newsroom when the Earth turns the news cycle upside-down. We'll also talk about new ways of presenting those stories through satellite imagery and weather data.",
         "speakers": "Eric Sagara, Stephen Stirling, Chris Vaillancourt",
         "date": "2017-03-04",
         "time_start": "15:30",
@@ -2694,7 +2720,7 @@
         "title": "Economic development incentives: Old issues, hot new data",
         "type": "Panel",
         "description": "States and cities spend tens of billions of dollars on \u201ccorporate welfare,\u201d or economic development tax breaks for all kinds of projects. Persistent shoe-leather reporting has long proven effective in exposing problems with many deals. Now a new accounting rule, Governmental Accounting Standards Board Statement No. 77 on Tax Abatement Disclosures, is about to generate first-ever spending data from more than 50,000 local and state bodies of government, a new investigative gold mine!",
-        "speakers": "Greg LeRoy, Janelle O'Dea",
+        "speakers": "Janelle O'Dea, Greg LeRoy",
         "date": "2017-03-04",
         "time_start": "16:45",
         "time_end": "17:45",
@@ -2785,7 +2811,7 @@
         "title": "Using data to cover immigration",
         "type": "Panel",
         "description": "",
-        "speakers": "Nassos Stylianou, Linnea Heppling",
+        "speakers": "Nassos Stylianou, Linnea Heppling, Andrew Becker",
         "date": "2017-03-04",
         "time_start": "16:45",
         "time_end": "17:45",
@@ -2836,7 +2862,7 @@
     {
         "title": "Lighter side of data journalism?",
         "type": "Panel",
-        "description": "",
+        "description": "Pokemon Go analysis, Halloween Candy Index, March Madness Nailbiter Bot\u2026there is room for playful data journalism in the newsroom. Join us as we walk through lighthearted projects - from data acquisition to presentation. Bring your ideas and we can workshop them as well.",
         "speakers": "Jenny Ye, Jeffrey Hargarten",
         "date": "2017-03-05",
         "time_start": "09:00",
@@ -2888,7 +2914,7 @@
     {
         "title": "Conference sales (Sunday)",
         "type": "Special Event",
-        "description": "",
+        "description": "Stop by the NICAR Conference sales table and browse our merchandise, including the IRE bookstore's most popular titles and shirts with the winning design from the NICAR T-shirt contest.",
         "speakers": "TBA",
         "date": "2017-03-05",
         "time_start": "09:00",
@@ -2940,8 +2966,8 @@
     {
         "title": "Career roundtable",
         "type": "Panel",
-        "description": "**Moderated by Megan Luther, IRE/NICAR",
-        "speakers": "Clark Fouraker, Jill Riepenhoff, Steven Rich, Megan Luther, Mc Nelly Torres",
+        "description": "Looking for advice on how to take the next step in your career? Get practical tips from panelists who will talk about their own experiences and discuss what employers are looking for.\n\n**Moderated by Megan Luther, IRE/NICAR",
+        "speakers": "Jill Riepenhoff, Steven Rich, Megan Luther, Clark Fouraker, Mc Nelly Torres",
         "date": "2017-03-05",
         "time_start": "10:15",
         "time_end": "11:15",
@@ -2979,7 +3005,7 @@
     {
         "title": "Programming best practices",
         "type": "Demo",
-        "description": "",
+        "description": "We've all created projects that grew bugs and corner cases like they were going out of style. I've certainly created many projects that turned into unruly messes of dependency hell, and hard to follow logic. But it doesn't have to be that way. In this class we'll cover hard earned lessons in structuring code, handling and processing data, and general organization best practices, that will help you find the best story from your data, while saving your sanity.",
         "speakers": "Jeff Larson",
         "date": "2017-03-05",
         "time_start": "10:15",
@@ -2993,7 +3019,7 @@
         "title": "Stats: Logistic regression (repeat session)",
         "type": "Hands-on",
         "description": "Linear regression helps you find relationships between two or more variables, but when an outcome has only two possibilities, you need a different tool. That, my friends, is where logistic regression comes in.\n\nThis session will be taught in PSPP and will be most useful if: You took 'Stats: An introduction', or are comfortable with summary statistics and PSPP or SPSS. Familiarity with spreadsheets and database managers is recommended.",
-        "speakers": "Jennifer LaFleur",
+        "speakers": "John Perry",
         "date": "2017-03-05",
         "time_start": "10:15",
         "time_end": "11:15",
@@ -3003,9 +3029,9 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3095/"
     },
     {
-        "title": "D3 charting tool",
+        "title": "D3: How to make reusable charts for different platforms",
         "type": "Hands-on",
-        "description": "",
+        "description": "We'll learn how to start coding D3 in a simple way, setting our code so that we can power charts ready to be used on mobile, desktop, social media and video. The session will focus also on how to set Excel files to include special features in a D3 chart, examples and useful GitHub libraries to use.\n\nThis class is good for: basic and intermediate learners of D3, HTML and CSS.",
         "speakers": "Daniele Palumbo",
         "date": "2017-03-05",
         "time_start": "11:30",
@@ -3014,19 +3040,6 @@
         "room": "City Terrace 5",
         "event_id": "2702/3140",
         "event_url": "https://ire.org/events-and-training/event/2702/3140/"
-    },
-    {
-        "title": "Flourish: Making reusable visualization templates",
-        "type": "Demo",
-        "description": "",
-        "speakers": "Duncan Clark,",
-        "date": "2017-03-05",
-        "time_start": "11:30",
-        "time_end": "12:30",
-        "length_in_hours": 1.0,
-        "room": "River Terrace 2",
-        "event_id": "2702/3093",
-        "event_url": "https://ire.org/events-and-training/event/2702/3093/"
     },
     {
         "title": "Getting data into Access",
@@ -3053,6 +3066,19 @@
         "room": "City Terrace 8",
         "event_id": "2702/2970",
         "event_url": "https://ire.org/events-and-training/event/2702/2970/"
+    },
+    {
+        "title": "Introducing Flourish: A powerful new platform for templating visuals and stories",
+        "type": "Demo",
+        "description": "Flourish is a new platform for data visualization and storytelling. It enables journalists to easily produce and publish high-end graphics, maps, explainers, steppers and other outputs from flexible templates. An ever-growing library of open-source templates is available, but developers can also make their own public or private templates using the Flourish SDK and standard technologies such as D3, SVG and WebGL. Flourish was created by multi-award-winning visualization studio Kiln; beta partners include the BBC, Guardian and FT. This event gives an overview of the platform and provides NICAR attendees with exclusive early access to the website and SDK.",
+        "speakers": "Duncan Clark,",
+        "date": "2017-03-05",
+        "time_start": "11:30",
+        "time_end": "12:30",
+        "length_in_hours": 1.0,
+        "room": "River Terrace 2",
+        "event_id": "2702/3093",
+        "event_url": "https://ire.org/events-and-training/event/2702/3093/"
     },
     {
         "title": "Outwit, outplay, outlast: How to pull off a student investigation",
