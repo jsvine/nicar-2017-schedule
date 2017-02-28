@@ -1365,6 +1365,19 @@
         "event_url": "https://ire.org/events-and-training/event/2702/2945/"
     },
     {
+        "title": "Show them your everything: Optimizing data journalism for trust (Hosted by Knight Foundation)",
+        "type": "Outside Event",
+        "description": "**Moderated by Aron Pilhofer, Temple University\n\nOne of the most powerful ways newsrooms can increase readers\u2019 trust in media is transparency -- show your work, in other words. This panel will explore ways newsrooms can be more open about how they did what they did, the methodology they used, the tools, the techniques and the raw data behind it.",
+        "speakers": "Aron Pilhofer, Ryan Murphy, Cecilia Reyes, Jenny Ye",
+        "date": "2017-03-03",
+        "time_start": "10:15",
+        "time_end": "11:15",
+        "length_in_hours": 1.0,
+        "room": "Hart, 4th Floor (4106)",
+        "event_id": "2702/3149",
+        "event_url": "https://ire.org/events-and-training/event/2702/3149/"
+    },
+    {
         "title": "The present and future of bots",
         "type": "Panel",
         "description": "Expectations are very high in 2017 for bots, artificial intelligence and their usefulness to journalism. \u00a0But the definitions and boundaries between types of bots are murky at best. \u00a0Few journalistic bots are alike (if you don't count their clones). \u00a0And each newsroom's needs for bots are often unique. \u00a0Our panel of bot-builders will lead you on a guided tour of bots past, present and future.\n\n**Moderated by Tiff Fehr, The New York Times",
@@ -1467,6 +1480,19 @@
         "room": "City Terrace 7",
         "event_id": "2702/2972",
         "event_url": "https://ire.org/events-and-training/event/2702/2972/"
+    },
+    {
+        "title": "Knight Foundation\u00a0office hours (Hosted by Knight Foundation)",
+        "type": "Outside Event",
+        "description": "",
+        "speakers": "TBA",
+        "date": "2017-03-03",
+        "time_start": "11:30",
+        "time_end": "12:30",
+        "length_in_hours": 1.0,
+        "room": "Hart, 4th Floor (4106)",
+        "event_id": "2702/3148",
+        "event_url": "https://ire.org/events-and-training/event/2702/3148/"
     },
     {
         "title": "Managing data projects & workflows",
