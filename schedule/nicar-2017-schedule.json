@@ -106,7 +106,7 @@
     {
         "title": "Algorithmic accountability",
         "type": "Panel",
-        "description": "**Moderated by Greg Linch, McClatchy",
+        "description": "Algorithms are increasingly used throughout the public and private sectors, making decisions that impact people\u2019s lives in myriad ways. Algorithmic accountability reporting is an emerging set of methods for investigating how algorithms exert influence and power in society. In this session we\u2019ll detail concrete investigations in this domain and discuss strategies, methods, and techniques for pursuing algorithmic accountability reporting.\n\n**Moderated by Greg Linch, McClatchy",
         "speakers": "Julia Angwin, Nick Diakopoulos, Sam Corbett-Davies, Greg Linch",
         "date": "2017-03-02",
         "time_start": "09:00",
@@ -182,9 +182,9 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3060/"
     },
     {
-        "title": "Security tools for journalists",
+        "title": "Security checklist for overseas reporting",
         "type": "Demo",
-        "description": "You're traveling abroad to cover a story: What steps can you take to secure your data, your devices, and your sources before heading to the airport? What are the pros and cons of bringing a burner into the field? How should you send notes to your editor before returning home? This demo is designed to address the digital security needs of journalists as they travel overseas. Participants can expect to learn a number of software solutions and security practices \u2014 with particular focus paid to mobile and desktop security and file encryption.",
+        "description": "With new threats posed daily to our ability to communicate with sources securely, maintain trust in our devices and research privately, it can feel impossible to know where to start with protecting your digital security. This demo, led by technologists and educators in the field, aims to teach journalists of any knowledge base how to identify their unique threat model and develop a security protocol \u2014 regarding secure communication, data storage, and browsing \u2014 accordingly. From addressing low-hanging fruit to mitigating sophisticated threats, the tools discussed in this session will introduce journalists to essential concepts in digital security and privacy.",
         "speakers": "Olivia Martin, Mike Tigas",
         "date": "2017-03-02",
         "time_start": "09:00",
@@ -197,7 +197,7 @@
     {
         "title": "What the hell is R? And all the other questions you\u2019re afraid to ask",
         "type": "Panel",
-        "description": "",
+        "description": "Ever wondered what people are talking about at this conference? What exactly is R and why you would want to use it? What is the difference between Ruby, Python and Javascript? And why is there a J in front of Query? How do you even pronounce PostgreSQL? Welcome to our no-judgment-starting-at-step-zero session even NICAR vets can use. We'll review tech concepts and jargon you'll likely hear at NICAR this year, explain what they mean, why they're useful and point you to the sessions that can teach you the terms you now understand.\n\nThis session is good for: Anyone who has felt lost in the sea of technical terminology.",
         "speakers": "Tisha Thompson, Sisi Wei",
         "date": "2017-03-02",
         "time_start": "09:00",
@@ -366,7 +366,7 @@
     {
         "title": "Packaging data stories for digital",
         "type": "Panel",
-        "description": "**Moderated by Sarah Hutchins, IRE/NICAR",
+        "description": "You found a data set. You reported out a story. You double-checked your math. Now it\u2019s time to get your findings online. If this sounds like your workflow, our session is for you. A team of news app designers and developers will deconstruct some of their favorite data-heavy projects and explain how it all came together. You\u2019ll leave with ideas for how to make digital presentation the star of the show \u2013 not an afterthought.\n\n**Moderated by Sarah Hutchins, IRE/NICAR",
         "speakers": "Ashlyn Still, Richard Watkins, Brittany Mayes, Sarah Hutchins",
         "date": "2017-03-02",
         "time_start": "10:15",
@@ -639,7 +639,7 @@
     {
         "title": "Covering K-12 while battling FERPA",
         "type": "Panel",
-        "description": "",
+        "description": "Digging out the real story in a K-12 world increasingly reliant on data to make decisions can be hard when the black hole of federal student-privacy law tries to entrap everything in its gravitational pull. We'll talk about approaches to pushing back and what has worked and what hasn't.",
         "speakers": "Nathaniel Lash, Jennifer Peebles, Jennifer Smith Richards",
         "date": "2017-03-02",
         "time_start": "14:15",
@@ -678,7 +678,7 @@
     {
         "title": "From drugs to doctors: Uncovering stories in health data",
         "type": "Panel",
-        "description": "**Moderated by Kristin Hussey, independent journalist",
+        "description": "In the bewildering world of healthcare data, there are no stupid questions. Join us to ask anything you\u2019ve wondered about three of this year\u2019s biggest healthcare investigations. Our speakers tackled thousands of doctor disciplinary records, tracked down and charted soaring drug prices and schooled the CDC on public health statistics. The stories they produced gave readers and viewers solid insights and actionable information. How\u2019d they do it, and how can you bring similar stories to your newsroom? Come hear for yourself.\n\n**Moderated by Kristin Hussey, independent journalist",
         "speakers": "Jeff Ernsthausen, Nicole Vap, Kristin Hussey, Ryan McNeill",
         "date": "2017-03-02",
         "time_start": "14:15",
@@ -860,7 +860,7 @@
     {
         "title": "Visualizing data with SandDance",
         "type": "Demo",
-        "description": "",
+        "description": "SandDance is a research project from the Visualization and Interaction Team (VIBE) in Microsoft Research spearheaded by Steven M. Drucker and Roland Fernandez. It experiments with a new genre of visualizations, where every data element is always represented on the screen. By using easy-to-understand views, a touch-based interface, and animated transitions between views, SandDance helps you find insights about your data, which in turn help you tell stories supported by data, build cases based on evidence, test hypotheses, dig deeper into surface explanations, support decisions for purchases, or relate data into a wider, real world context.",
         "speakers": "Callie Neylan, Marilyn Harris",
         "date": "2017-03-02",
         "time_start": "15:30",
@@ -873,7 +873,7 @@
     {
         "title": "Your newsroom has a drone. Now what?",
         "type": "Special Event",
-        "description": "",
+        "description": "Getting the drone is the easy part. Are you licensed? Insured? Does your newsroom have policies around use? What can you do with it beyond taking pictures? At the Drone Journalism Lab, we fought all these battles - and more - and can help you get your flying robot out of the box and in the air.",
         "speakers": "Matt Waite",
         "date": "2017-03-02",
         "time_start": "15:30",
@@ -1211,7 +1211,7 @@
     {
         "title": "When Excel is not enough, you SQL",
         "type": "Hands-on",
-        "description": "",
+        "description": "What do you do when Excel is too slow or restrictive for your data analysis but advanced coding is still a steep mountain to climb? This is when SQL, the lingua franca of database managers, will power up your data-driven reporting. These 3 hands-on introductory workshops will focus on SQL's main statements and learning how to join tables for a fuller analysis.",
         "speakers": "Crina Boros",
         "date": "2017-03-03",
         "time_start": "09:00",
@@ -1666,7 +1666,7 @@
     {
         "title": "Watch the web for news tips with Klaxon",
         "type": "Special Event",
-        "description": "",
+        "description": "Built in The Marshall Project's nonprofit, investigative newsroom, Klaxon is a free program that alerts journalists to newsworthy updates to sites on the web. At this session, you'll learn how to quickly and easily set up Klaxon in your newsroom and how to use it in your reporting.",
         "speakers": "Tom Meagher",
         "date": "2017-03-03",
         "time_start": "14:15",
@@ -1692,7 +1692,7 @@
     {
         "title": "Co-op models in data journalism",
         "type": "Special Event",
-        "description": "",
+        "description": "Individual newsrooms duplicate a lot of work in the mundane collection and preparation of data. If we can cooperate, we can save money and take on more ambitious projects. But, cooperation with competitors is hard. In this conversation we will share experiences of folks who have attempted to build cooperative data efforts amongst organizations -- what has worked and what hasn't.",
         "speakers": "Forest Gregg",
         "date": "2017-03-03",
         "time_start": "15:30",
@@ -2005,7 +2005,7 @@
         "title": "Simple ways to create immersive news stories",
         "type": "Panel",
         "description": "",
-        "speakers": "TBA",
+        "speakers": "Joe Fox, Shaheryar Popalzai, Stuart Thompson",
         "date": "2017-03-04",
         "time_start": "09:00",
         "time_end": "10:00",
@@ -2577,7 +2577,7 @@
         "title": "Counting & summing with Access without using SQL",
         "type": "Hands-on",
         "description": "You know how to use Excel, but what do you do when you have a huge database with dozens of columns full of data? Access lets you isolate those different columns and efficiently sort through the stuff you don\u2019t need, letting you quickly analyze national databases to figure out which convenience store sold the most winning Powerball tickets, which county has the highest number of infant deaths within a certain time frame, or which state has the most historical wooden bridges more than 100 years old that, say, go over railroad tracks.\n\nThis class is for anyone trying to find the golden nugget hiding in the data. No programming language or SQL experience necessary, but a healthy understanding of Excel is helpful.",
-        "speakers": "Tisha Thompson",
+        "speakers": "Helena Bengtsson",
         "date": "2017-03-04",
         "time_start": "15:30",
         "time_end": "16:30",
@@ -2628,7 +2628,7 @@
     {
         "title": "Localize that investigation: Using AP data to do your own stories",
         "type": "Special Event",
-        "description": "",
+        "description": "Do you like the idea of having someone else do the grunt work on data analysis projects for you? Wish there was a way of knowing when AP is planning a national data-driven story so you could have a related local story ready to go? Then come to this NICAR Commons session and learn more about AP\u2019s data distribution efforts. We want to hear how we can make our data work for you. \u00a0If your organization is an AP member, you\u2019ll also have a chance to sign up for our pilot project sharing data via data.world. A data.world representative will give a walk-through of their data-sharing platform.",
         "speakers": "Troy Thibodeaux, Meghan Hoyer, Ian Greenleigh",
         "date": "2017-03-04",
         "time_start": "15:30",
@@ -2704,7 +2704,7 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3087/"
     },
     {
-        "title": "Animated videos",
+        "title": "Animated video for storytelling",
         "type": "Hands-on",
         "description": "Short animated videos are a great way to \u00a0tell complex stories in an easily shareable form that works on most devices and social media platforms. In this session, learn to create and publish your own animated video from scratch with Adobe After Effects.\n\nThis session is good for beginners who are new to making videos as well as for people with some experience in video production looking to add animation to your skill set. This workshop also introduces the basics of Adobe Expressions, a javascript like language, to control animation.",
         "speakers": "Kavya Sukumar",
@@ -2732,7 +2732,7 @@
     {
         "title": "Ethical dilemmas in data",
         "type": "Special Event",
-        "description": "",
+        "description": "Approaching our work in an ethical and transparent manner is more important than ever before. We\u2019ll point out some of the potential pitfalls that particularly apply to data journalism, and show you ways to avoid them.",
         "speakers": "MaryJo Webster, Tom McGinty",
         "date": "2017-03-04",
         "time_start": "16:45",
@@ -2940,7 +2940,7 @@
     {
         "title": "OpenElections hackathon",
         "type": "Special Event",
-        "description": "",
+        "description": "We\u2019re working on turning election results into data, and you can join us. Whether you have scraping skills, can parse PDFs or help find the official sources of election results in a state, you can help OpenElections make more election results data available to journalists and researchers. We\u2019ll have prizes for contributors, too!",
         "speakers": "Derek Willis, Serdar Tumgoren",
         "date": "2017-03-05",
         "time_start": "09:00",
