@@ -6,7 +6,7 @@ This repository contains the [NICAR 2017 conference schedule](https://ire.org/ev
 
 ## Get the data
 
-*Last updated March 1, 2017 @ 10am Eastern*
+*Last updated March 1, 2017 @ 11pm Eastern*
 
 - [JSON schedule](schedule/nicar-2017-schedule.json?raw=true)
 - [CSV schedule](schedule/nicar-2017-schedule.csv?raw=true)

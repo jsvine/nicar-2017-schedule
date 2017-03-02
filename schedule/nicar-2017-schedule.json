@@ -289,7 +289,7 @@
         "title": "Basic stats in R (advanced)",
         "type": "Hands-on",
         "description": "Learn how to analyze data through methods grounded in statistical theory. Those familiar with R will be introduced to significance tests, risk ratios, various distributions and more.",
-        "speakers": "Olga Pierce",
+        "speakers": "Jeff Larson",
         "date": "2017-03-02",
         "time_start": "10:15",
         "time_end": "11:15",
@@ -353,8 +353,8 @@
     {
         "title": "Investigating hacking and data breaches",
         "type": "Panel",
-        "description": "**Moderated by Chase Davis, The New York Times",
-        "speakers": "Julia Angwin, Chase Davis, Sri Sridharan",
+        "description": "**Moderated by Megan Luther, IRE/NICAR",
+        "speakers": "Julia Angwin, Sri Sridharan, Megan Luther",
         "date": "2017-03-02",
         "time_start": "10:15",
         "time_end": "11:15",
@@ -432,7 +432,7 @@
         "title": "Advanced stats in R: Linear and logistic regression (advanced)",
         "type": "Hands-on",
         "description": "Continue learning statistical analysis methods in R with lessons in linear regression and logistic regression analyses.",
-        "speakers": "Olga Pierce",
+        "speakers": "Jeff Larson",
         "date": "2017-03-02",
         "time_start": "11:30",
         "time_end": "12:30",
@@ -613,7 +613,7 @@
     {
         "title": "Battling burnout in a tweet-breaking world",
         "type": "Panel",
-        "description": "**Moderated by Andy Boyle, Axios",
+        "description": "Everyone who's worked in the need-it-yesterday deadlines of the news world knows it can sometimes get stressful. And for some, it can reach a breaking point, affecting not only your work, but also your mental and physical health. Panelists will share stories about how they got burned out, how they dealt with it, and some healthy coping mechanisms to keep you running well in body and spirit.\n\n**Moderated by Andy Boyle, Axios",
         "speakers": "Darla Cameron, Nikole Hannah-Jones, Andy Boyle, Cynthia Persico",
         "date": "2017-03-02",
         "time_start": "14:15",
@@ -744,7 +744,7 @@
         "title": "Big data in small organizations: How we created data-driven projects and stories at a startup",
         "type": "Panel",
         "description": "Whether you're a team of one, a small startup or battling despots abroad, we'll tell you how to pull off data-focused stories and projects with few dedicated resources. Our panel features journalists working with and within small teams in the U.S. and abroad who manage to produce stories and investigations with impact using data. We\u2019ll share tips and tools to make you more efficient and project examples to show you what\u2019s possible for a data journalist in a small shop. We\u2019ll also talk about how to avoid mistakes, find mentors and get buy-in from others.",
-        "speakers": "Eva Constantaras, Brent Jones, Matt Levin",
+        "speakers": "Eva Constantaras, Brent Jones,",
         "date": "2017-03-02",
         "time_start": "15:30",
         "time_end": "16:30",
@@ -821,7 +821,7 @@
     {
         "title": "The agile data analyst: Applying practices from agile software methodologies to data reporting",
         "type": "Panel",
-        "description": "**Moderated by Troy Thibodeaux, The Associated Press",
+        "description": "Software developers have spent a great deal of time and effort honing workflows that make their work easier, especially when they work in teams. Many of these best practices have been codified in the principles of Agile software development. Data reporters generally lack a shared set of conventions and practices, and that lack can make it tricky to share work and collaborate. This session will bring together news apps developers and reporters specializing in data-driven journalism to discuss what an agile workflow would look like on the reporting side. From iteration planning to time boxing to the DRY principle, we'll wring some sense from the buzz words and see which ones might make the work of data analysis more productive, more predictable and more fun.\n\n**Moderated by Troy Thibodeaux, The Associated Press",
         "speakers": "Christopher Groskopf, Rachel Shorey, Troy Thibodeaux, Tyler Fisher",
         "date": "2017-03-02",
         "time_start": "15:30",
@@ -834,7 +834,7 @@
     {
         "title": "The first 100 days in data",
         "type": "Panel",
-        "description": "**Moderated by Liz Lucas, Kaiser Health News",
+        "description": "The advent of a new administration always provides journalists with 100 new angles and reporting opportunities for keeping government officials accountable. In an administration that seems determined to make journalists the enemy, there are additional challenges. We'll look at some examples of stories in the first 100 days that use creative, often overlooked sources of information, and we'll talk about the movement to download data from government websites that may disappear (and where you can get your hands on some of that data). We'll also offer some tips and strategies for what to do when the data isn't there.\n\n**Moderated by Liz Lucas, Kaiser Health News",
         "speakers": "Michael Corey, Meghan Hoyer, Margaret Janz, Liz Lucas",
         "date": "2017-03-02",
         "time_start": "15:30",
@@ -977,7 +977,7 @@
     {
         "title": "Investigating racial inequity (Sponsored by Ida B. Wells Society)",
         "type": "Panel",
-        "description": "",
+        "description": "Learn useful datasets, documents, and reporting tips for covering racial disparities and discrimination in housing, education, and law enforcement, among other things.",
         "speakers": "Ron Nixon, Nikole Hannah-Jones",
         "date": "2017-03-02",
         "time_start": "16:45",
@@ -1016,7 +1016,7 @@
     {
         "title": "PivotTables in Excel",
         "type": "Hands-on",
-        "description": "",
+        "description": "A look at the awesome power of pivot - and how to use it to analyze your dataset in minutes rather than hours.\n\nThis session will be most helpful if: You are familiar with formulas in Excel or another spreadsheet program.",
         "speakers": "Kimbriell Kelly",
         "date": "2017-03-02",
         "time_start": "16:45",
@@ -1172,7 +1172,7 @@
     {
         "title": "Uncovering the influence",
         "type": "Panel",
-        "description": "",
+        "description": "The 2016 election may be over, but what happens after the elected take office? That\u2019s when following the money can really pay off. What legislation will help big contributors? What are the lobbyists behind big money working \u2013 and spending \u2013 on? From the statehouse to Congress, now is the time to examine the relationships between campaign donors and what lawmakers do.",
         "speakers": "Sandra Fish, Ben Wieder, Derek Willis",
         "date": "2017-03-03",
         "time_start": "09:00",
@@ -1263,7 +1263,7 @@
     {
         "title": "Broadcast: Transforming data into knockout visuals",
         "type": "Panel",
-        "description": "",
+        "description": "This session will teach you how to use data to produce interactive graphics that play well in a broadcast story and a digital project. We\u2019ll discuss how projects have been conceived, challenges we encountered and successes achieved to produce data-driven work that can play in both digital and television. The goal is to create a culture that thinks ahead of the curve to make presentations that matter for your audience.",
         "speakers": "Mc Nelly Torres, Josh Hinkle, Cecil Rosner",
         "date": "2017-03-03",
         "time_start": "10:15",
@@ -1341,7 +1341,7 @@
     {
         "title": "Github for journos (repeat session)",
         "type": "Hands-on",
-        "description": "This session will teach you everything you need to know about collaboration on GitHub. We'll use GitHub.com and a user interface to interact with a real life project. You'll walk away feeling empowered to create your own projects, use existing projects, collaborate with colleagues remotely, and exploit coding workflows.",
+        "description": "What is Git? What is GitHub? Why should I care? In this session, we\u2019ll answer these questions and tap into why developers think GitHub is the best collaboration platform in the world. You'll learn how to navigate your way around GitHub.com and use it to find incredible projects.",
         "speakers": "Hector Alfaro",
         "date": "2017-03-03",
         "time_start": "10:15",
@@ -1809,7 +1809,7 @@
     {
         "title": "News games and simulations",
         "type": "Panel",
-        "description": "",
+        "description": "Most forms of Web journalism take long-existing news media formats like video, audio, photographs and transfer them to the Web. We'll instead look at how audiences can engage with news developments and complex policy stories by using games and quizzes as a form of interactive storytelling. Amanda Hickman, the director of BuzzFeed's Open Lab for Journalism, Technology, and the Arts; and Sandeep Junnarkar, the director of Interactive Journalism at the CUNY Graduate School of Journalism, will explore what types of stories lend themselves to game/quiz projects, and then help you conceptualize the basics of building news games and quizzes that make complex policies more accessible to audiences.",
         "speakers": "Amanda Hickman, Sandeep Junnarkar",
         "date": "2017-03-03",
         "time_start": "15:30",
@@ -2017,7 +2017,7 @@
     {
         "title": "Marrying documents and data",
         "type": "Panel",
-        "description": "",
+        "description": "It may feel at times like a chicken-versus-egg style debate in how to approach the incorporation of both data and documents in assembling a solid in-depth project. But learning how to have each play each chunk of information off of one another can really bolster the work. This panel will discuss how they\u2019ve approached this and highlight stories from various publications that relied heavily on both data and documents as an effective strategy to improve reporting, as well as discuss what tools can be used to put together such potent pairings.",
         "speakers": "Steven Rich, Brooke Williams, Francisco Vara-Orta, Tom McGinty",
         "date": "2017-03-04",
         "time_start": "09:00",
@@ -2134,7 +2134,7 @@
     {
         "title": "Behind the scenes: Electionland",
         "type": "Panel",
-        "description": "",
+        "description": "On November 8, 2016, an unprecedented collaboration of journalists, technologists and students worked together to cover the voting experience in America. Using a combination of real-time data, social media and crowdsourcing, Electionland had eyes across the country looking for voting problems, voter intimidation, and yes, even whether the election was rigged. With 1,100 participants, it was the largest journalistic collaboration in history around a single event. How did Electionland come about? How did it work? What lessons can news organizations learn about taking part in -- and hatching -- large-scale collaborations?",
         "speakers": "John Keefe, Scott Klein, Olivia Ma",
         "date": "2017-03-04",
         "time_start": "10:15",
@@ -2304,7 +2304,7 @@
         "title": "Digging through the web",
         "type": "Panel",
         "description": "\"Digging through the web\" is being presented by Gary Price, founder of infoDOCKET.com and Caryn Baird, News Researcher at the Tampa Bay Times. In a fast-paced session, two veteran librarians will share a variety of research techniques and free resources. From backgrounding a person to retrieving an archived multimedia interview to one-click web scraping, this session will give you tools you can put to use immediately.",
-        "speakers": "Caryn Baird, Gary Price",
+        "speakers": "Gary Price,",
         "date": "2017-03-04",
         "time_start": "11:30",
         "time_end": "12:30",
@@ -2342,7 +2342,7 @@
     {
         "title": "Negotiating for the records",
         "type": "Panel",
-        "description": "",
+        "description": "Invest an hour into learning tips, tricks and techniques to effectively negotiate for municipal, state and federal government documents. A panel of veteran investigative reporters and a law firm investigator will offer tips to pry records from reluctant public officials. They\u2019ll tell you how to draft a targeted request, cut your wait time and keep costs down.",
         "speakers": "Maggie Mulvihill, John Bones, Jim Ross",
         "date": "2017-03-04",
         "time_start": "11:30",
@@ -2524,7 +2524,7 @@
     {
         "title": "Investigating bias and influence in criminal justice: Judges and beyond",
         "type": "Panel",
-        "description": "**Moderated by Cheryl Phillips, Stanford University",
+        "description": "Learn how you can track disparities in criminal justice systems and report inequities, from judges that dole out asylum requests based on political affiliation to figuring out how to sift through millions of sentencing records or prison data to find disparate treatment and report out the story.\n\n**Moderated by Cheryl Phillips, Stanford University",
         "speakers": "Cheryl Phillips, Michael Braga, Robert Gebeloff, Barnaby Skinner",
         "date": "2017-03-04",
         "time_start": "14:15",
@@ -2680,7 +2680,7 @@
     {
         "title": "Quick-turn data stories",
         "type": "Panel",
-        "description": "",
+        "description": "Sometimes you get the luxury of time to think about a data-based story \u2013 and sometimes you don\u2019t. Four reporters talk about what they learned from turning a data story around on a tight deadline, how best to prepare for quick turnarounds, and what they\u2019d do differently.",
         "speakers": "Greta Kaul, Dave Sheingold, Patrick Cain, Mark Walker",
         "date": "2017-03-04",
         "time_start": "15:30",
@@ -2797,7 +2797,7 @@
     {
         "title": "Putting your town under a microscope--and keeping it there",
         "type": "Panel",
-        "description": "",
+        "description": "Ever wonder how other journalists manage investigations and the inevitable series of follow-ups that come with them? This panel will discuss practical and technical tips for zooming in to the smallest levels of your beat and monitor every budget line item, census tract or lawsuit you need to report the story -- and how to follow the story to the end.",
         "speakers": "Kate Howard, Matt Kiefer, Andrew Mollica",
         "date": "2017-03-04",
         "time_start": "16:45",
