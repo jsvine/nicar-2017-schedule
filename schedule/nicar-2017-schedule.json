@@ -182,7 +182,7 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3060/"
     },
     {
-        "title": "Security checklist for overseas reporting",
+        "title": "Security tools for journalists",
         "type": "Demo",
         "description": "With new threats posed daily to our ability to communicate with sources securely, maintain trust in our devices and research privately, it can feel impossible to know where to start with protecting your digital security. This demo, led by technologists and educators in the field, aims to teach journalists of any knowledge base how to identify their unique threat model and develop a security protocol \u2014 regarding secure communication, data storage, and browsing \u2014 accordingly. From addressing low-hanging fruit to mitigating sophisticated threats, the tools discussed in this session will introduce journalists to essential concepts in digital security and privacy.",
         "speakers": "Olivia Martin, Mike Tigas",
@@ -1276,7 +1276,7 @@
     {
         "title": "Common foundations for newsroom tools",
         "type": "Panel",
-        "description": "",
+        "description": "How can we build open-source newsroom tools that don\u2019t get hung up on organizational differences? One of the biggest challenges to making tools that work across organizations is handling how different each newsroom can be.\n\nOur panelists have built a number of tools for their newsrooms and others. We'll go over what we learned, how we handled obstacles and suggest some best practices to get as many users as possible. Then we\u2019ll explore what standardizing tools across organizations could mean for newsrooms \u2014 from small to large.",
         "speakers": "Allan James Vestal, Chris Amico, Daniele Palumbo, Casey Miller",
         "date": "2017-03-03",
         "time_start": "10:15",
@@ -1614,7 +1614,7 @@
     {
         "title": "Design track: Interactive design (Sponsored by Society for News Design)",
         "type": "Panel",
-        "description": "What the worst user interface ever can teach you about design.",
+        "description": "You understand the data. You've wrangled the map. You know what the story is. Where does information design come into that process? Design is logic, but like anything else, if no one explains it to you it can be a complete mystery.\n\nJust like learning a few key words when you travel to another country, there are a few design principles that can help you think about how to present your data or how to tighten your design for your reader. We'll look at the worst design ever and I'll share some ways to look at a user interface -- once you know them these ways of LOOKING you'll never be able to unsee them.",
         "speakers": "Sarah Slobin",
         "date": "2017-03-03",
         "time_start": "14:15",
