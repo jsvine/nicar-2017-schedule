@@ -2720,7 +2720,7 @@
         "title": "Advanced analysis in SQL (repeat session)",
         "type": "Hands-on",
         "description": "If you feel comfortable with the Structured Query Language basics that IRE teaches in its boot camps -- SELECT, FROM, WHERE, GROUP BY -- but are ready to see what else SQL can do, this session is for you. We will cover more advanced ways of manipulating and questioning data, such as UPDATE queries, joins, writing sub-queries, and other neat tricks. \u00a0We will use PostgreSQL.",
-        "speakers": "Chris Schnaars",
+        "speakers": "Jacob Fenton",
         "date": "2017-03-04",
         "time_start": "16:45",
         "time_end": "17:45",
