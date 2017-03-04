@@ -1872,27 +1872,27 @@
         "event_url": "https://ire.org/events-and-training/event/2702/2992/"
     },
     {
-        "title": "Philip Meyer Award Presentation",
+        "title": "Philip Meyer Award Presentation & David Donald Remembrance",
         "type": "Special Event",
-        "description": "The presentation of the\u00a02016 Philip Meyer Journalism Awards\u00a0will take place on Friday at the 2017 CAR Conference in Jacksonville. The awards recognize the best uses of social research methods in journalism and are named in honor of Philip Meyer, author of \u201cPrecision Journalism\u201d and retired Knight Chair in Journalism and UNC School of Journalism and Mass Communications.\n\nThree awards are given annually \u2014 a first, second and third place \u2014 to recognize the best work using techniques that are part of precision journalism, computer-assisted reporting and social science research. The awards are: $500 for first, $300 for second, and $200 for third.\n\nFor information on the 2016 Award winners, click here.",
+        "description": "The presentation of the\u00a02016 Philip Meyer Journalism Awards\u00a0will take place on Friday at the 2017 CAR Conference in Jacksonville. The awards recognize the best uses of social research methods in journalism and are named in honor of Philip Meyer, author of \u201cPrecision Journalism\u201d and retired Knight Chair in Journalism and UNC School of Journalism and Mass Communications.\n\nThree awards are given annually \u2014 a first, second and third place \u2014 to recognize the best work using techniques that are part of precision journalism, computer-assisted reporting and social science research. The awards are: $500 for first, $300 for second, and $200 for third.\n\nThen, join us for a brief tribute to former IRE training director and Philip Meyer Award winner David Donald, who passed away December.",
         "speakers": "TBA",
         "date": "2017-03-03",
         "time_start": "18:00",
-        "time_end": "18:15",
-        "length_in_hours": 0.25,
+        "time_end": "18:45",
+        "length_in_hours": 0.75,
         "room": "Conference Center A&B",
         "event_id": "2702/2993",
         "event_url": "https://ire.org/events-and-training/event/2702/2993/"
     },
     {
-        "title": "Philip Meyer Award Reception & David Donald Remembrance",
+        "title": "Philip Meyer Award Reception",
         "type": "Reception",
-        "description": "Join fellow CAR attendees in celebrating the Philip Meyer Award Winners at a reception Friday night with light hor d'oeuvres and a cash bar beginning at 6:15 p.m. in River Terrace 1.\n\nJoin us for a brief tribute to former IRE training director and Philip Meyer Award winner David Donald, who died in December.",
+        "description": "Join fellow CAR attendees in celebrating the Philip Meyer Award Winners at a reception Friday night with light hor d'oeuvres and a cash bar beginning at 6:45 p.m. in River Terrace 1.",
         "speakers": "TBA",
         "date": "2017-03-03",
-        "time_start": "18:15",
+        "time_start": "18:45",
         "time_end": "19:30",
-        "length_in_hours": 1.25,
+        "length_in_hours": 0.75,
         "room": "River Terrace 1",
         "event_id": "2702/2994",
         "event_url": "https://ire.org/events-and-training/event/2702/2994/"
@@ -2613,6 +2613,19 @@
         "event_url": "https://ire.org/events-and-training/event/2702/3085/"
     },
     {
+        "title": "Drugs, drugs, drugs",
+        "type": "Panel",
+        "description": "Learn about the data analysis that revealed possible game-playing by pharmaceutical companies to help keep drug prices high for patients with rare diseases. We will also discuss where to find other drug-related databases.\n\nHear about the technical challenges, logistical hurdles and emotional struggles of telling the life stories of all 216 people who died in a county in one year from heroin-related overdoses. Besides putting a face on the drug crisis, we also put a price tag: $4.1 million a day in Florida alone.",
+        "speakers": "Sydney Lupkin, Mike Stucka",
+        "date": "2017-03-04",
+        "time_start": "15:30",
+        "time_end": "16:30",
+        "length_in_hours": 1.0,
+        "room": "Conference Center A",
+        "event_id": "2702/3037",
+        "event_url": "https://ire.org/events-and-training/event/2702/3037/"
+    },
+    {
         "title": "Earth, wind and fire: Covering disasters from a data perspective",
         "type": "Panel",
         "description": "When disaster strikes, it can turn a newsroom into chaos. Tight deadlines, power loss and harried editors all complicate the already rough waters of navigating a newsroom as a data journalist. This panel will prepare you to weather the storm. \u00a0Panelists will discuss what you need, where to get it and how to rise above the inevitable firestorm that besets a newsroom when the Earth turns the news cycle upside-down. We'll also talk about new ways of presenting those stories through satellite imagery and weather data.",
@@ -2689,19 +2702,6 @@
         "room": "River Terrace 1",
         "event_id": "2702/3043",
         "event_url": "https://ire.org/events-and-training/event/2702/3043/"
-    },
-    {
-        "title": "Self-promotion for the data reporter",
-        "type": "Panel",
-        "description": "Do you struggle to get data projects off the ground because your editor won't give you time? Do you wish you could learn jQuery but keep getting stuck on daily projects? Two battle-tested editors and a freelancer are ready to share their wisdom on how to find gigs, story space, funding or other opportunities to help you be the data reporter you know you can be.",
-        "speakers": "Scott Klein, Samantha Sunne, Chrys Wu",
-        "date": "2017-03-04",
-        "time_start": "15:30",
-        "time_end": "16:30",
-        "length_in_hours": 1.0,
-        "room": "Conference Center A",
-        "event_id": "2702/3037",
-        "event_url": "https://ire.org/events-and-training/event/2702/3037/"
     },
     {
         "title": "Tools to convert lots of PDFs at once",
